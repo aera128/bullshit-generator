@@ -1,0 +1,108 @@
+
+                L'Express a réuni l'économiste Daniel Cohen et le patron du Medef Geoffroy Roux de Bézieux pour un entretien exclusif.
+                
+                    Le premier est le chef de file de l'influente école d'Économie de Paris. Daniel Cohen, essayiste et professeur à l'École Normale Supérieure, vient de publier un livre à grand succès, premier de notre palmarès des essais et documents (Il faut dire que les temps ont changé, Albin Michel, 19 €). Le second est le nouveau "patron des patrons", le président du Medef et serial-entrepreneur Geoffroy Roux de Bézieux. Sur l'évolution de l'économie, ou la toute-puissance des algorithmes, le théoricien et le praticien avaient beaucoup à échanger. L'Express les a réunis pour une joute sans concession.
+                
+                
+                    Ecoutez Geoffroy Roux de Bézieu et Daniel Cohen s'opposer sur le libéralisme, le populisme, les Gafa et les nouvelles technologies (sur Soundcloud).
+                
+                
+                    L'EXPRESS : Les classes moyennes sont-elles les "grandes plumées" de la décennie écoulée ?
+                
+                
+                    Daniel Cohen : Il suffit d'examiner la situation américaine pour prendre la mesure des forces à l'oeuvre. Les Etats-Unis sont le laboratoire des évolutions systémiques du capitalisme contemporain, et nous mettent en garde, nous Européens, contre les dérives qu'il est en train de provoquer. Or, en Amérique, les classes moyennes ont été les grandes perdantes de la transformation des quatre dernières décennies. Le salaire ouvrier masculin a stagné depuis les années 60. Pire : en plus d'un demi-siècle, le revenu médian de l'ensemble de la population n'a enregistré qu'une hausse dérisoire, de 0,2% l'an. Qu'atteste ce chiffre ? Un profond et durable affaissement de la classe moyenne, baptisé "polarisation de l'emploi" par les économistes.
+                
+                
+                    Pourquoi ?
+                
+                
+                    D.C. Parce que la révolution informatique a surtout produit une réorganisation de l'entreprise, en généralisant notamment le recours à la sous-traitance, dont les postes et fonctions intermédiaires ont été les grandes victimes. Ce reengeneering de l'organisation du travail a durablement pénalisé le milieu, c'est-à-dire les classes moyennes.
+                
+                
+                    Geoffroy Roux de Bézieux : L'affaissement que vous décrivez est intervenu à la suite de trois décennies de formidables avancées pour les classes moyennes au cours des Trente Glorieuses. En outre, si je vous rejoins sur le constat du marasme des classes moyennes, ce dernier a été bien plus sensible aux Etats-Unis qu'en Europe, grâce aux "filets de sécurité" que sont nos systèmes de redistribution. Quant au volet managérial de cette révolution, il est incontestable que l'accès à l'information a relativisé l'importance des fonctions intermédiaires longtemps prépondérantes au sein de l'ancienne organisation taylorienne du travail.
+                
+                
+                    Pourquoi, justement, d'après vous?
+                
+                
+                    G.R.D.B. Dans le régime taylorien, l'enjeu était de transmettre les informations. Aujourd'hui, celles-ci circulent librement de façon horizontale, et plus personne, dans l'entreprise, n'en détient le monopole. On est passé à un fonctionnement en réseau, déverticalisé. Nous ne sommes d'ailleurs qu'à l'amorce d'une réorganisation complète de la hiérarchie dans l'entreprise qui sera à l'origine de la création de nouveaux emplois.
+                
+                
+                    D.C. C'est vrai que le monde des Trente Glorieuses avait pour caractéristique essentielle la verticalité. Tous les échelons de l'entreprise, du patron à l'ingénieur et à l'ouvrier, appartenaient à une "même famille"; tissée par une chaîne d'obéissance, contraignante mais très inclusive. La révolution informatique a pulvérisé ce cadre. Et la croissance s'est mise à reposer sur un creusement grandissant des inégalités, tandis que les patrons renonçaient à une habitude ancrée pendant les Trente Glorieuses : n'augmenter leur propre rémunération que si celle de leurs employés pouvait l'être également.
+                
+                
+                    G.R.D.B. Ce modèle de l'entreprise des Trente Glorieuses était, en effet, particulièrement rassurant et inclusif. A 20 ans, un salarié entrait dans une structure professionnelle pérenne et, si ses perspectives d'évolution étaient assez faibles et sa marge d'autonomie, réduite, il pouvait se projeter dans la durée sans crainte. Cet équilibre a disparu sous l'effet des innovations technologiques qui ont raccourci les cycles et la capacité des entreprises à se projeter.
+                
+                
+                    Vous regrettez cette évolution?
+                
+                
+                    G.R.D.B. Il faut se tourner vers l'avenir, sans nostalgie, mais il est incontestable que, pour les actifs en entreprise, la capacité à se projeter dans la durée s'est amenuisée. Aujourd'hui, un cadre à l'entame de sa carrière se prépare mentalement à "zapper" d'une boîte à une autre au gré des opportunités. Concernant l'autre aspect que soulève Daniel Cohen, celui des inégalités, il faut distinguer les disparités de revenus de celles de patrimoine. Thomas Piketty souligne, à raison, la prégnance des inégalités de patrimoine : les revenus de ce dernier ont augmenté beaucoup plus vite que ceux du travail. En ce qui concerne les inégalités de revenus, j'éviterais de réduire le groupe des fameux "1%" aux seuls dirigeants - et j'inclurais aussi l'ensemble des experts qui les entourent et les conseillent, mais il peut aussi s'agir de grands sportifs, de professions libérales ou d'artistes. J'ajoute que, dans un pays comme la France, le taux élevé de la pression fiscale peut avoir un effet décourageant sur les talents. Or, à l'encontre de la vulgate hyperégalitariste, un certain niveau d'inégalités peut-être bénéfique. Il est sain, lorsqu'on entreprend, de voir son audace et son talent recompensés.
+                
+                
+                    D.C. Au début du XXe siècle, le banquier John Pierpont Morgan plaidait, lui, pour un ratio de 1 à 20 entre le plus haut et le plus bas salaire dans une entreprise. On s'en est considérablement éloigné!
+                
+                
+                    G.R.D.B. En effet, dans les entreprises cotées ce ratio a énormément augmenté. Mais le bon niveau d'équité est difficile à évaluer : pour moi, c'est celui qui est globalement accepté de façon consensuelle par les parties prenantes d'une entreprise. Je me méfie du jugement moral et lui préfère le jugement d'efficacité. La morale et l'économie relèvent de deux logiques distinctes.
+                
+                
+                    D.C. Aux Etats-Unis, là encore, l'acceptabilité sociale des disparités de revenus a été obtenue au forceps. Par le recours à la sous-traitance, les entreprises se sont en partie caché à elles-mêmes la pression inégalitaire qu'elles exerçaient sur l'ensemble de la société. Et pourtant, les chiffres sont parlants : le "1%" le plus riche, depuis les années 80, a doublé sa part du revenu national (de 10 à 20 %) ; au cours de la même période, les 50 % les plus pauvres ont fait, eux, le chemin inverse et sont passés de 20 à 10 %.
+                
+                
+                    G.R.D.B. En Europe, la situation est très différente à cause de la fiscalité. Il y a certainement un juste milieu à trouver. D'ailleurs à la fin du XIXe siècle, la concentration des richesses devait être supérieure...
+                
+                
+                    D.C. Avouez que ce n'est pas rassurant ! Nous voici revenus aux statistiques du XIXe siècle...
+                
+                
+                    Le "ruissellement" - le fameux trickle down - existe-t-il ? Ou est-il un mirage néolibéral ?
+                
+                
+                    G.R.D.B. Ces retombées positives existent, bien sûr, mais elles ne suffisent pas, c'est certain, à créer une prospérité partagée. Il faut effectivement trouver ce que j'appellerai le niveau d'inégalité efficace : si les Etats-Unis de Donald Trump ont peut-être atteint un niveau d'inégalité inefficace, la Suède des années 70 était à un niveau d'égalité trop élevé pour récompenser le risque et les talents.
+                
+                
+                    D.C. Assurément ! Mais vous exonérez un peu vite la révolution conservatrice des années 1980, dont le fameux "ruissellement" était la pierre angulaire. Il faut quand même se remémorer les discours tenus à l'époque. Le premier secrétaire au Budget de Reagan, David Stockman, vendait la mèche en disant que le "ruissellement" était une astuce pour rendre acceptables de purs et simples cadeaux fiscaux aux hyper-riches ! Curieux moment, où l'on remettait à la mode les théories de Max Weber, avec son éthique du travail, de l'effort et de l'ascèse. L'illusion contenue dans cette promesse apparaît enfin en pleine lumière.
+                
+                
+                    L'idée selon laquelle les Gafam (Google, Apple, Facebook, Amazon, Microsoft) seraient devenus trop gros, trop puissants, jusqu'à menacer nos démocraties, se répand. Faut-il les encadrer, les démanteler et, surtout, en avons-nous les moyens ?
+                
+                
+                    G.R.D.B. Effectivement, la puissance des Gafam - mais on pourrait aussi rajouter Twitter, ou les équivalents chinois - inquiète. Pour deux raisons. D'abord, par leur surface financière. Ensuite, par leur capacité à manipuler l'information, dans le cas très particulier de Facebook, Google et Twitter. Mais revenons sur la question purement économique. Le rêve de tout entrepreneur, de tout capitaliste, c'est de constituer un monopole. Il incombe donc au régulateur de s'assurer que la concurrence reste saine. Evidemment, on a connu de telles situations monopolistiques dans le passé, avec la Standard Oil au début du XXe siècle par exemple. Mais aujourd'hui, la domination des géants du numérique est amplifiée par le facteur particulier de la technologie Internet qui donne une prime grandissante aux vainqueurs. Il faut donc revoir de fond en comble le droit de la concurrence au niveau mondial. Avec un bémol, cependant : il faut être très conscient que dans la tech, ce qui est vrai aujourd'hui ne le sera peut-être plus dans dix ans. Regardez le nombre spectaculaire de désinscriptions à Facebook aux Etats-Unis ! Enfin, la puissance d'un pays se traduit par sa capacité à imposer ses choix technologiques au reste du monde. Il y a un risque que l'Europe soit sortie de l'Histoire.
+                
+                
+                    Va-t-on demain vers une Chine maîtresse des normes?
+                
+                
+                    D.C. Evidemment, je ne sais pas où en sera Facebook dans dix ans et, vous avez raison, les empires industriels se défont très vite. Cependant, leur puissance devient irrépressible. On a célébré récemment les 1000 milliards de dollars de capitalisation boursière d'Amazon, qui rejoint ainsi Apple. À elles deux, ces entreprises ont une valeur qui dépasse le PIB de la France. C'est inouï ! Dans le monde numérique, la logique des rendements d'échelle est telle que "the winner takes all", le vainqueur rafle tout. Une statistique est fascinante : Quand on prend les 100 plus grosses entreprises aux Etats-Unis, leur part de marché dans la valeur ajoutée totale était d'un tiers il y a trente ans, elle est aujourd'hui de 50 %.
+                
+                
+                    La solution à l'hyperpuissance est-elle seulement un toilettage du droit de la concurrence ?
+                
+                
+                    D.C. Bien sûr que non ! Comme on l'a dit, les autorités de la concurrence doivent repenser leur modèle. Comprendre les cas où le jeu est ouvert et ceux où il ne l'est plus. Du point de vue des Etats, il faut d'urgence repenser la question fiscale, la façon de taxer ces entreprises qui se jouent en permanence des trous des filets. Dans le domaine citoyen, enfin, il faut faire très attention au modèle de société que proposent ces Gafam. Sans sombrer dans le catastrophisme, des modèles illibéraux se mettent en place, dont l'exemple le plus frappant vient de la Chine, qui prévoit d'ici à 2020 de donner un score à chaque citoyen, comme les étoiles sur Uber ou Tripadvisor.
+                
+                
+                    G.R.D.B. La vraie différence entre nous, c'est que je suis un libéral optimiste et vous un social-démocrate pessimiste [rires]. Comme il ne faut pas jeter la révolution conservatrice avec l'eau du bain, il ne faut pas jeter un opprobre, trop systématique, trop "punitif", sur la révolution numérique et ses géants. A mon sens, parmi les Gafam, la seule entreprise à poser réellement un problème, c'est Google. Car vous pouvez toujours faire vos courses ailleurs que chez Amazon. C'est nettement plus difficile de se passer de l'efficacité de Google.
+                
+                
+                    Je crois cependant au bon sens humain et à la liberté individuelle. A un moment, il y aura des formes de rejet, de protestations qui sont consubstantielles de la vie démocratique. Toutes les révolutions technologiques ont leur part d'ombre. Prenons la médecine prédictive. On voit bien que les data-scientists mettent fin, d'une certaine façon, au serment d'Hippocrate. Lorsque le médecin saura que le malade qu'il a en face de lui n'a plus que "statistiquement" deux ans et quelques jours à vivre car des milliards de données sur des tumeurs équivalentes auront été analysées, pourquoi continuer à vouloir le soigner et le guérir ? Au-delà du progrès indéniable apporté par la médecine prédictive en matière de prévention, les questions éthiques sont immenses. C'est le côté Janus de la technologie. Mais je fais confiance à l'économie de marché pour se réinventer et trouver une forme d'équilibre.
+                
+                
+                    Le système peut-il s'amender ?
+                
+                
+                    D.C. Pour moi, pas du tout ! L'histoire nous montre même le contraire. C'est Roosevelt qui, face à la gravité de la crise des années 1930, invente un nouveau modèle. De même, c'est le collapsus de la Seconde Guerre mondiale qui mène à poser les bases d'un État-providence par la suite. Pourquoi la situation est-elle différente aujourd'hui et à mon sens plus inquiétante ? Parce que la surveillance n'est pas une scorie accidentelle, elle est consubstantielle au système. Son but, c'est de transformer l'humain en un système d'informations pour gagner du rendement.
+                
+                
+                    G.R.D.B. Vous ne regardez que la version punitive de l'histoire. L'optimisation, l'efficacité, ne sont pas la surveillance.
+                
+                
+                    Le revenu universel peut-il devenir la variable d'ajustement ?
+                
+                
+                    G.R.D.B. Votre question renvoie à celle de la fin du travail. Je n'y crois pas du tout. Il ne me semble pas que nous allions vers une civilisation de l'oisiveté forcée. Tout simplement parce que le travail fait partie de l'être humain, de son désir de réalisation. C'est pourquoi je ne peux évidemment pas défendre l'idée d'un revenu universel qui prendrait la forme d'une allocation versée de la naissance à la mort quelles que soient ses ressources. C'est un projet utopique.
+                
+                
+                    D.C. Le revenu universel, ou revenu de base dans une version plus réaliste, permet de lutter contre la montée des précarités. Aucune des expériences menées à ce jour ne permet de montrer qu'il décourage de travailler. Il y a aujourd'hui deux futurs possibles et je ne suis pas capable de parier sur l'un ou l'autre. Le premier, c'est finalement la poursuite de ce qui s'est écrit depuis trente ans : toute la valeur est captée par les individus en haut de la chaîne numérique. L'autre modèle est celui où les nouvelles technologies vont rendre productives les classes moyennes, en offrant par exemple aux aides-soignants les moyens d'une efficacité accrue, où l'intelligence artificielle vient en complément du travail. Le grand remplacement n'est pas écrit.
+                
+            

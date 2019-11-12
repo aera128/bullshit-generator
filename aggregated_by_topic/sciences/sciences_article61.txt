@@ -1,0 +1,38 @@
+
+                L'industriel de l'armement Nexter travaille sur une technologie capable de rendre les véhicules militaires très discrets.
+                
+                    Au cinéma, Harry Potter utilise sa cape d'invisibilité pour se déplacer sans être vu à l'intérieur de son école de magie. Dans la vraie vie, l'industriel de l'armement Nexter travaille lui aussi sur une sorte de manteau capable de rendre les véhicules militaires très discrets. Ce projet initié par la Direction générale de l'armement (DGA) date de 2012 mais pour la première fois, Nexter expose sa technologie à l'occasion du Forum Innovation Défense qui se déroule du 22 ou 24 novembre à Paris.
+                
+                
+                    Le désert malien n'est pas le désert afghan
+                    "Ces dernières décennies, le camouflage des véhicules a été amélioré explique un porte-parole de la société. Cependant, il est loin d'être parfait". Actuellement, les peintures appliquées sont fixes : noir, brun et du vert pour un environnement de type européen ; blanc et noir pour un secteur neigeux ; brun et jaune pour des zones désertiques.
+                
+                
+                    Or ces couleurs passe-partout manquent souvent d'efficacité pour des raisons évidentes : le désert malien par exemple ne ressemble pas au désert afghan. De même, au sein d'un même environnement, il existe parfois de fortes différences de paysages (lorsque l'on passe d'un champ à une forêt par exemple).
+                
+                
+                    Actuellement, il n'existe pas de solution permettant de passer efficacement d'une zone à l'autre. Pis, il faut près de quinze jours pour réaliser la peinture d'un véhicule, confie un expert. Ce long temps d'immobilisation conduit parfois certains blindés à se retrouver sur le terrain avec le mauvais camouflage !
+                
+                
+                    Nexter planche donc sur un système adaptatif capable d'épouser en permanence les couleurs de l'environnement et même de réduire la signature thermique des véhicules. Celui-ci se compose de trois parties. Tout d'abord, des capteurs placés autour du véhicule repèrent les couleurs aux alentours.
+                
+                
+                    Ils envoient ces informations à un calculateur qui fait tourner un algorithme. Ce programme choisit le camouflage le plus adapté pour la peau caméléon qui recouvre le véhicule. Celle-ci est constituée de tuiles connectées divisées en pixels capables d'afficher huit couleurs : rouge, bleu, vert, cyan, magenta, jaune, noir et blanc. Difficile de savoir s'il s'agit de cristaux liquides ou diodes électroluminescentes. Nexter ne souhaite pas divulguer ses petits secrets.
+                
+                
+                    Indétectable aux infrarouges
+                    "Ce système, qui permet de fondre le véhicule blindé dans le paysage quel que soit l'angle de vue, s'adapte à la lumière ambiante", précise cependant un représentant de la société. Ainsi, lorsqu'il fait nuit, la peau caméléon ne brille pas. Mieux, le camouflage développé par Nexter est capable de réduire la signature infrarouge perçue par les caméras ennemies.
+                
+                
+                    Les capteurs établissent une carte thermique du véhicule et l'ordinateur calcule la correction nécessaire à appliquer sur la peau. "On joue sur la réflectivité des matériaux", explique un expert sans en dévoiler davantage. Les concurrents font de même. BAE Systems dévoilait ainsi dès 2011 une vidéo impressionnante dans laquelle un tank échappait complètement aux caméras infrarouge.
+                
+                
+                    Nexter tient cependant à se démarquer par son côté pragmatique : pas question de développer une technologie dispendieuse, dont le coût dépasserait celui du char. Les besoins énergétiques de la peau caméléon sont donc relativement faibles. Les batteries des véhicules suffisent pour l'alimenter en énergie. Ce camouflage du futur ne verra quand même pas le jour tout de suite. Il reste encore beaucoup de travail avant de passer du laboratoire à de véritables tests sur des véhicules. L'entreprise prévoit de développer un système de grande taille dans deux ou trois ans.
+                
+                
+                    En attendant, le groupe franco-allemand expose son démonstrateur à échelle réduite (1/15) sur les salons. Celui-ci capte déjà très bien les couleurs qui défilent sur une petite paroi derrière lui et adapte son camouflage en conséquence. Sur son stand, Nexter montre également des images d'une forêt dans laquelle le démonstrateur a été placé.
+                
+                
+                    A une distance de 70 mètres, il est quasiment impossible de le détecter à l'oeil nu. "On considère que la distance d'engagement pour un tank, c'est 300 mètres. Si grâce au camouflage, le blindé n'est détecté qu'à 100 mètres, ce sera un gain énorme", explique un expert. La guerre du camouflage a commencé.
+                
+            

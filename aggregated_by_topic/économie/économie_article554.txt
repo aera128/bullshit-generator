@@ -1,0 +1,25 @@
+
+                Personne ne peut plus lui échapper, et pourtant elle échappe largement à tout le monde: faut-il se méfier de l'intelligence artificielle?
+                
+                    Elle est déjà partout et ce n'est qu'un début: l'intelligence artificielle, ce mélange de puissance de calcul et de gigantesques bases de données, va nous devenir aussi indispensables que le moteur à essence - plus indispensable disent les plus acharnés. Elle pilotera bientôt nos voitures, répond déjà à nos questions sur nos smartphones et gérera sans doute notre maison, demain. Elle sert aussi à des buts moins louables, comme la surveillance généralisée ou la "notation sociale", mise en place en Chine. Cette semaine, L'Express fait la part du bon grain et de l'ivraie. Bruno D. Cot et Sébastien Julian, notamment, s'y sont collés. Ils répondent à nos questions.
+                
+                
+                    Nous avons posé ces questions à Sébastien Julian et Bruno D. Cot
+                    Quand on me parle d'intelligence artificielle, je ne peux m'empêcher de penser à Minority Report, le film de Spielberg, à Big Brother, bien sûr, aux Robots, cette série de romans de l'auteur de Sciences-fictions Isaac Asimov, à Black Mirror, la formidable et terrifiante série d'anticipation de Netflix, ou alors, plus ancré dans le réel, dans l'actualité, à la victoire d'AlphaGo, un programme signé Google, sur le champion de monde de jeu de go, au premier accident mortel d'une voiture autonome ou aux agissements coupables de Cambridge Analytica, cette société qui en manipulant des données personnelles volées à Facebook aurait contribué à la victoire de Donald Trump aux Etats-Unis.
+                
+                
+                    Et puis on lit le dossier que L'Express consacre cette semaine à l'IA, et on ajoute des questions aux questions, de l'inquiétude à l'inquiétude, malgré, ou à cause des bonnes feuilles, des extraits du dernier livre de Laurent Alexandre sur l'intelligence artificielle, qu'il cosigne avec Jean-François Copé, maire de Meaux et leader marginalisé des Républicains. L'intelligence artificielle, on en parle. Sébastien, tu écris qu'elle "s'apprête, comme Internet en son temps, à bouleverser notre quotidien". En quoi ?
+                
+                
+                    "Défi vertigineux" : pour l'économie, pour nos sociétés, pour la science. Qu'est-ce qu'elle change dans ces trois domaines ?
+                
+                
+                    L'intelligence artificielle pose des questions éthiques. Dont celle-ci : le jour où une voiture autonome devra choisir entre écraser deux piétons, lequel choisira-t-elle, et selon quelles règles ?
+                
+                
+                    Le défi scientifique : comment garder le contrôle, sur des intelligences dont on se dit qu'elles finiront par nous surpasser. C'est là que les réponses sont les plus optimistes...
+                
+                
+                    Face à Jean-François Copé, Laurent Alexandre stigmatise "la nullité technologique des politiciens". Il a raison ? Les politiques sont largués ?
+                
+            

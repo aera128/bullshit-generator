@@ -1,0 +1,51 @@
+
+                Plusieurs pays utilisent déjà les réseaux sociaux pour en extraire des données fiscales. Demain, la même chose en France?
+                
+                    L'annonce vient de Gérald Darmanin lui-même. L'administration fiscale française va bientôt expérimenter la surveillance des réseaux sociaux pour lutter contre la fraude, a annoncé le ministre de l'Action et des comptes publics dans l'émission Capital, dimanche sur M6.
+                
+                
+                    Si les contours de cette initiative n'ont pas encore été détaillés, l'idée du fisc est simple: scruter votre activité numérique pour déceler d'éventuelles inadéquations entre votre niveau de vie et vos revenus. L'expérimentation, inédite en France, doit encore être validée par la Cnil, à en croire France info.
+                
+                
+                    Si, à l'étranger, il ne semble pas exister de mesure exactement similaire, certains pays se servent déjà des réseaux sociaux pour en savoir plus sur leurs concitoyens et notamment concernant leur profil de contribuable.
+                
+                
+                    Au Royaume-Uni, la "loi des fouineurs"
+                    L'entrée en vigueur de l'Investigatory Powers Act en 2017 octroie des pouvoirs sans précédent de surveillance des données numériques à de nombreuses administrations britanniques. Cette loi surnommée "Snoopers' Charter" [la loi des fouineurs] et initialement créée pour lutter contre le terrorisme, permet aux ministères de l'Intérieur, de la Défense, de la Justice et aux services de renseignement, de conserver et de consulter l'historique internet des citoyens pendant un an.
+                
+                
+                    Mais d'autres entités, telles que le département des transport, la commission des jeux, la "serious fraud office" (qui enquête sur des fraudes fiscales qui concernent des sommes supérieures à un million de livres sterling), le service de "Recettes et douanes de Sa majesté ", le département du travail et des pensions, ou encore le ministère de l'Economie d'Irlande du Nord, ont aussi accès à ces historiques.
+                
+                
+                    "L'argument majeur de cette loi a été la lutte contre le terrorisme, mais le gouvernement n'a jamais été capable d'expliquer pourquoi un cadre supérieur travaillant, par exemple, pour les services de fraudes au ministère du Travail prendrait activement part à la lutte contre le terrorisme", dénonçait dès 2017 le site spécialisé Tech Crunch.
+                
+                
+                    Aux États-Unis, des "notes de crédit"
+                    L'Etat américain ne se penche pas - officiellement en tout cas - de façon directe sur les profils numériques de ses contribuables, mais cette surveillance se fait par la voie d'organismes de crédit. Dont les données sont ensuite rendues accessibles à certaines agences gouvernementales.
+                
+                
+                    Tous les Américains souhaitant faire un emprunt auprès de leur banque doivent passer par la case "note de crédit". Cette note, qui définit leur solvabilité, est élaborée par des agences spécialisées, selon des calculs plus ou moins opaques. Elles ont notamment accès à leurs relevés bancaires, afin de déterminer si l'emprunteur potentiel est capable de payer ses factures et de rembourser ses créances.
+                
+                
+                    Depuis quelques années, ces agences ont aussi, pour certaines, recourt aux profils numériques de ces Américains. "De plus en plus de sociétés de crédit extraient de Facebook, Twitter et d'autres sites des données afin de les aider à déterminer la solvabilité ou l'identité d'un emprunteur", s'inquiétait dès 2014 le Wall Street Journal.Le directeur général de l'une de ces agences a par ailleurs déclaré dans les pages du Financial Times en 2015 : "Si vous regardez le nombre de fois où une personne écrit 'bourré' sur son profil, cela peut nous permettre de prévoir à quel point elle sera capable de rembourser sa dette".
+                
+                
+                    Or, certaines administrations gouvernementales ont ensuite accès à ces "notes de crédit", notamment pour déterminer la véracité de déclarations liées à des demandes d'aides sociales.
+                
+                
+                    En 2014, des publications de victimes du 11 septembre 2001 sur les réseaux sociaux avaient servi de preuve pour mettre à jour une escroquerie à l'assurance invalidité. Deux policiers new-yorkais à la retraite s'étaient par exemple trahis en postant des images d'eux en pleine santé en vacances, alors qu'ils avaient touché de 80 000 à 176 000 dollars d'indemnités, en invoquant un stress post-traumatique lié à l'attentat, relate le site Le Temps.
+                
+                
+                    En Chine, une surveillance et des sanctions
+                    La surveillance des Chinois sur les réseaux sociaux se généralise, et pas seulement dans le domaine de la fiscalité. D'ici 2020, Pékin, qui ne s'embarrasse pas des principes de protection des données, a pour projet de mettre en place une notation de l'intégralité de ses citoyens. Les individus surendettés se trouvent déjà sur une liste noire et accessibles à des sanctions.
+                
+                
+                    Ce "système de crédit social" - aux allures de scénario de la série d'anticipation Black Mirror et dont la mise en place a débuté dès 2014 - devrait notamment utiliser des données liées aux habitudes de consommation des Chinois, transmises par des grandes entreprises telle que Alibaba. Mais aussi plus généralement des données reflétant leurs activités sur les réseaux sociaux.
+                
+                
+                    Avec des sanctions à la clé pour ceux considérés comme des "mauvais citoyens". Comme le rapporte le quotidien chinois The Global Times, dès la fin du mois d'avril, les Chinois les plus mal notés s'étaient déjà vu interdire plus de 11 millions de vols et 4 millions de trajets en train.
+                
+                
+                    A terme, ces sanctions pourraient couvrir de nombreux domaines de leur existence, telles que des refus de promotion ou d'accès à une meilleure école pour leur enfant. Toujours selon le Global Times, l'ancien directeur du centre de recherche du Conseil d'Etat chinois a assuré que le but de ce "système de crédit social" était que les "personnes discréditées se retrouvent en faillite".
+                
+            

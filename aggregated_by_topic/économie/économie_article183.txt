@@ -1,0 +1,22 @@
+
+                Après des années de R&D, Samsung et Royole viennent enfin de présenter leur modèle de téléphone à écran flexible.
+                
+                    Paradoxe : alors que la miniaturisation des composants ne cesse de progresser, la taille de nos smartphones, elle, augmente d'année en année. D'ici à 2021, les ventes de téléphones mobiles à écrans larges pourraient dépasser celles des appareils de dimension normale, pronostiquent déjà les experts de Samsung. Pour les constructeurs, ce basculement pose un véritable défi car plus l'écran s'étire pour accroître le confort de lecture, plus il devient encombrant, empêchant par exemple le smartphone de glisser dans la poche d'une veste ou d'un pantalon.
+                
+                
+                    De fait, pour offrir la meilleure expérience visuelle sans sacrifier la portabilité, les constructeurs se tournent vers les technologies pliables. Le constructeur chinois Royole a été le premier à dégainer son produit, le 5 novembre. Son FlexPai ressemble à un portefeuille dont la couverture et le dos ont été remplacés par une interface tactile. Lorsque l'appareil est déplié, les deux parties de l'écran fusionnent, offrant alors un confort visuel très proche de celui d'une tablette.
+                
+                
+                    Derrière ce concept simple se cache une vraie prouesse technique. "Pour fabriquer un écran flexible, pas moins de 10 000 opérations sont nécessaires. De très nombreuses couches s'empilent, dont certaines ne dépassent pas un nanomètre d'épaisseur !" confie-t-on du côté de Royole. Certes, on n'en est pas encore à commercialiser des écrans entièrement souples. Pour l'heure, les constructeurs s'arrangent pour que les composants les plus rigides - la batterie, par exemple - ne se retrouve pas dans la pliure de l'écran. Il n'empêche, les progrès effectués ces trois dernières années par l'électronique flexible sont spectaculaires.
+                
+                
+                    Immenses défis techniques
+                    Samsung vient par exemple de dévoiler son smartphone pliable à l'occasion d'une conférence dédiée aux développeurs. Dans ce téléphone, le verre protecteur de l'écran a été remplacé par des couches de polymères beaucoup plus souples. La course à la flexibilité oblige également le groupe coréen à innover en matière de produit adhésif : celui-ci assure la connectivité des composants situés sur la pliure du téléphone, même si celle-ci est actionnée plusieurs centaines de milliers de fois !
+                
+                
+                    La production du Smartphone pliable de Samsung devrait démarrer dans quelques mois. "C'est une date importante", explique Justin Denison, en charge du marketing mobile. Mais l'expert sait bien que l'électronique flexible n'en est qu'à ses débuts. Samsung, comme d'autres constructeurs, travaillent en coulisses sur des écrans complètement souples, dont les composants - du graphène ou des diodes électroluminescentes organiques (Oled) - pourraient être, à terme, imprimés. Cela pose d'immenses défis techniques.
+                
+                
+                    Du côté de la batterie par exemple : comment obtenir un rendement énergétique suffisant pour alimenter un smartphone de dernière génération à partir d'éléments complètement plats ? De même, la fiabilité des matériaux entièrement souples doit encore être améliorée. Comment parviendront-ils à se tordre dans tous les sens sans se casser ni interrompre la connectivité ? Pour l'instant, les chercheurs n'ont pas la réponse. Mais gageons que dans les mois qui viennent, ils se plieront en quatre pour la trouver.
+                
+            

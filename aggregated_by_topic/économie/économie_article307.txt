@@ -1,0 +1,54 @@
+
+                L'application fournit en direct le taux d'occupation et le temps d'attente dans les établissements publics.
+                
+                    Mieux vaut ne pas y penser : selon de très sérieux calculs, nous passerions en moyenne six mois de notre vie à poireauter dans des files d'attente. Un temps précieux qu'Affluences propose d'économiser, en révélant si l'endroit où vous comptez vous rendre est plus ou moins bondé. L'application -gratuite et sans publicité- donne en temps réel le taux d'occupation, et donc l'attente estimée, pour plus de 400 institutions (bibliothèques, musées, monuments historiques, centres administratifs...) situées dans une trentaine de villes à travers la France, ainsi qu'à l'étranger (Allemagne, Espagne, Belgique, Italie).
+                
+                
+                    Le secret de cette petite prouesse ? La start-up installe des capteurs dans les bâtiments qui décomptent toutes les entrées et les sorties. En se fondant sur la capacité de l'espace public (la salle de lecture d'une bibliothèque ou la taille d'un musée), un algorithme calcule alors le taux d'occupation.
+                
+                
+                    Près de 400 000 utilisateurs
+                    L'appli, qui a vu le jour en 2014, a d'abord été pensée pour les étudiants peinant à trouver un endroit calme et surtout libre pour réviser en période d'examens. Mais ses concepteurs ont décidé d'en faire profiter le grand public en élargissant progressivement leurs services aux musées, aux piscines et même aux plages marseillaises.
+                
+                
+                    A l'origine de ce projet totalement autofinancé, Paul Bouzol, diplômé de Mines-Télécom Lille Douai, rejoint dans son aventure par deux de ses amis : Micaël Pais Novo et Grégoire Tabard. "On a l'ambition de ne plus faire attendre personne, plaisante le jeune trentenaire. On n'arrivera bien évidemment jamais à effacer toutes les queues, mais informer les gens sur le temps qu'il leur reste avant de rentrer permet de rendre l'attente plus supportable et de mieux s'y préparer psychologiquement."
+                
+                
+                    Comment la start-up gagne-t-elle de l'argent si son appli est gratuite? En vendant son algorithme aux institutions qui souhaitent faire bénéficier leurs usagers de ce nouveau service. L'application, qui compte déjà 400 000 utilisateurs, devrait enregistrer un chiffre d'affaires d'un million d'euros en 2018, et compte rapidement se lancer dans d'autres pays.
+                
+                
+                    Paul Bouzol du tac au tac
+                    Votre aventure a commencé dans une institution bien connue des étudiants parisiens, la Bibliothèque du Centre Pompidou (BPI)?
+                
+                
+                    Etudiant, j'étais effaré par la longueur des files d'attente aux portes de cette bibliothèque. Un jour, j'ai donc pris mon prototype sous le bras et j'ai proposé mes services à l'administration. Ils ont accepté de tester l'appli, cela nous a permis d'aller démarcher d'autres institutions.
+                
+                
+                    Financièrement, vous avez fait comment pour vous lancer ?
+                
+                
+                    Cela a été ric-rac : j'ai débuté avec un capital de 5000 euros, soit l'équivalent de mes économies personnelles que j'avais mises de côté durant mon précédent emploi dans le secteur du conseil. A nos débuts, il arrivait qu'on ne se paye pas en fin de mois.
+                
+                
+                    Après les bibliothèques et les musées, pourquoi les plages?
+                
+                
+                    Tout simplement car nous avons été contactés par les mairies pour donner les informations sur leurs "stations balnéaires". C'est utile pour éviter les plages bondées et profiter d'un rivage désert à 19 heures.
+                
+                
+                    Les files d'attente, c'est un mal français?
+                
+                
+                    Maintenant que nous signons des partenariats à l'étranger, ce serait une bonne idée de comparer les temps d'attente dans les différents pays !
+                
+                
+                    Affluences en trois chiffres
+                    400 000 utilisateurs
+                
+                
+                    400 partenaires
+                
+                
+                    22 employés
+                
+            

@@ -1,0 +1,30 @@
+
+                Une équipe de l'Institut Pasteur a trouvé comment vaincre les "réservoirs" où le VIH reste tapi malgré les antirétroviraux.
+                
+                    C'est le Graal de tous les spécialistes du SIDA - et des personnes séropositives : réussir à débusquer le virus jusque dans les cellules de l'immunité, où il peut rester à l'état latent malgré les traitements antirétroviraux. Une équipe de l'Institut Pasteur, dirigée par le chercheur Asier Saez-Cirion, y est parvenu, en s'attaquant non pas au VIH lui-même, mais à ces cellules dites "réservoir". Des premiers résultats, publiés aujourd'hui dans la revue Cell Metabolism, qui laissent entrevoir une piste vers une possible rémission. Explications.
+                
+                
+                    L'Express : Pourquoi n'arrive-t-on pas aujourd'hui à guérir les patients infectés par le VIH ?
+                
+                
+                    Asier Saez-Cirion : Les traitements antirétroviraux bloquent très efficacement la multiplication du virus VIH qui, sinon, provoque le syndrome d'immunodéficience acquise (sida). Mais ces médicaments ne parviennent pas à éradiquer totalement le virus, qui a la capacité d'aller se dissimuler dans certaines cellules du système immunitaire, les lymphocytes T CD4, que l'on appelle également cellules réservoir. En cas d'interruption du traitement, le virus peut recommencer à se répliquer à partir de ces cellules.
+                
+                
+                    Qu'avez-vous découvert de particulier à propos de ces réservoirs ?
+                
+                
+                    Il a été démontré voila déjà plusieurs années que tous les lymphocytes T CD4 circulant dans l'organisme n'abritent pas forcément le VIH. Nous nous sommes donc demandé si les cellules infectées avaient des caractéristiques particulières. Et il s'est avéré que c'était bien le cas. Le virus privilégie les lymphocytes ayant l'activité métabolique la plus importante, c'est-à-dire celles qui consomment le plus de glucose. C'est assez logique, en fait : les virus sont des particules très simples, qui ne peuvent pas se multiplier en dehors de ces cellules, car ils n'ont pas de ressources propres. Dans ces lymphocytes à activité énergétique élevée, il va trouver tous les éléments nécessaires à sa réplication, comme à sa survie à l'état latent.
+                
+                
+                    C'est la faille dans laquelle vous vous êtes engouffré ?
+                
+                
+                    Tout à fait. Ces cellules réservoir ont un profil de consommation énergétique assez similaire à celui d'une cellule cancéreuse. Or il se trouve que des traitements contre le cancer développés récemment agissent en inhibant cette activité métabolique. Nous avons donc testé ces molécules innovantes sur des cellules de donneurs séropositifs, et nous avons constaté que cela permettait d'empêcher la multiplication du virus à partir des réservoirs.
+                
+                
+                    Cela ouvre-t-il la voie à une possible guérison complète des patients infectés ?
+                
+                
+                    Nous cherchons encore la combinaison de molécules permettant d'obtenir les meilleurs résultats, tout en évitant les effets délétères sur d'autres types de cellules qui pourraient être sensibles à ces médicaments. Mais en laboratoire en tout cas, l'efficacité est bien au rendez-vous et nous espérons pouvoir passer à des essais précliniques d'ici deux à trois ans, et à une preuve de concept sur de petits groupes de patients bien suivis dans les cinq ans. Les molécules auxquelles nous recourons étant déjà en test dans la lutte contre le cancer, cela pourrait faciliter le processus, même s'il faudra encore plusieurs années avant de pouvoir lancer un essai clinique à grande échelle.
+                
+            

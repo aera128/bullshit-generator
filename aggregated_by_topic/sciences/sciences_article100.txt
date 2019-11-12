@@ -1,0 +1,27 @@
+
+                [ILS INNOVENT POUR LA SANTÉ 4/4] Son programme inspiré des simulateurs de vol permet d'acquérir les techniques chirurgicales.
+                
+                    Issue d'une famille de scientifiques, Jérémie Allard est attiré très tôt par les nouvelles technologies. Devenu docteur en informatique, il se spécialise dans la réalité virtuelle, collabore à Boston avec l'université d'Harvard pour développer des programmes d'entraînement destinés aux médecins. De retour en France, il est recruté par l'Inria à Lille où il va monter une équipe consacrée à la simulation médicale. Au début des années 2000, constatant que de plus en plus d'entreprises manifestent un intérêt pour leur programme, il décide de créer une start-up avec son collègue Pierre-Jean Bensoussan, baptisée InSimo.
+                
+                
+                    Dès son lancement, InSimo remporte un appel d'offre lancé par la fondation HelpMeSee. Mission : créer un simulateur afin d'apprendre à des dizaines de milliers de chirurgiens installés dans des pays en développement à opérer des personnes mal voyantes. Livrée en 2017, la première version de l'outil est inspirée des simulateurs de vols destinés aux futurs pilotes d'avion et vise à former les chirurgiens à des techniques qui leurs seraient autrement inaccessibles. En clair, il s'agit de simuler un organe ou un élément du corps humain et d'inviter le praticien à insérer un instrument de façon virtuelle pour effectuer l'opération.
+                
+                
+                    Display, la nouvelle application d'InSimo, permet aux chirurgiens de prévoir, en amont d'une opération réelle, ses conséquences.
+                
+                
+                    A voir aussi dans la série : "Ils innovent pour la santé" :
+                
+                
+                    Vincent Callebaud : architecte, il dessine des tours végétales;
+                
+                
+                    Hugo Mercier : il a inventé un bandeau pour un meilleur sommeil
+                
+                
+                    Anne Laure Morel : chercheuse à la Réunion, elle utilise une plante locale contre le cancer
+                
+                
+                    Vidéo réalisée par Camille Gicquel/ Brice Gouronnec. La Netscouade pour l'Express.
+                
+            

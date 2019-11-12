@@ -1,0 +1,20 @@
+
+                2,2 milliards d'identifiants circulent sur internet. Des sites permettent de vérifier si votre adresse e-mail est compromise.
+                
+                    2,2 milliards. C'est le nombre d'identifiants et de mots de passe uniques qui circulent sur internet. À l'occasion de la journée mondiale du changement de mot de passe, Le Parisien propose donc quelques conseils et techniques pour s'assurer que vos données ne circulent pas librement.
+                
+                
+                    Au moins 845 Go de données
+                    À l'origine de cette immense base de données, écrit le journal, il y a d'abord "la fusion de plusieurs fichiers liés aux piratages successifs de bases de données de Yahoo, LinkedIn ou de Dropbox".
+                
+                
+                    Selon le chercheur en cybersécurité Troy Hunt, 773 millions de comptes et de mots de passe sont librement accessibles dans un fichier intitulé Collection #1. D'autres chercheurs donnent pour leur part un chiffre de 25 milliards de références classées dans Collections #2 -5. Cela fait un total de 845 Go de données.
+                
+                
+                    Deux sites très utiles
+                    Pour vous assurer que tout va bien, deux sites permettent de vérifier que vos mails et mots de passe ne sont pas compromis. L'outil gratuit de l'Institut de recherche allemand Hasso-Plattner propose un premier balayage. Il suffit de rentrer son adresse e-mail et d'attendre un message. Si le résultat est concluant, l'Institut précise quand même que cela ne veut pas dire que votre compte n'est pas compromis.
+                
+                
+                    Le second site utile s'appelle HaveIBeenPwned.com. Même principe, sauf que le résultat apparaît directement sur le site. En cas de réponse inquiétante, il est fortement conseillé de changer tous ses mots de passe. Et ne jamais avoir les mêmes pour plusieurs sites ! Il existe aussi des gestionnaires de mots de passe, comme 1Password ou Dashlane, pour se faciliter la tâche.
+                
+            

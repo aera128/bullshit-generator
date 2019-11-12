@@ -1,0 +1,29 @@
+
+                Les possibilités offertes par cette technologie sont inimaginables, mais elle soulève des montagnes d'interrogations.
+                
+                    La blockchain est le terme technologique dans le vent. La "chaîne de blocs" est un protocole doté d'une architecture permettant de réaliser des transactions sécurisées par cryptographie en contournant les tiers de confiance tels que les banques, les notaires ou encore les plateformes numériques comme Uber. La puissance de cette technologie repose sur le fait que chaque échange est définitivement enregistré sous forme de "blocs de transactions" qui forment la "chaîne de blocs". Ce registre, présent sur tous les noeuds du réseau, est infalsifiable. Le bitcoin est l'utilisation la plus connue de la blockchain : il désigne à la fois un protocole anonyme et sécurisé et une cryptomonnaie.
+                
+                
+                    The Economist explique que la blockchain "pourrait changer le monde" et reconfigurer les Etats. Les possibilités offertes par cette technologie sont inimaginables et dépassent largement les utilisations financières comme le bitcoin. Mais l'industrie de la blockchain soulève des montagnes d'interrogations.
+                
+                
+                    Une pagaille monstre
+                    Premier problème : son origine est obscure. Le protocole a été créé en 2008 par un inconnu dont le pseudonyme est Satoshi Nakamoto. Cette architecture reste bien mystérieuse. Deuxième problème : elle a beaucoup d'opposants. La blockchain pourrait fragiliser les tiers de confiance "physiques" (Etats, notaires...) et redonner du pouvoir à l'utilisateur en lui permettant de recourir à des services sans payer de frais ni de taxes, ni révéler ses données personnelles. Le protocole pourrait également renforcer l'auto-administration des biens et des services, réduire les coûts administratifs et améliorer l'efficacité économique. Beaucoup d'acteurs ont donc énormément à y perdre et luttent contre la blockchain.
+                
+                
+                    Troisième problème : sa validation est ultracomplexe. Afin d'assurer la sécurité des échanges, chaque transaction fait l'objet d'une validation par des "mineurs", qui sont des particuliers, rémunérés pour mettre à disposition la puissance de calcul de leurs ordinateurs. Afin d'assurer qu'un actif ne fait pas l'objet de deux transactions parallèles, une course est lancée entre les "mineurs" pour valider les blocs de transactions. Cette course consiste à résoudre un problème mathématique complexe - une équation cryptographique -, ce qui permettra de prouver que le mineur a bien effectué son travail. Les mineurs sont les gardiens de la blockchain et sont payés par la création d'unités de cryptomonnaies de cette blockchain.
+                
+                
+                    Le bitcoin n'est pas la seule : il en existe des dizaines d'autres utilisant des algorithmes différents. Ainsi, l'ethereum, qui est actuellement fondé sur un algorithme "proof of work" (preuve de travail) comme bitcoin, introduit la validation par "proof of stake" (preuve d'enjeu). C'est une pagaille monstre.
+                
+                
+                    Fièvre spéculative
+                    Quatrième problème : l'énergie. Le travail des mineurs exige des machines "énergétivores". La seule blockchain du bitcoin consomme autant d'électricité que l'Irlande ! Entre les geeks et les écologistes, la tension est palpable.
+                
+                
+                    Cinquième difficulté : une instabilité invraisemblable des utilisations financières. Le bitcoin connaît une intense fièvre spéculative : entre janvier et décembre 2017, son cours est passé de 800 à 17 000 euros, puis il s'est effondré. Warren Buffett est alarmiste : "Je peux dire avec quasi-certitude que cela finira mal."
+                
+                
+                    Sixième inquiétude : on n'y comprend rien. Ceux qui en parlent ne réalisent pas l'immensité des problèmes techniques, juridiques et sociaux. Moi, je n'y comprends rien. Mais le plus inquiétant, c'est que la plupart des experts non plus !
+                
+            

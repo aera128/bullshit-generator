@@ -1,0 +1,26 @@
+
+                La start-up Mentalista a créé une nouvelle discipline dans laquelle les joueurs marquent des buts... par la pensée.
+                
+                    Plus que quelques secondes avant la fin du match. Bandeau noir sur la tête, Jérémie se concentre et pense très fort au but qu'il veut marquer. Soudain, comme par magie, la petite balle bleue posée devant lui s'anime et finit au fond d'un filet en modèle réduit. Victoire ! Jérémie remporte le championnat de foot mental au nez et à la barbe de son adversaire, sur le score de 5 à 3.
+                
+                
+                    Les deux joueurs, assis côte à côte sur une chaise, se serrent la main comme s'ils venaient de participer à une compétition de jeu vidéo. Ils n'ont pourtant utilisé aucune manette ni écran. C'est leur cerveau qui leur a permis de marquer des buts. "Le foot mental, c'est un pied-de-nez au foot traditionnel", explique le site internet de Mentalista, la société à l'origine du concept. Ici pas besoin de crampons. Trois électrodes - l'une placée à l'arrière de la tête et les deux autres sur le lobe de chaque oreille - suffisent. Pour déplacer la balle, les joueurs doivent ... imaginer qu'elle roule sur le terrain.
+                
+                
+                    Cortex visuel et neurones miroirs
+                    On pense de suite à une blague. Mais non. Même s'il s'agit d'une activité ludique, le concept est sérieux. "Il y a plein de recherche sur le cerveau. Nous, on se spécialise sur une toute petite partie. On veut capter et classifier l'imagination", explique Bastien Didier, directeur général de Mentalista. La start-up s'intéresse particulièrement au cortex visuel, la partie du cerveau où arrivent les influx nerveux des yeux, et aux neurones miroirs. "Celles-ci fonctionnent de la même façon quand vous regardez quelque chose et quand vous l'imaginez", précise Bastien Didier.
+                
+                
+                    En utilisant les électrodes, Mentalista a d'abord construit une base de données sous forme de courbes correspondant à l'image que l'on se fait d'un ballon de foot. Ces courbes ont ensuite été agrégées pour former un modèle de référence. Lors d'une partie de foot mental, les signaux générés par le cerveau des joueurs sont comparés avec cette image de référence. Si les deux courbes se superposent, un signal est envoyé par bluetooth à la balle pour que celle-ci aille dans la bonne direction. Cette technique inspirée des pratiques récentes de neurofeedback permet de voir à l'aide d'un logiciel dédié, si un joueur pense correctement à un objet.
+                
+                
+                    Une interface cerveau environnement
+                    Certains compétiteurs comprennent assez vite comment fonctionne l'interface. Ils enchaînent les buts les yeux fermés. D'autres en revanche, éprouvent bien plus de difficultés. "Pour que la balle bouge, il faut 80% de concordance entre les courbes. Mais on peut baisser la difficulté à 40% par exemple. Dans ce cas, marquer devient très facile. On peut même penser à quelque chose de légèrement différent qu'une balle et ça marche quand même" ; détaille Bastien Didier.
+                
+                
+                    Cette technique de comparaison des signaux rappelle - en beaucoup moins sophistiqué - l'interface cerveau machine développée par certains médecins pour aider les patients tétraplégiques à remarcher. "Le fantasme des chercheurs c'est de comprendre ce qui se passe dans le cerveau. Mais comme c'est très compliqué, on peut aussi l'imiter grâce au big data", confie Romaric Manovelli, directeur du développement de Mentalista. "On ne développe pas une interface cerveau machine, mais une interface cerveau environnement. La finalité c'est de se passer des smartphones, d'avoir une communication très naturelle", précise Bastien Didier.
+                
+                
+                    Extrêmement ludique, le concept plaît au grand public. Lors de la présentation du jeu à la dernière Paris Games Week, le stand de Mentalista n'a pas désempli durant trois jours. La start-up compte bien surfer sur ce succès en créant un championnat officiel, et pourquoi pas d'ici deux à trois ans, un coffret comprenant deux casques munis d'électrodes, une balle, et un logiciel à mettre sous le sapin. De quoi nous faire quelques noeuds au cerveau.
+                
+            

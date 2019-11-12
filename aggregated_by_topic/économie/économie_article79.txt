@@ -1,0 +1,48 @@
+
+                Retour sur les scandales qui empoisonnent Facebook, après le piratage de presque 50 millions de comptes cette semaine.
+                
+                    Le récent piratage enfonce le clou. Facebook est-il encore capable de protéger ses utilisateurs? 50 millions de comptes ont été piratés en raison d'une faille de sécurité, a révélé vendredi le réseau social.
+                
+                
+                    Mark Zuckerberg a indiqué ne pas savoir si ces comptes ont été utilisés "de façon malveillante" et que des investigations étaient en cours pour savoir à quelles données les pirates avaient eu accès et ce qu'ils en avaient fait.
+                
+                
+                    L'image du réseau a déjà été sérieusement ébranlée par plusieurs controverses, en particulier autour la protection des données personnelles.
+                
+                
+                    Cambridge Analytica et les données volées
+                    Selon Facebook tout remonte à 2013, lorsqu'un chercheur américano-russe, Alexandre Kogan, met au point une application de tests psychologiques, "thisisyourdigitallife", proposée sur le réseau social. Environ 300 000 personnes la téléchargent, l'autorisant à accéder à leurs informations mais également aux données de leurs "amis". À partir de 2015, Facebook limite ce pouvoir et empêche les applications tierces d'accéder aux données des "amis".
+                
+                
+                    Le réseau social apprend la même année que Kogan a transmis les informations récupérées à la firme britannique Cambridge Analytica (CA), spécialisée dans l'analyse de données et la communication stratégique. Celle-ci a été embauchée en 2016 par l'équipe de campagne du candidat républicain à la présidentielle américaine Donald Trump.
+                
+                
+                    Le réseau dit avoir reçu en 2015 l'assurance que CA avait effacé ces données. Mais Facebook estime que la firme a bien pu accéder aux données de 87 millions de personnes, la plupart aux États-Unis, sans leur consentement, et s'en servir pour la campagne de Donald Trump.
+                
+                
+                    Cambridge Analytica, qui réfute ces accusations, a cessé son activité et s'est déclarée en faillite au Royaume-Uni puis aux États-Unis. Facebook est accusé d'avoir été laxiste dans la protection des données, d'avoir tardé à intervenir et d'avoir entretenu le flou quant aux paramètres de confidentialité.
+                
+                
+                    La prolifération des "fausses informations"
+                    L'élection de Donald Trump est aussi au centre d'une autre polémique entachant le réseau social: la diffusion de Fake News. Facebook est aussi accusé, comme Twitter et Google, d'avoir laissé proliférer des "fausses informations" et autres publications destinées à manipuler l'opinion publique pendant la campagne présidentielle.
+                
+                
+                    Ces trois entreprises ont reconnu avoir trouvé sur leurs plateformes nombre de messages, comptes et pages provenant de l'Internet Research Agency, considérée par la justice américaine comme une ferme à trolls payée par le Kremlin pour inonder les réseaux sociaux de messages sur des sujets polémiques (armes, immigration, religion...). Selon les calculs de Facebook, plus de 120 millions d'utilisateurs ont vu ce type de contenus.
+                
+                
+                    Ces manipulations ont notamment pris la forme de messages publicitaires sponsorisés que l'on peut cibler moyennant finance vers certains utilisateurs grâce aux données privées détenues par Facebook. La manipulation est aussi passée par des "Pages" Facebook, consacrées à des causes, des marques, des entreprises ou organisations et auxquelles on peut s'abonner.
+                
+                
+                    Et maintenant, un piratage massif (avec de multiples conséquences)
+                    Selon Facebook, "presque 50 millions de comptes ont été affectés directement" cette semaine. Les pirates ayant pu accéder aux informations de profils (noms, genre, ville...) par la fonctionnalité "Voir en tant que", qui permet de regarder son propre profil comme si on était un autre utilisateur (et qui a été désactivée depuis). Une incertitude demeure sur 40 autres millions de comptes, pour lesquels la fonctionnalité a été utilisée récemment, ont aussi dit les responsables de Facebook.
+                
+                
+                    Selon les premières constatations, relayées par Franceinfo, les pirates n'auraient pas eu accès aux messages privés, ni pu poster des publications. L'entreprise assure que les mots de passe n'ont pas été compromis, pas plus que des informations bancaires. Les utilisateurs de la messagerie WhatsApp, qui appartient à Facebook, n'ont pas été affectés non plus.
+                
+                
+                    Dans le doute, le groupe a également déconnecté dans la nuit de jeudi à vendredi les 90 millions de comptes concernés, obligeant leurs titulaires à se reconnecter manuellement. Difficile, dans ces conditions, de savoir qui a été piraté. Une enquête interne, lancée en collaboration avec le FBI, devrait rapidement permettre d'en savoir plus.
+                
+                
+                    En attendant, selon Guy Rosen, vice-président de Facebook chargé des questions de sécurité, interrogé par Le Monde, il n'est nullement utile de changer de mot de passe. Selon ce dernier, l'opération de déconnexion forcée était suffisante.
+                
+            

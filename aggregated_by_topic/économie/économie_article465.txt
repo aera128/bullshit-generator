@@ -1,0 +1,22 @@
+
+                Déployé à partir du mois de mai, ce dispositif est un énorme défi technologique.
+                
+                    Réagir aux incursions de drones, toujours de façon adaptée. Telle est l'ambition du dispositif anti-drones actuellement testé du côté de la base de Bretigny et qui, selon Les Echos, devrait être déployé sur le site aéroportuaire de Roissy-Charles de Gaulle à partir du mois de mai.
+                
+                
+                    Le but est d'éviter la mésaventure survenue à l'aéroport londonien de Gatwick paralysé peu avant Noël par l'apparition de deux drones, apparemment inoffensifs. Sur trois jours, un millier de vols avaient été annulés ou détournés, affectant 140 000 voyageurs. L'armée avait alors été appelée en renfort pour assurer la sécurité du site. Par la suite, des drones ont été brièvement observés près des aéroports d'Heathrow, de nouveau à Londres, et de Newark près de New York.
+                
+                
+                    Si l'on en croit le quotidien économique, la conception dudit dispositif a été confiée à Thales et au groupe ADP avec la Direction des services de la navigation aérienne (DSNA). Et cela s'apparente, semble-t-il, à un vaste défi pour plusieurs raisons.
+                
+                
+                    Radars, caméras et intelligence artificielle
+                    Ainsi, comme l'explique Edward Arkwright, directeur général exécutif de Groupe ADP aux Echos, cela "nécessite d'abord de pouvoir repérer (ces engins) avec un préavis suffisant pour pouvoir les neutraliser le cas échéant", alors qu'ils font aujourd'hui partie intégrante de ce qu'on pourrait appeler le "paysage du transport aérien".
+                
+                
+                    "Aujourd'hui, les radars classiques permettent de détecter un drone à une distance de trois kilomètres. Nous nous sommes fixés pour objectif de pouvoir les détecter, avec des radars holographiques, à une distance d'au moins sept kilomètres. Mais dans le cas d'un engin volant à 60 km/h, cela ne laisse que quelques minutes pour décider quoi faire", décrypte Edward Arkwright.
+                
+                
+                    Plus globalement, il faut que le système soit très précis, notamment pour distinguer les drones des oiseaux. Voilà pourquoi "le système doit être couplé avec des caméras et de l'intelligence artificielle", précise la même source. Qui ajoute qu'il a aussi fallu lancer le développement d'une "interface d'aide à la décision et mettre au point une chaîne opérationnelle". Si tout va bien, le dispositif anti-drones devrait être pleinement opérationnel "avant la fin de l'année", conclut le DG exécutif d'ADP.
+                
+            

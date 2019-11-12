@@ -1,0 +1,38 @@
+
+                Le Parlement britannique a diffusé des documents secrets de Facebook mercredi, qui révèlent une stratégie très agressive.
+                
+                    Quand un élu britannique pose une question, il exige une réponse franche, sans quoi son légendaire flegme peut laisser place à une froide colère. Facebook en a fait les frais, pour le plus grand plaisir de ses détracteurs, puisque 250 pages d'e-mails internes "hautement confidentiels", dont certains du patron Mark Zuckerberg himself, ont été mis en ligne (à lire ici) mercredi 5 décembre.
+                
+                
+                    L'auteur de ce méfait ? Damian Collins, le président de la Commission sur le numérique, la culture et les médias (DCMSC), qui enquêtait depuis plusieurs mois sur la responsabilité du géant de la Silicon Valley dans la diffusion de "fake news". Lui et ses collègues avaient notamment demandé à un des responsables de Facebook d'expliquer le contenu d'e-mails internes saisis à l'occasion de l'enquête. Fidèle à sa réputation, le géant américain s'est visiblement contenté du strict minimum. Grossière erreur. "Nous ne pensons pas avoir reçu de réponses franches, répond Damian Collins. Raison pour laquelle nous publions ces documents".
+                
+                
+                    Datés pour la plupart de 2012 à 2015, ils mettent en lumière la stratégie agressive de Facebook pour écraser la concurrence et engranger un maximum de profits, rapporte le New York Times.
+                
+                
+                    1) Récupérer les données des appels téléphoniques des utilisateurs sans leur consentement
+                    En 2015, les têtes pensantes de l'entreprise tentent de trouver un moyen d'accéder aux journaux d'appels et à l'historique des SMS des utilisateurs de l'application Facebook sur Android afin d'améliorer plusieurs fonctionnalités comme les suggestions "Personnes que vous pourriez connaître". Le problème est qu'il faut normalement demander l'autorisation aux utilisateurs concernés, ce que Facebook aimerait bien éviter. "C'est une chose assez risquée à faire du point de vue des relations publiques, mais il semble que le 'département croissance' va tenter de le faire", écrit Michael LeBeau, dans un mail du 4 février.
+                
+                
+                    Yul Kwon, directrice du "programme de confidentialité", répond que 'le département croissance' a effectivement découvert que si Facebook mettait à jour son application en demandant uniquement l'accès à l'historique des appels, les utilisateurs ne verraient pas de fenêtre leur demandant les autres autorisations (comme l'historique des SMS). "Selon nos premiers tests, il semblerait même que nous puissions 'mettre à jour' notre application sans déclencher l'ouverture d'aucune fenêtre demandant de nouvelles autorisations, écrit-elle. Ce serait toujours un changement majeur [de l'application], donc les utilisateurs seraient obligés de la mettre à jour, mais sans fenêtre d'autorisation".
+                
+                
+                    2) Créer une liste blanche des entreprises amies...
+                    Toujours en 2015, Facebook a changé les règles de sa plateforme pour limiter l'accès des applications tierces aux données de leurs "amis". Sauf que le géant Américain a dressé une liste blanche pour certaines entreprises, comme Airbnb, Netflix, Badoo ou encore Lyft, leur permettant d'obtenir un accès sans restriction. Ce cadeau n'avait rien de désintéressé : en échange, ces sociétés s'engageaient à fournir leurs précieuses données au géant américain, détaille Damian Collins.
+                
+                
+                    3) ...Et une liste noire des concurrents
+                    Une note de service non datée indique que les entreprises concurrentes à Facebook, elles, doivent avoir un accès aux données utilisateurs le plus restreint possible. Cette liste de "compétiteurs stratégiques" (dont Vine) a été examinée et validée par Mark Zuckerberg lui-même et elle ne peut être modifiée par personne d'autre que lui ou un haut cadre de l'entreprise, précise cette note. Mardi 4 décembre, la veille de la publication de ces documents, Facebook a anticipé les critiques et a annoncé assouplir ces restrictions.
+                
+                
+                    4) Privilégier les intérêts de Facebook
+                    Dans l'un de ses e-mails, Mark Zuckerberg reconnaît que les intérêts de Facebook divergent parfois de ceux des utilisateurs de manière globale. "Nous essayons de permettre aux gens de partager tout ce qu'ils veulent sur Facebook, écrit-t-il. Parfois, la meilleure façon de le faire est de demander à un développeur de créer une application [...] pour ce type de contenu et d'y connecter Facebook. Néanmoins, c'est peut-être bon pour le monde, mais pas pour nous, à moins que les gens partagent aussi leur contenu sur Facebook et que ce contenu augmente la valeur de notre réseau."
+                
+                
+                    5) Pister les usages des utilisateurs "à leur insu"
+                    Enfin, Facebook a racheté, en 2013, Onavo, une société d'analyse israélienne qui développe des applications pour mobiles. L'une d'entre-elle, Onavo Protect, une application payante permettant de surfer anonymement sur Internet, leur a permis de conduire des enquêtes sur les utilisateurs, "apparemment à leur insu", selon Damian Collins. "Facebook a utilisé ces données non seulement pour déterminer combien de personnes téléchargent des applications, mais aussi pour savoir combien de fois ils s'en servent. Des informations qui leur ont permis de décider quelles entreprises acheter et quelles autres mettre sur liste noire."
+                
+                
+                    Après les accusations d'ingérence russe sur sa plateforme lors de l'élection présidentielle américaine de 2016, le scandale de l'exploitation par la firme Cambridge Analytica de données d'utilisateurs à leur insu à des fins politiques, et celui de la faille de sécurité ayant conduit au piratage de près de 30 millions de comptes, Facebook se heurte à un nouveau scandale, qui viendra peut-être à bout de la confiance que ses utilisateurs lui portent.
+                
+            

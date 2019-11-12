@@ -1,0 +1,25 @@
+
+                Comment différencier contrôle et surveillance sur le web? La réflexion d'un philosophe des cultures numériques.
+                
+                    Ouvrir un site web ou envoyer un e-mail est une opération simple, pratiquée par chaque utilisateur plusieurs dizaines de fois par jour. Pourtant, à chacune de ces opérations, des octets d'information traversent des noeuds virtuels, où des micro-décisions sont prises. Ces choix concernent le parcours dans le réseau, la vitesse de traitement, la séquence, la fiabilité ou la priorité des données à échanger. Ces éléments techniques participent d'une vaste réflexion sur le traitement des données, le contrôle et la surveillance des informations dans la société du XXIe siècle. "Les micro-décisions numériques représentent la plus petite unité et la condition technique d'une politique contemporaine des réseaux", explique Florian Sprenger, philosophe des cultures digitales, en ouverture de son essai Politique des micro-décisions. Edward Snowden, neutralité des réseaux et architecture internet.
+                
+                
+                    Chaque jour, à travers des infrastructures invisibles, plusieurs micro-décisions sont prises, pendant l'infime durée du stockage temporaire des données. Dès lors, comment garantir la coordination entre utilisateurs, services et applications ? Comment protéger la circulation des informations ? Qui opère sur la toile, pour garantir le bon déroulement du processus de la communication ? "Les micro-décisions ne sont pas prises dans les parlements ou au siège des partis politiques, répond Sprenger, mais dans les centres informatiques ou les grappes de serveurs. Elles sont implantées dans nos ordinateurs, nos appareils domestiques, et habitent les noeuds de réseau".
+                
+                
+                    Gigantesque programme de surveillance
+                    Si une partie du contrôle de la Toile repose entre les mains des réseaux des fournisseurs d'accès, Florian Sprenger souligne que la réflexion juridique, politique et sociale s'établit autour de deux pôles. D'un côté, la neutralité des réseaux, qui représente un droit, garant d'une liberté numérique fondamentale. De l'autre, le gigantesque programme de surveillance mis en place par l'agence américaine gouvernementale de renseignement électronique, la National Security Agency (NSA), sur des dizaines de milliers d'appels téléphoniques et d'échanges en ligne.
+                
+                
+                    Lorsqu'il travaillait comme sous-traitant de la NSA, en 2013, l'analyste Edward Snowden a fait sortir des bureaux du centre cryptologique américain des documents secrets et ultraconfidentiels révélant les activités des agences de surveillance électronique les plus puissantes de la planète. Par un accès privilégié aux serveurs des géants du numérique, Facebook, Google ou Microsoft, l'organisme collecte en effet 200 millions de messages par jour dans le monde. Par le passé, la NSA a également procédé à des écoutes plus ciblées, d'Angela Merkel à la Commission européenne, du réseau financier Swift aux ONG comme Médecins du monde.
+                
+                
+                    Comment garantir la neutralité des transferts de données ? Quelle est la différence entre contrôle et surveillance ? Aux yeux de Florian Sprenger, "les révélations d'Edward Snowden ont balayé les restes d'une cyber-euphorie naïve, pour nous enseigner qu'Internet est un espace clairement politique".
+                
+                
+                    Définir les algorithmes et les protocoles qui génèrent les micro-décisions permet une meilleure analyse du pouvoir dans les cultures numériques actuelles. L'enjeu du livre de Florian Sprenger est de mettre en avant le potentiel politique des technologies, tout en soulignant que l'ampleur de la surveillance par l'automatisation des micro-décisions, dénoncée par Snowden, est une conséquence de l'architecture des réseaux numériques. Sur la défense des droits des citoyens à l'ère digitale, sur le débat à propos du cryptage et de la neutralité des réseaux, afin de garantir davantage de sécurité pour tous, "les révélations d'E. Snowden représentent un tournant pour les sociétés du XXIe siècle", conclut Florian Sprenger.
+                
+                
+                    * Politique des micro-décisions. Edward Snowden, neutralité des réseaux et architecture internet, éd. MSH, 75 p., 13 €.
+                
+            

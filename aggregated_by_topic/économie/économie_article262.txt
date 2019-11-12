@@ -1,0 +1,36 @@
+
+                Il s'agit là du deuxième plus gros piratage informatique de l'histoire. Mais on ne connaît pas encore avec précision l'ampleur des dégâts.
+                
+                    Le géant mondial de l'hôtellerie Marriott a annoncé vendredi le piratage d'une base de données pouvant contenir les informations d'environ 500 millions de clients, précisant qu'une enquête interne avait révélé des "accès non autorisés" depuis 2014.
+                
+                
+                    Le groupe américain, dont le siège est à Bethesda (Maryland), a indiqué dans un communiqué avoir reçu un signalement interne le 8 septembre 2018 concernant une tentative d'accès à un vaste fichier de réservations aux Etats-Unis. Son enquête a révélé qu'un "tiers non autorisé" avait "copié et crypté des informations, et avait entrepris des opérations pour les retirer".
+                
+                
+                    Une enquête ouverte
+                    A l'ouverture de Wall Street vendredi, l'action du géant reculait de 4,78% à 116,02 dollars.
+                
+                
+                    Les forces de l'ordre ont ouvert une enquête avec laquelle Marriott coopère, et les autorités de régulation ont été prévenues.
+                
+                
+                    Le groupe Marriott, qui a fusionné en 2016 avec l'Américain Starwood, devenant alors le premier groupe hôtelier mondial, dit ne pas avoir fini d'identifier les informations ayant été dupliquées. Elles peuvent concerner des réservations effectuées jusqu'au 10 septembre 2018 inclus.
+                
+                
+                    Étendue des dégâts encore floue
+                    Il a relevé que pour environ 327 millions de clients sur les quelque 500 millions qui figureraient dans la base de données visée, les informations incluent noms, adresses postale et électronique, numéros de téléphone et de passeport, date de naissance, sexe... Pour certaines de ces personnes, le numéro de carte bancaire et sa date d'expiration sont également concernés mais Marriott n'est pas en mesure à ce stade d'indiquer si le ou les intrus sont parvenus à passer outre les protections de cryptage propres.
+                
+                
+                    Pour les millions d'autres clients, les informations à risque ne comportent que le nom et, parfois, d'autres détails comme les adresses email et postale.
+                
+                
+                    Le plus important piratage depuis 2013
+                    Ce serait le plus important piratage connu de données privées depuis celui de Yahoo en 2013, lorsque l'ensemble de ses trois milliards de comptes utilisateurs avaient été affectés.
+                
+                
+                    Les analystes de Cowen, estiment que le groupe a agi de façon "assez rapide", ce qui devrait permettre de "limiter les dégâts". Pour ceux de Goldman Sachs, "même si la magnitude (du piratage) est vaste, il est trop tôt pour évaluer l'impact financier potentiel" pour Marriott qui, relèvent les analystes, dispose d'une assurance de cybersécurité.
+                
+                
+                    Le groupe compte au total 6.700 propriétés notamment en franchise dans trente chaînes d'hôtels disséminées dans 129 pays. Fin 2017, il gérait 1,25 million de chambres et a engrangé cette année-là un chiffre d'affaires de plus de 22 milliards de dollars.
+                
+            

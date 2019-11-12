@@ -1,0 +1,45 @@
+
+                La suppression d'un contenu par Netflix sur demande de l'Arabie saoudite illustre les compromissions de la Silicon Valley.
+                
+                    C'est un épisode sur des milliers, mais son retrait fait grand bruit. Depuis la semaine dernière, les abonnés saoudiens de Netflix sont privés d'un épisode de l'émission satirique Patriot Act with Hasan Minhaj.
+                
+                
+                    L'humoriste et commentateur politique américain s'y livre à une critique du prince héritier Mohamed ben Salmane, près d'un mois après le meurtre du journaliste saoudien Jamal Khashoggi dans le consulat du royaume à Istanbul. Ses propos, qui visent aussi les horreurs de la guerre au Yémen, n'ont pas plu aux autorités saoudiennes qui ont adressé au géant du streaming une demande de suppression, suivie d'effets.
+                
+                
+                    La décision de Netflix a été révélée mardi par le Financial Times. Dans une déclaration transmise au quotidien britannique, l'entreprise assure soutenir "fortement la liberté artistique à travers le monde", et explique avoir "seulement retiré cet épisode en Arabie saoudite après avoir reçu une requête légale, valide et pour [se] conformer à la législation locale".
+                
+                
+                    Qualifiée de "scandaleuse" par une journaliste du Washington Post proche de Jamal Khashoggi et "d'affront à la liberté d'expression des citoyens" par une ONG américaine de défense des libertés en ligne, une telle décision met en lumière les arrangements des multinationales du numérique avec les régimes autoritaires et la morale locale.
+                
+                
+                    Apple et la censure chinoise
+                    En août 2017, Apple avançait déjà le respect de la législation pour justifier la suppression d'applications de l'App Store chinois. Toutes offraient un moyen de contourner l'étroite censure du web pratiquée dans le pays grâce au système du VPN, qui fait passer le trafic par un ordinateur situé dans un autre pays que celui où se trouve l'internaute. "Bien sûr, nous préférerions ne pas retirer les applications", avait expliqué le PDG d'Apple Tim Cook aux investisseurs, rapportait le Washington Post. "Mais comme nous le faisons dans d'autres pays, nous respectons la loi partout où nous sommes présents." Les autorités venaient en l'occurrence de demander aux entreprises de télécommunication de bloquer les VPN d'ici début 2018, révélait l'agence Bloomberg.
+                
+                
+                    L'argument ne convainc pas les organisations de défense des droits de l'homme. "Apple déclare qu'elle ne fait que respecter la législation chinoise, mais cette réponse n'est pas suffisante", écrivait en août 2017 un responsable d'Amnesty International dans un article cité par Slate. "Les entreprises ont la responsabilité de respecter le droit international, quelle que soit la situation en matière de respect des droits de l'homme dans un pays en particulier. En bloquant l'accès aux VPN pour ses clients chinois, Apple n'est pas à la hauteur de cette responsabilité."
+                
+                
+                    Les lois invoquées par les autorités pour demander la suppression de telle oeuvre ou service sont accusées de favoriser la censure par leur rédaction vague. L'article 6 de la loi saoudienne contre les cyber-crimes mise en avant par le royaume auprès de Netflix punit ainsi la production et la diffusion des contenus qui "empiètent sur l'ordre public, les valeurs religieuses, la morale publique et la vie privée", écrit le Financial Times. Une définition potentiellement très large.
+                
+                
+                    La Chine et l'Inde, des marchés incontournables
+                    Pourquoi Apple, Netflix et d'autres géants prennent-ils alors le risque de mettre à mal leur image ? Tim Cook l'expliquait ainsi à ses investisseurs après la suppression des applications de VPN en Chine. "Nous croyons fortement qu'être présent sur un marché et offrir des services aux clients est dans l'intérêt des gens là-bas et dans d'autres pays", jugeait le PDG d'Apple, cité par le Washington Post. "Nous croyons donc dans la collaboration avec les gouvernements même s'il y a des désaccords."
+                
+                
+                    Une manière de reconnaître qu'il est dur de se couper de plus d'un milliard de clients potentiels. Mêmes conclusions pour Netflix et Amazon Prime, qui en faisant leur entrée en Inde se sont adaptés aux sensibilités locales.
+                
+                
+                    Le service de streaming du géant de la vente en ligne a déjà flouté voire censuré certains passages de ses programmes, explique The Next Web. Un épisode de l'émission maison The Grand Tour a ainsi été amputé d'un étonnant passage où l'on voyait un véhicule fait de restes d'animaux, un sacrilège au pays de la vache sacrée. Son concurrent a, lui, publié sur sa plateforme une version expurgée d'un film, Déesses indiennes en colère, avant de finalement la remplacer par la version non-censurée.
+                
+                
+                    Il y a deux mois, Netflix a démenti avoir accepté le principe d'une "auto-régulation" de ses contenus, autrement dit d'une auto-censure. L'avenir dira si cette position reste figée dans le marbre ou si l'attrait d'un marché qui pourrait valoir 2,4 milliards de dollars en 2023 l'emportera.
+                
+                
+                    Révolte chez Google contre la censure
+                    Qu'en pensent les salariés des géants du numérique ? Surveillance et censure sont a priori l'antithèse des valeurs libérales prônées par la Silicon Valley. Des salariés de Google l'ont rappelé il y a deux mois à la firme de Mountain View en s'opposant publiquement à un projet de moteur de recherche respectant les règles de censure chinoise.
+                
+                
+                    "Nous sommes opposés aux technologies qui aident les puissants à opprimer les plus vulnérables, où que ce soit", pouvait-on lire dans une lettre signée par 90 employés. Dragonfly, le nom de code du projet, "établirait [...] un précédent qui empêcherait Google de refuser des concessions similaires à d'autres pays", ajoutaient-ils. Le PDG Sundar Pichai avançait qu'il préférait proposer des outils aux internautes chinois plutôt que rien du tout. Las, la révolte interne a eu raison du projet, rapportait The Intercept le mois dernier. Une leçon pour les GAFAM ?
+                
+            

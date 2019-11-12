@@ -1,0 +1,26 @@
+
+                Le logiciel de recrutement d'Amazon qui éliminait les candidates met en lumière l'influence de nos biais sur la technologie.
+                
+                    Pour Amazon, c'était le "saint Graal" du recrutement. Un programme informatique à qui vous soumettez une centaine de CV et qui vous propose ceux qu'il juge les plus intéressants, laissant aux humains la seule charge du dernier choix. Le géant de la vente en ligne l'a mis au point en 2014 puis testé avant de se rendre compte un an après que le système avait un gros défaut : il rejetait les candidates.
+                
+                
+                    Les CV contenant le mot "femme" étaient en effet éliminés par le programme, selon les sources de l'agence Reuters. Par exemple, une candidate "capitaine de club d'échecs féminin" dans son temps libre pouvait se considérer éliminée, alors que les mots souvent utilisés par les hommes étaient en revanche valorisés. Les candidates diplômées de deux universités de femmes ont aussi vu leur note, attribuée par le système, abaissée sans raison. Amazon a détecté le problème en 2015 et l'a corrigé, mais a tout de même abandonné le projet début 2017, pris de doute sur la possibilité que le système discrimine sur d'autres critères. La raison de cet échec interroge sur l'opportunité de sous-traiter de telles missions à l'intelligence artificielle.
+                
+                
+                    Le manque de diversité en cause
+                    Avant de recevoir les nouveaux CV, le programme avait en effet absorbé les candidatures reçues par Amazon dans les dix années précédant sa conception, explique Reuters. Parmi celles-ci, une majorité avait été envoyée par des hommes, ce qui avait poussé le programme à considérer les candidats comme plus indiqués que les candidates. Autrement dit, le manque de diversité du secteur des nouvelles technologies, résultat d'un ensemble de processus construits, a été absorbé par l'intelligence artificielle. Les recruteurs d'Amazon attendaient une sélection froidement objective, mais se sont retrouvés avec un résultat nourri par une culture inégalitaire.
+                
+                
+                    Ce n'est pas la première fois que le manque de diversité des géants des nouvelles technologies a une influence négative sur leurs outils ou produits. Il y a trois ans, un Américain s'est plaint sur Twitter d'avoir été qualifié de "gorille" par l'application Google Photos. Celle-ci classe toute seule les clichés dans des dossiers selon ce qu'elle pense y voir, expliquait Le Figaro. Au lieu de voir deux personnes sur une photo du développeur et d'une amie, tous les deux noirs, l'application a cru y reconnaître deux singes, une comparaison raciste à plus d'un titre.
+                
+                
+                    Pourquoi une telle erreur ? Comme dans le cas d'Amazon, l'intelligence artificielle apprend grâce à ce qu'on lui soumet. Or, 60% des employés de Google sont blancs, notait le journal, qui avançait l'idée que l'équipe n'avait pas nourri le système de visages suffisamment diversifiés, faute d'avoir pris en compte la variété des utilisateurs du produit. La firme de Mountain View s'était d'ailleurs défendue en évoquant le "fort contraste" du cliché, écrivait Le Figaro.
+                
+                
+                    Des conséquences graves
+                    Les entreprises apprennent-elles de leurs erreurs ? Malgré l'échec de sa première tentative, Amazon persévère dans le recrutement automatisé, cette fois en accordant "plus d'importance à la diversité", a indiqué une source à Reuters. En juillet dernier, le site spécialisé The Verge a interrogé plusieurs entreprises, dont Google, sur leurs efforts pour lutter contre les préjugés dans le domaine de la reconnaissance faciale. "Nous testons régulièrement nos modèles afin qu'ils ne reproduisent pas de préjugés et soient plus justes", a répondu l'entreprise, sans en dire davantage.
+                
+                
+                    Pour les entreprises qui développent ces programmes, l'enjeu est pourtant de taille, à l'heure de leur banalisation dans les domaines du recrutement, de la santé et même de la justice. Le mois dernier, le site Quartz évoquait le cas d'une start-up de Toronto à l'origine d'un programme de détection de la maladie d'Alzheimer à travers la voix, lequel ne fonctionnait qu'avec des locuteurs canadiens. En 2016, le site ProPublica révélait qu'un programme de prédiction de la récidive attribuait plus souvent ce risque aux délinquants noirs. Preuve qu'une intelligence artificielle qui fonctionne doit d'abord être débarrassée des préjugés de la société qui l'a créée.
+                
+            

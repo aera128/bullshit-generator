@@ -1,0 +1,23 @@
+
+                En bannissant les trois géants de la technologie de sa vie, une journaliste américaine souligne leur omniprésence.
+                
+                    Peut-on bannir les GAFAM de nos vies ? Aussi omniprésents que décriés, les géants du web, Google, Apple, Facebook, Amazon et Microsoft, sont si intégrés à notre quotidien que la tâche paraît impossible. À la faveur des scandales qui les touchent, qu'ils concernent la fuite de données personnelles ou des failles de sécurité, se développe pourtant l'idée d'une remise en cause de leur omniprésence et le souhait d'une alternative. Pour illustrer combien notre monde connecté est dépendant d'un groupe restreint d'entreprises, une journaliste américaine a fait un pari : vivre sans les GAFAM pendant une semaine chacun. Pas si simple.
+                
+                
+                    Car se passer d'Amazon, ce n'est pas seulement changer de crémerie en ligne, tout comme éviter Google ne consiste pas qu'à choisir un autre moteur de recherche. Rachats de concurrents et services aux entreprises créent les conditions d'une dépendance invisible que le travail de la journaliste du site spécialisé Gizmodo fait sauter aux yeux. Kashmir Hill a opté pour une solution radicale : bloquer grâce à un VPN tous les sites et services liés aux géants du web. Avec des surprises à la clé.
+                
+                
+                    Netflix et Uber inutilisables
+                    Le premier géant visé était Amazon. Pour le grand public, l'entreprise fondée par Jeff Bezos, l'homme le plus riche du monde, est associée à son site de vente, mais aussi aux liseuses Kindle, au service de streaming Amazon Prime et à l'assistant vocal Amazon Echo. S'en passer est possible, mais Amazon fait aussi dans le cloud avec Amazon Web Services (AWS), qui héberge des sites qui n'ont eux pas d'autre lien avec Amazon que celui-ci. Ainsi, pendant sa semaine de sevrage, la journaliste n'a pu utiliser ni le numéro 1 du streaming Netflix, ni la messagerie professionnelle Slack, ni même, plus gênant encore, certains sites gouvernementaux américains. "Les agences gouvernementales adorent AWS", écrit ainsi Kashmir Hill.
+                
+                
+                    Bloquer Google réserve autant de découvertes. A priori, c'est plus difficile. Ne pas regarder Amazon Prime est une chose, se passer de Gmail ou du navigateur Google Chrome en est une autre. Et, comme Amazon s'est rendu indispensable grâce au cloud, Google s'est imposé dans le domaine de la cartographie. Ainsi, la journaliste de Gizmodo a découvert, en chemin vers un rendez-vous, qu'elle ne pouvait pas commander un VTC Uber pendant sa semaine de détox. Tout comme Lyft, l'application de l'entreprise américaine a besoin du service Maps pour fonctionner. D'autres sites deviennent indisponibles, car hébergés sur le propre service de cloud de Google, comme la plateforme de streaming musical Spotify.
+                
+                
+                    Plus de temps avec sa fille
+                    Si deux articles de la série (ceux consacrés à Apple et Microsoft) doivent encore sortir, les chiffres déjà publiés par Kashmir Hill illustrent l'influence surprenante de l'un de ces géants : Amazon. L'entreprise de Jeff Bezos contrôle en effet plus de 23 millions d'adresses IP, soit davantage que Microsoft avec 21 millions, et bien plus que Google avec 8,7 millions. Pendant leur semaine sans Amazon, les différents appareils utilisés par la journaliste ont tenté environ 300 000 fois de communiquer avec les serveurs de l'entreprise.
+                
+                
+                    Un chiffre qui en dit autant sur l'influence tentaculaire des géants du web que sur ceux qui les utilisent. La journaliste de Gizmodo confie en effet volontiers commander tout sur Amazon, papier toilette compris, et ne pas pouvoir se passer de son assistant vocal. En bloquant Facebook, qui possède également Instagram, WhatsApp et propose l'application de discussion Messenger, elle a réalisé combien elle était "coupée des nouvelles de son cercle social", et donc que l'ensemble de ses communications passaient par ces canaux. L'absence temporaire de services essentiels à sa vie l'a poussée à varier ses activités, comme avec sa fille de 1 an, qui a redécouvert le square faute de dessins animés. En se lançant dans ce défi, Kashmir Hill voulait montrer "à quel point nous sommes coincés avec [les services de] ces entreprises". Une situation qui intéresse de plus en plus les régulateurs, tentés de mettre le holà aux ambitions sans bornes des géants du web.
+                
+            

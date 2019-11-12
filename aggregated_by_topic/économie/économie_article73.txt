@@ -1,0 +1,22 @@
+
+                Facebook assure que la faille a été corrigée par son équipe d'ingénieurs.
+                
+                    "Dans l'après-midi du mardi 25 septembre, notre équipe d'ingénieurs a découvert un problème de sécurité touchant près de 50 millions de comptes" Facebook, explique l'entreprise dans un communiqué publié ce vendredi. "Nous prenons cela très au sérieux" assure le message.
+                
+                
+                    D'après l'enquête du géant du web, qui "en est encore à ses débuts", les cyber-attaquants ont exploité une vulnérabilité du code Facebook sur la fonctionnalité "Voir en tant que". Elle permet aux utilisateurs de voir à quoi ressemble leur propre profil. Les pirates pouvaient ensuite récupérer les codes d'accès des utilisateurs de Facebook, c'est à dire les données enregistrées à l'avance permettant notamment d'être automatiquement connecté au réseau social, sans avoir besoin de systématiquement rentrer identifiant et mots de passe.
+                
+                
+                    Le communiqué assure que les équipes de Facebook ont corrigé la faille et informé les forces de l'ordre de la situation. Étant donné que l'enquête est encore en cours pour déterminer les conditions de ce piratage, par prudence, le groupe a temporairement désactivé la fonction "Voir en tant que".
+                
+                
+                    90 millions de comptes peut-être touchés
+                    La faille serait apparue à la suite de problèmes dans le code du réseau social après une modification concernant le téléchargement de vidéos, effectuée en juillet 2017.
+                
+                
+                    En conséquence, Facebook a réinitialisé les codes d'accès des 50 millions de comptes affectés par la cyber-attaque, mais également ceux des comptes qui ont utilisé la fonctionnalité "Voir en tant que" depuis l'apparition de la faille. Cela représente 40 millions de comptes supplémentaires. Ces 90 millions de comptes au total devront donc se reconnecter à Facebook. Ils pourront ensuite y lire un message d'explication sur la situation. Il n'y a, a priori, pas besoin de modifier son mot de passe.
+                
+                
+                    "La confidentialité et la sécurité des personnes sont extrêmement importantes et nous regrettons que cela se soit produit", assure Facebook à la fin de son communiqué.
+                
+            

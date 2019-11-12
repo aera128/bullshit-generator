@@ -1,0 +1,73 @@
+
+                Depuis quinze ans, sondes et rovers se succèdent à sa surface. Mars reste une affaire de sciences et de machines. Voici pourquoi.
+                
+                    De battre son coeur s'est-il arrêté ? Rouge sang avec le firmament noir en toile de fond, Mars fascine l'homme depuis la nuit des temps. Aujourd'hui, ce dernier en veut à son palpitant. Lundi 26 novembre, la sonde InSight de l'agence spatiale américaine (Nasa), un petit bijou de technologie - quelque 700 kilos sur la balance pour un coût global avoisinant 1 milliard de dollars, devrait se poser à la surface de Mars. A son bord, une pléiade d'instruments, dont un sismomètre français baptisé "SEIS" - sorte de stéthoscope géant - qui, une fois posé à la surface, servira à ausculter la planète.
+                
+                
+                    "Nous ne savons pratiquement rien de sa minéralogie profonde - la taille de son noyau, son état (liquide ou solide), son manteau rocheux ou encore sa croûte", résume Raphaël Garcia, chercheur à l'Institut de recherche en astrophysique et planétologie (Irap), responsable de SEIS et coinvestigateur de la mission.
+                
+                
+                    Une suite continue de missions
+                    Après l'étude de son atmosphère, celle de sa surface, les scientifiques s'intéressent donc aux entrailles de Mars. A l'exception de la Terre, aucune autre planète n'a bénéficié d'un tel traitement de faveur depuis les débuts de la conquête spatiale. Au total, près de 48 engins l'ont prise d'assaut et, à l'heure actuelle, on compte six orbiters autour et deux rovers dessus.
+                
+                
+                    "Au-delà de la notion de "nouvelle frontière" comme défi pour l'homme, Mars fut, au début du système solaire, une soeur jumelle de notre planète bleue, mais elle a connu un destin radicalement opposé puisqu'elle semble morte", explique Francis Rocard, responsable des programmes d'exploration du système solaire au sein de l'agence spatiale française (CNES). Mieux, la comprendre est une façon d'anticiper une évolution possible de notre propre Terre."
+                
+                
+                    A ce jeu des découvertes, la planète rouge est longtemps restée inaccessible. Durant les années 1960, en pleine guerre froide, les Soviétiques s'y sont cassé les dents avec une bonne dizaine d'échecs, si bien qu'il fallut attendre les sondes américaines Mariner puis, surtout, Viking, pour disposer, en 1975, d'une première cartographie ainsi que d'images inédites du sol martien.
+                
+                
+                    Malgré leur réussite, ces missions ont constitué une déception pour les scientifiques, qui espéraient trouver des traces de vie. "La conquête de Mars a été mise entre parenthèses pendant une vingtaine d'années, s'étonne Francis Rocard. Et c'est grâce à l'Europe et à la sonde Mars Express, en 2003, qu'elle reprend."
+                
+                
+                    Ce petit vaisseau, qui vient de recevoir un nouveau logiciel de bord pour fonctionner jusqu'à la fin de l'année 2019, possède un spectromètre baptisé "Omega". Développé par l'Institut d'astrophysique spatiale (IAS) d'Orsay, il a été le premier à "renifler" des minéraux hydratés (argiles). "Ce fut une révolution, parce que plus personne ne s'attendait à une telle découverte", se souvient Véronique Ansan Mangold, maîtres de conférences au laboratoire de planétologie et géodynamique de Nantes.
+                
+                
+                    Depuis, avec une régularité de métronome et en dépit de financements en berne, les différentes agences spatiales s'évertuent à envoyer de nouveaux engins en direction de la planète rouge. Une affaire de rendez-vous, ou plutôt "d'opposition" : dans le billard interplanétaire, la Terre et sa lointaine soeur se trouvent alignées, donc au plus proche, environ tous les vingt-six mois.
+                
+                
+                    A la recherche de traces de vie
+                    Des "fenêtres de tirs" dont il faut profiter puisque l'énergie de transfert est alors à son paroxysme. 2003 fut "l'année" des Européens mais aussi des Américains, avec le lancement de deux rovers. Ont suivi, dans l'ordre, les sondes Mars Reconnaissance Orbiter (2005), Phoenix (2007), puis l'engin le plus sophistiqué actuellement sur la surface martienne, l'astromobile Curiosity (2011) - un monstre de près de 900 kilos qui compte 10 instruments scientifiques et 17 caméras. Sans oublier les vaisseaux Mars Orbiter Mission et Maven (2013), l'européen TGO-ExoMars (2016), jusqu'à InSight, qui constitue l'attraction de 2018.
+                
+                
+                    "La question de l'eau liquide à la surface de Mars, qui sous-tend des conditions favorables à l'émergence de la vie, est un Graal pour les scientifiques", rappelle Sylvestre Maurice, de l'Irap [CNRS/université Toulouse III Paul Sabatier]. En découvrant des argiles et des sulfates hydratés en 2003, la sonde Mars Express met en évidence des traces d'eau passées. Une observation confirmée à la surface grâce au travail des rovers américains : Spirit se pose dans un ancien lac, le cratère Gusev, tandis qu'Opportunity, largué dans une vaste plaine, est surnommé le "marathonien de l'espace" : à ce jour, il a passé la barre des 45 kilomètres (45,13 exactement) et détient donc le record de l'engin construit par l'homme ayant parcouru la plus grande distance à la surface d'un autre monde...
+                
+                
+                    Le troisième larron, Curiosity, qui a atterri en 2012, gravit le mont Sharp pour analyser d'autres strates de sulfates. D'ici un an, s'il arrive au sommet, il pourrait détecter ces fameuses traces, notamment des acides carboxyliques. En cela, il a la même mission que ses petits frères : "Ces rovers ont été conçus pour déterminer les conditions d'habitabilité de Mars, pas pour dire s'il y existe actuellement des traces de vie", nuance Sylvestre Maurice.
+                
+                
+                    Cette quête de la vie passée nous repousse très loin dans l'histoire du système solaire. Les scientifiques restent persuadés que l'eau coulait abondamment à la surface de la planète rouge voici 3,7 à 3,9 milliards d'années, mais ils n'ont pas encore de preuve qu'elle a permis le développement d'organismes vivants. Surtout, elle a perdu ses conditions d'habitabilité autour de 3 milliards d'années et ils veulent comprendre pourquoi.
+                
+                
+                    La prochaine étape, "la plus belle", selon Sylvestre Maurice, consistera à aller chercher ces fameuses traces de vie. Le scientifique de l'Irap a déjà signé avec la Nasa pour fournir une nouvelle caméra laser (SuperCam) qui embarquera sur le prochain rover de la mission américaine Mars 2020. Objectif : sélectionner les minéraux qui seront placés dans des containers que l'engin sèmera sur son passage, tel le Petit Poucet.
+                
+                
+                    Un battement de la taille d'un atome
+                    Après cette collecte d'échantillons, une autre astromobile sera chargée de les récupérer avant de les déposer à bord d'une fusée qui décollera de façon automatique. Enfin, une troisième mission ira intercepter lesdits cailloux pour les rapporter sur Terre. "Ces deux derniers programmes ne sont ni financés ni arrêtés d'un point de vue technologique", tempère Francis Rocard.
+                
+                
+                    En attendant, il faut continuer à mieux connaître Mars avec des moyens plus limités. "Elle est un livre à ciel ouvert, poursuit Sylvestre Maurice. Elle reste figée dans son passé et possède des archives minéralogiques qui ont disparu chez nous à cause de l'érosion et de la tectonique des plaques. Mieux la comprendre nous aidera à connaître la genèse et le destin des autres planètes telluriques que sont Mercure, Venus et donc la Terre."
+                
+                
+                    Le vaisseau InSight, en s'intéressant cette fois à la structure interne de Mars, va dans le même sens. "La sismologie est une étape fondamentale dans la compréhension d'une planète, notamment dans son processus d'accrétion, explique Philippe Laudet, le responsable de SEIS pour le compte du Cnes.
+                
+                
+                    Or, toutes les tentatives, notamment celles des sondes Viking, pour faire atterrir un tel instrument ont échoué." C'est qu'un sismomètre n'a rien d'un instrument comme les autres en raison de son degré de sensibilité. "Comme un pendule, le nôtre se résume à une masse située au bout d'un ressort qui peut bouger de 50 microns, ajoute l'ingénieur. Ce qui permet de détecter des déplacements de la taille d'un... atome !"
+                
+                
+                    Un câble rigide se déroulant "comme du papier toilette"
+                    Chose exceptionnelle, la Nasa a préféré déléguer la conception de SEIS à la France. Pour quelle raison ? Parce que le "père" de l'instrument, Philippe Lognonné, de l'Institut de physique du globe de Paris (IPGP), le développe depuis presque un quart de siècle (une première version avait décollé avec la sonde russe Mars 96, qui avait échoué au décollage) !
+                
+                
+                    "Depuis, nous n'avons cessé de l'améliorer", déclare l'intéressé, un brin fébrile à quelques jours du lancement d'InSight. Et une fois son "bébé" en orbite, le planétologue n'aura pas fini de trembler. Après sept mois de voyage, aller se poser sur Mars - même si les Américains y sont parvenus huit fois - demeure une manoeuvre délicate.
+                
+                
+                    "D'autant que le 26 novembre prochain, jour précis où InSight fera sa descente, il pourrait y avoir des tempêtes de poussières", craint François Forget, spécialiste des climats planétaires au laboratoire de météorologie dynamique de l'Institut Pierre-Simon Laplace (Insu/CNRS). Et, une fois au sol, tout pourrait se compliquer. "L'appareil est tellement sensible qu'il faut le placer le plus loin possible de sa base", poursuit Laudet.
+                
+                
+                    Pour ce faire, les techniciens de la Nasa ont imaginé un bras robotique qui soulèvera le sismomètre relié par un câble rigide se déroulant "comme du papier toilette", afin de le déposer trois mètres plus loin. Puis, le bras prendra une sorte de dôme qui recouvrira SEIS et le protégera des écarts de températures et des vents.
+                
+                
+                    Une fois sous cloche et au terme de cette manoeuvre inédite, l'instrument pourra alors commencer à travailler. Durée nominale de la mission : deux ans. Soit très exactement le laps de temps avant de voir débouler le rover Mars 2020, comme la cavalerie dans un bon western. L'épopée scientifique et technologique de Mars n'a pas fini de nous tenir en haleine.
+                
+            

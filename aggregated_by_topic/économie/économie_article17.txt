@@ -1,0 +1,34 @@
+
+                Le géant américain propose depuis début septembre une fonctionnalité comparant les selfies des utilisateurs à des oeuvres d'art pour dénicher leurs sosies.
+                
+                    Auriez-vous fait un bon modèle pour une oeuvre d'art ? Si vous en doutez, Google peut vous aiguiller. Grâce à une nouvelle fonctionnalité de son application Google Art & Culture, disponible en France depuis le 4 septembre, le géant américain se propose de dénicher votre double artistique parmi des milliers de tableaux.
+                
+                
+                    Les plus chanceux se verront assimilés à la Vénus de Boticcelli, d'autres seront épatés de retrouver leurs traits dans ceux du peintre néerlandais Willem van de Velde, ou dans ceux de Vincent Van Gogh.
+                
+                
+                    Le principe d'"Art selfie", le nom de cette fonctionnalité, est simple. Vous vous prenez en photo, et Google analyse les traits de votre visage grâce à son outil de reconnaissance faciale Facenet avant de vous proposer, en quelques secondes, cinq portraits censés vous ressembler de près, ou, parfois, de loin. De très loin.
+                
+                
+                    Car les surprises sont de mise, tant la base de Google est immense. L'application s'appuie sur un partenariat avec plus de 1 200 musées dans 70 pays, soit plusieurs dizaines de milliers d'oeuvres différentes, des plus illustres aux plus inconnues. A tel point qu'une habitante de Saint Louis, aux Etats-Unis, a découvert, parmi les propositions de Google, le portrait... de sa grand-mère.
+                
+                
+                    Lancée en décembre aux Etats-Unis, Art selfie a connu un succès fulgurant outre Atlantique, avec près de 80 millions de correspondances recherchées en quelques mois, et une application qui a caracolé en tête des téléchargements sur l'Apple Store d'Apple et sur le Pays Store de Google sur le début d'année.
+                
+                
+                    Quelle protection des données ?
+                    Mais son arrivée en France a été plus tardive, en raison des questions soulevées par l'utilisation de ces données de reconnaissance faciale par Google, plus encadrée en France et en Europe qu'aux Etats-Unis, notamment depuis l'entrée en vigueur de la RGPD en mai 2018. Les entreprises sont, depuis, obligées de demander l'accord des internautes pour exploiter leurs données.
+                
+                
+                    Concernant l'utilisation de dispositifs biométriques, la Commission nationale de l'informatique et des libertés (CNIL) précise que "le recours à un dispositif de reconnaissance biométrique intégrée à un appareil n'est pas soumis aux obligations prévues par le RGPD", dès lors que "le gabarit biométrique est stocké dans l'appareil, dans un environnement cloisonné et n'est pas accessible ou transmis à l'extérieur".
+                
+                
+                    Dans le cas contraire, les données sont stockées sur un serveur distant et l'entreprise "doit effectuer une analyse d'impact relative à la protection des données (AIPD)" qui doit être transmis à la CNIL pour consultation.
+                
+                
+                    Cela n'est pas nécessaire dans le cas de Art selfie puisque dans un article du Wahsington Postparu en janvier, l'un des porte-parole de Google, Patrick Lenihan, a assuré que "Google n'utilis[ait] en aucun cas ces selfies pour autre chose que la comparaison avec une autre oeuvre d'art".
+                
+                
+                    L'application Art & Culture assure également que Google ne "conserve les photos que le temps de rechercher des correspondances", après quoi elles sont supprimées par l'entreprise et conservées seulement sur le téléphone des utilisateurs - sauf, bien sûr, si ces derniers, fiers ou désolés, les partagent sur les réseaux sociaux.
+                
+            

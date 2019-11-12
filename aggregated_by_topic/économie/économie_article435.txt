@@ -1,0 +1,29 @@
+
+                Selon le "JDD", l'adresse Gmail du chef de l'État et son mot de passe figurent sur une liste de comptes corrompus.
+                
+                    Le compte Gmail d'Emmanuel Macron a-t-il été piraté ? Rien ne permet de l'affirmer mais, selon le Journal du dimanche, son adresse personnelle et son mot de passe ont bien été captés par un hacker.
+                
+                
+                    Le journal hebdomadaire indique qu'un certain Troy Hunt, spécialiste américain en cybersécurité, a débusqué sur Internet un fichier regroupant 772 millions d'adresses e-mail et 22 millions de mots de passe correspondant à une liste de comptes potentiellement corrompus. Or, au milieu de cette longue liste, on retrouve celui du président de la République.
+                
+                
+                    Une adresse repérée dans un sous-fichier suspect
+                    Après avoir fait cette découverte, le même homme a mis en place un moteur de recherche - Haveibeenpwned.com - qui permet à tout un chacun de savoir si son mail fait partie de la liste des fichiers recensés dans la base de données. Et c'est là que le courriel d'Emmanuel Macron a été retrouvé.
+                
+                
+                    Lorsqu'il était encore ministre de l'Économie, ce dernier avait pour habitude de distribuer à tour de bras cette adresse Gmail. La rédaction du JDD a fait le test et a constaté qu'elle faisait partie des mails affectés.
+                
+                
+                    Mais ce n'est pas tout : ce compte et ce mot de passe sont également présents dans un sous-fichier de plus de 5 000 mails et ont été partagés sur un site permettant le transfert de données le 25 juin 2017. Or, à l'époque, Emmanuel Macron était déjà président de la République.
+                
+                
+                    L'Élysée sur ses gardes
+                    Pour l'heure, rien ne permet cependant d'affirmer que ce compte a bel et bien été piraté, ni qu'un pirate a pu utiliser son mot de passe. Mais rien ne permet non plus de certifier que les échanges contenus dans ces mails n'ont pas fuité. Toujours selon Hunt, un hacker vendait certaines des informations répertoriées sur sa base de données pour moins de 50 euros.
+                
+                
+                    Sollicité par le JDD, le Palais de l'Élysée indique toutefois que la sécurité informatique du compte Gmail du président est prise très au sérieux: "Le mot de passe est changé régulièrement et, maintenant, le chef de l'État utilise une double authentification [le mot de passe puis le code reçu par téléphone]", est-il ainsi affirmé à l'hebdomadaire du dimanche. Reste que ce type de double verrou peut aussi être contourné par des pirates...
+                
+                
+                    Rappelons qu'aux États-Unis, la question de la sécurité informatique au sommet de l'État avait été au centre d'un vif débat lors de la dernière présidentielle. La raison ? Hillary Clinton avait été visée par une enquête du FBI, car elle avait utilisé un compte privé quand elle était à la tête du département d'État américain.
+                
+            

@@ -1,0 +1,53 @@
+
+                La start-up alsacienne a développé une solution logicielle permettant de réaliser des anesthésies uniquement sous hypnose.
+                
+                    L'esprit dans les nuages, le corps au bloc. L'anesthésie uniquement sous hypnose ne fait désormais plus débat, et de plus en plus d'hôpitaux français s'en servent quotidiennement. Denis Graaf et Chloé Chauvin, deux médecins anesthésistes, ont poussé l'expérience plus loin en s'appuyant sur les nouvelles technologies. Les deux praticiens ont développé un logiciel permettant de placer facilement le patient en état d'hypnose pendant la durée de l'opération.
+                
+                
+                    Baptisée Hypno VR, le système utilise des casques de réalité virtuelle pour immerger l'utilisateur dans une ambiance sonore et visuelle hypnotique. Des textes lus par des comédiens et des musiques apaisantes complètent l'équation pour mettre le patient dans un état de semi inconscience. Sa perception de la douleur diminue jusqu'à s'éteindre totalement. Ce procédé totalement novateur a été triplement primé au Hackathon Hacking Healthcamp de Strasbourg, en mars 2016.
+                
+                
+                    Sept mois plus tard, les deux anesthésistes décident de créer leur société et sont rejoints par Nicolas Schaettel, un diplômé de l'Edhec passé notamment par M6, MSN et PayPal. La jeune pousse incubée par Semia, unique incubateur strasbourgeois, a pu profiter du riche environnement med-tech de la capitale alsacienne.
+                
+                
+                    Pendant plus d'un an demi, le logiciel est ainsi testé et amélioré grâce aux études cliniques menées au CHU de Strasbourg et à l'Ecole Universitaire de recherche interdisciplinaire sur la douleur. Principal avantage de l'hypnose, elle diminue le stress, réduit la consommation d'antalgiques et raccourcit les durées d'hospitalisation. "Les résultats sont tout à fait encourageant assure Denis Graff, les délais de prise en charge en post opératoire ont été largement réduit : un patient qui auparavant passait quatre heures à recouvrir d'une anesthésie, ne met plus qu'une demi-heure pour récupérer". Ce qui permet au passage de faire gagner de l'argent aux hôpitaux en libérant des lits plus vite.
+                
+                
+                    La commercialisation des casques de réalité virtuelle d'HypnoVRauprès des établissements de santé démarrera dès la rentrée 2018.
+                
+                
+                    Denis Graaf du tac au tac
+                    Que voit-on et qu'entend-on quand on nous plonge dans HypnoVR ?
+                
+                
+                    Cela dépend de ce que vous choisissez. Nous avons développé trois univers immersifs : plage exotique, fonds sous-marins et promenade alpine. Quatre ambiances sonores sont ensuite disponibles parmi des répertoires classique, électro, folk et musiques du monde. Le bonus, Richard Darbois, la voix française de Richard Gere et Harrison Ford, est là pour vous accompagner à plonger dans un état hypnotique.
+                
+                
+                    Avec votre casque de réalité virtuelle, vous ne risquez pas de d'engendrer des suppressions de postes d'anesthésistes ?
+                
+                
+                    L'hypnose est un outil, elle ne remplace pas le praticien. Pendant l'intervention, le spécialiste est présent sur place pour surveiller, comme pour une anesthésie générale, et peut endormir l'opéré à tout moment si cela s'avère nécessaire. Et pour les interventions majeures, il reste préférable de recourir aux méthodes classiques.
+                
+                
+                    Justement, quelles opérations sont concernées par l'anesthésie sous hypnose ?
+                
+                
+                    Le casque HypnoVR sera utilisé dans sept services au CHU de Strasbourg. Cela va des interventions rapides en urgences, aux chimiothérapies en oncologie. La réalité virtuelle est aussi efficace en chirurgie dentaire, notamment pour rassurer ceux qui ont la phobie des dentistes.
+                
+                
+                    Vous n'avez jamais été tenté d'utiliser l'hypnose pour convaincre plus facilement quelqu'un, comme le font les Jedi ?
+                
+                
+                    Non jamais ! Je suis même assez mauvais en négociation. L'hypnose que l'on apprend est à visée médicale et thérapeutique, pas pour obtenir des faveurs !
+                
+                
+                    HypnoVR en trois chiffres
+                    Nombre d'employés : 5
+                
+                
+                    Levée de fonds : 700 000 euros depuis le début de l'année
+                
+                
+                    Près de 1000 euros d'économie par intervention pour les hôpitaux qui préfèrent l'hypnose à l'anesthésie médicamenteuse.
+                
+            

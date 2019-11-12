@@ -1,0 +1,28 @@
+
+                Un moteur de recherche propose de vérifier en un clic si la sécurité de certains comptes d'internautes a été compromise.
+                
+                    Ce fantôme, sous ses airs menaçants, a vraiment de quoi effrayer. Derrière ce logo, un nouveau moteur de recherche, ouvert en mars et dont nous avons préféré taire le nom pour des raisons de sécurité, invite les internautes à vérifier si un ou plusieurs de leurs mots de passe se trouvent en libre accès sur la Toile. Il suffit d'entrer son mail ou son nom d'utilisateur dans la barre de recherche pour se donner aussitôt des sueurs froides. "Nous avons mis la main en décembre 2017 sur des fuites importantes de données issues d'un forum d'une communauté underground (*)", explique Ralph Curry (un pseudonyme). Cet administrateur du site, - lequel est hébergé en France et doté d'une adresse en .fr - a souhaité échanger uniquement par e-mail avec L'Express pour des raisons de confidentialité.
+                
+                
+                    Ecoutez Emmanuel Paquette parler de ce drôle de moteur de recherche de mots de passe volés - et de ses drôles de motivations (sur SoundCloud).
+                
+                
+                    Au total, 1,4 milliard de mots de passe sont ainsi indexés, autant de sésames pour entrer sur des comptes Yahoo!, Gmail, Netflix, LinkedIn, Amazon, MySpace (sic), Badoo ou encore YouPorn... "Nous sommes cinq personnes à l'initiative de ce projet, dont des Français, âgées de 17 à 37 ans et dont le but est d'avertir les gens du risque qu'ils encourent", ajoute Ralph Curry, qui se présente comme une sorte de chevalier blanc.
+                
+                
+                    Un moteur de recherche illégal
+                    Ce site propose en effet aux internautes dont les données ont été piratées de les retirer du moteur en leur envoyant un message sur Twitter. Testé durant plusieurs jours par nos soins, le service affiche effectivement de multiples mots de passe au sein même de la rédaction même si dans de nombreux cas, ils s'avèrent assez anciens et modifiés par les utilisateurs depuis longtemps.
+                
+                
+                    Sur le fond, cette démarche est à double tranchant puisqu'elle peut aussi aider des acteurs malveillants à prendre le contrôle de certains comptes. "Effectivement, un pistolet peut aussi bien servir à tuer quelqu'un qu'à se défendre", reconnait Ralph Curry
+                
+                
+                    Pour autant, ce type de comportement n'est pas du goût de tout le monde. "Ce qu'ils font est totalement illégal et irresponsable, explique une source au ministère de l'Intérieur. Je préfère de loin ce que fait un site comme haveibeenpwned (Ai-je été attrapé ?) qui ne diffuse pas les mots de passe mais vous avertit des fuites."
+                
+                
+                    Le moteur contrevient à plusieurs articles de loi français sur la protection des informations personnelles et sur l'atteinte aux systèmes de traitement automatisés des données. Interrogé à ce sujet, Ralph Curry s'emporte : "De quelles lois parlez-vous ? Je préfère que nous arrêtions là nos échanges."
+                
+                
+                    * Il s'agit de bases déjà connues, telles que exploit.in (fuite de 593 millions de comptes) ou encore Anti Public (458 millions d'éléments).
+                
+            

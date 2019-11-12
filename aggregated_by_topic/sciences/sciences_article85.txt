@@ -1,0 +1,32 @@
+
+                Des chercheurs franco-américains ont décelé des sons bien particuliers émis avant certaines secousses.
+                
+                    Les géologues connaissent par coeur cette question : peut-on prédire un tremblement de terre ? Elle leur est souvent posée car l'enjeu dépasse le cadre de la science. Les plus importants séismes du monde sont parfois synonymes de bilans humains catastrophiques : 2256 morts en Indonésie en septembre dernier, 370 morts au Mexique un an plus tôt, ou encore 668 morts en Équateur sept mois auparavant. Pourtant, invariablement depuis des décennies les chercheurs répondent : non, la science comprend mieux, mais ne sait pas prédire les séismes. Du moins, pas encore... car les progrès se multiplient vite grâce à l'emploi notable de l'intelligence artificielle (IA).
+                
+                
+                    Deux nouveaux articles publiés dans la revue Nature Geoscience, le 17 décembre, confirment l'espoir placé en ces méthodes pour faire avancer nos connaissances. Ils sont signés par un groupe de sept chercheurs américains et français, travaillant pour la plupart au Los Alamos National Laboratory. Leur idée : éduquer une IA pour écouter attentivement une zone sismique, afin d'y trouver les signes d'une activité future. Les scientifiques ont testé avec succès cette technique en laboratoire, puis ont essayé de la transposer sur le terrain.
+                
+                
+                    Séisme en laboratoire
+                    Au départ, il a fallu simuler des séismes en laboratoire. Pour ce faire, les auteurs ont utilisé une technique classique avec des blocs de matières synthétiques, mis sous forte pression et séparés par une poudre de silice. Bardé de capteurs, ce modèle réduit reproduit la résistance puis les décrochements en saccades qui surviennent lors d'un tremblement de terre. "Les auteurs ont enregistré des émissions acoustiques, comme des petits 'crac' de fissures et de déformations, avant les déplacements brutaux", explique Yann Klinger, chercheur à l'Institut de physique du globe de Paris (CNRS/université Paris-Diderot).
+                
+                
+                    C'est à ce moment précis que l'IA entre en jeu. Les scientifiques ont entraîné un modèle informatique capable d'évoluer en se nourrissant des nombreuses données fournies (méthode appelée machine-learning). Celui-ci est alors devenu assez bon pour reconnaître les signes acoustiques précurseurs. Mieux encore : le modèle montre que plus le bruit est fort, plus la secousse finale de leur expérience est rapide et puissante. "C'est nouveau et surprenant de trouver un signal aussi informatif de l'état d'une faille dans cette expérience pourtant classique, puisqu'elle existe depuis une vingtaine d'années", raconte l'un des chercheurs, Bertrand Rouet-Leduc.
+                
+                
+                    Armés de ces découvertes, l'équipe a étudié une situation réelle, où deux des plaques tectoniques constituant la surface de la Terre s'affrontent : la faille de Cascadia, au large du Canada et des Etats-Unis. "Il s'agit d'un système bien étudié, extrêmement régulier, et c'est surtout l'exemple emblématique de ce qui produit des séismes lents, c'est-à-dire des glissements entre des surfaces durant des jours voire des semaines, imperceptibles pour l'homme", précise Yann Klinger.
+                
+                
+                    Or cette action produit des ondes acoustiques constantes, considérées jusqu'ici comme un bruit de fond permanent peu exploitable. C'est exactement ce que les chercheurs ont fait écouter à une version améliorée de l'IA mise au point en labo. "Le machine-learning nous a révélé tout le comportement de Cascadia, caché dans ces données", résume Paul Johnson, l'un des auteurs de l'étude. Dans le détail, leur système permet de prévoir les lents déplacements des plaques et ses déformations progressives.
+                
+                
+                    "Une boîte noire" empirique
+                    Suffisant pour prédire les séismes catastrophiques ? Pas tout à fait. "Ils arrivent à le deviner en laboratoire, dans une expérience extrêmement contrôlée dont ils connaissent tous les paramètres, commente Yann Klinger. Mais la réalité n'est pas un échantillon isolé sans interférences." La technique de l'IA ouvre cependant une voie prometteuse, même si elle est soumise à un autre problème de fond. "C'est un peu une boîte noire qui reconnaît simplement des choses qui se sont déjà passées, c'est d'ailleurs le propre de cette approche, poursuit le scientifique. Le machine-learning n'est donc pas capable d'écrire la théorie qui nous explique exactement ce qui provoque un séisme, ou encore d'écrire son équation."
+                
+                
+                    Notre connaissance du mécanisme des tremblements de terre provenant déjà de l'observation, l'outil ne fait que poursuivre ce raisonnement... Il se nourrit d'ailleurs des mêmes mesures que l'homme, dans un volume toutefois incomparable ! Ici, les chercheurs ont par exemple utilisé la masse de quatre années d'enregistrements sismiques et GPS en continu, provenant de six stations distinctes, afin d'éduquer leur IA. "Nous les avons analysées en seulement quelques jours sur des ordinateurs puissants, sans même avoir besoin d'un supercalculateur", détaille une autre chercheuse de l'équipe, Claudia Hulbert. Désormais rodée à cette pratique, l'équipe se penche depuis plus d'un an sur de multiples zones sismiques intéressantes, du Mexique au Japon en passant par la Nouvelle-Zélande ou le Chili, à la recherche de résultats similaires.
+                
+                
+                    Cet été, un autre groupe de chercheurs - dont deux employés de Google - a publié dans la revue Nature une troisième étude associant, ici encore, l'IA aux séismes. Leur technique a par exemple servi à établir une prévision de la localisation des répliques, après un premier fort tremblement de terre. "Nous avions d'ailleurs lu et étudié cet article, affirme Claudia Hulbert. C'est une très bonne chose que ces outils se répandent, spécifiquement en sismologie où la quantité de données est énorme à analyser". Et son confrère Bertrand Rouet-Leduc d'ajouter : "Je suis convaincu que c'est l'une des méthodes les plus prometteuses pour tenter d'anticiper un jour les séismes, le machine-learning est vraiment l'avenir."
+                
+            

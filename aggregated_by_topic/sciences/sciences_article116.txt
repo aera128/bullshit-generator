@@ -1,0 +1,26 @@
+
+                Les experts du MIT ont trouvé le moyen de projeter des sons dans une zone précise à l'aide d'un signal lumineux.
+                
+                    James Bond et Ethan Hunt, les deux agents secrets les plus célèbres du cinéma, peuvent aller se rhabiller. Dans un futur proche, il n'y aura plus besoin d'oreillettes ni de casques pour recevoir des messages audio discrets. Le son parviendra directement à nos oreilles par faisceau laser !
+                
+                
+                    Cette communication photoacoustique imaginée par des chercheurs du Massachusetts Institue Of Technology (MIT) fonctionne déjà, à petite échelle, en laboratoire. Elle est capable de produire un son d'une puissance de 60 décibels - l'équivalent du fond sonore d'un restaurant bruyant - dans une zone située à 2,5 mètres de distance de l'appareil émettant le faisceau lumineux.
+                
+                
+                    Créer du son à partir de la lumière
+                    La possibilité de créer des sons à partir de lumière était déjà connue depuis longtemps. Alexander Graham Bell, l'inventeur du téléphone, avait même déposé en 1880 un brevet détaillant ce genre de technologie. Cependant c'est la première fois qu'un système aussi précis et abouti voit le jour expliquent les chercheurs qui publient les résultats de leurs travaux dans la revue Optic Letters.
+                
+                
+                    A LIRE AUSSI : Le CNRS dénonce le clip macho du prix Nobel français
+                
+                
+                    Pour produire des sons, les scientifiques balaient très rapidement au laser une zone contenant de la vapeur d'eau. Au contact de la lumière, celle-ci émet des vibrations sonores. Les chercheurs jouent ensuite avec la longueur d'onde du signal lumineux pour rendre le résultat audible. La bonne nouvelle, c'est qu'il n'y a pas besoin de beaucoup de vapeur d'eau pour que l'expérience fonctionne, explique l'un d'entre eux. Il est également possible d'allumer et d'éteindre le laser à la vitesse du son pour produire un signal sonore de meilleure qualité.
+                
+                
+                    Pointer à distance le système auditif
+                    Mais le plus impressionnant dans ces expériences reste la possibilité d'envoyer un signal sonore dans une zone très précise. A l'avenir, une personne pourra entendre un message même si elle se trouve au milieu d'une foule bruyante. Il suffira que le laser pointe très précisément son système auditif ! La portée du système peut être largement améliorée estiment les chercheurs qui pensent déjà à la commercialisation d'une version capable de couvrir plusieurs centaines de mètres.
+                
+                
+                    Les débouchés pour cette nouvelle forme de communication sont nombreux. L'armée, qui travaille sur des technologies de canons laser, pourrait être intéressée par un système capable de guider discrètement ses troupes. Mais les lasers sonores pourraient également servir à envoyer des messages publicitaires ou à avertir n'importe quel citoyen en cas de danger imminent. Pour ne pas blesser la personne qui reçoit le message, les chercheurs ont soigneusement choisi la bonne longueur d'onde. Le laser sonore ne brûle ni la peau ni les yeux, affirment les chercheurs. Après avoir révolutionné la chirurgie oculaire, l'étude des lasers pourrait bien une fois de plus, bouleverser notre quotidien.
+                
+            

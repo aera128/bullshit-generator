@@ -1,0 +1,33 @@
+
+                L'homme contre la machine, c'était jusque-là réservé aux échecs. Il y a dix jours, c'est le champion du monde des débats qui a affronté un ordinateur... et n'a pas eu la tâche si facile.
+                
+                    Il y a dix jours, à San Francisco, en Californie, a eu lieu un drôle de duel, sous l'égide d'IBM, entre un homme et une intelligence artificielle, un supercalculateur gavé de données. Encore, vous récriez-vous d'avance, on le sait déjà que la machine peut désormais mettre une raclée à n'importe quel cador des échecs ou du jeu de go, on s'en balance, on joue à Candy Crush. Sauf que là, c'était du sérieux, pas du divertissement.
+                
+                
+                    L'ordinateur, un haut et fin rectangle noir à l'oeil bleu scintillant, et vaguement menaçant, affrontait le champion du monde des débats, un super banquier anglo-indien bardé de diplômes de Cambridge et d'Oxford, Harish Natarajan. Une star de la discipline - dont j'ai appris à cette occasion qu'elle existait, la discipline. Le genre de type qui, à coups de raisonnement bien senti, est capable en cinq minutes d'amener un quarteron de gilets jaunes à animer un Grand Débat.
+                
+                
+                    Cette fois, l'homme a gagné. Il devait démolir un projet de subvention à destination des écoles maternelles ; la machine devait convaincre l'assistance réunie à cet effet du bien-fondé de la mesure. Le public votait au préalable et à la fin. En sortant, il avait majoritairement changé d'avis et suivi l'orateur de chair et d'os.
+                
+                
+                    Mais son interlocuteur de métal et de silice a fait mieux que tenir son rang. Project Debater, c'est son nom, a certes commis quelques fautes techniques grossières, comme de répondre à une attaque que Harish Natarajan n'avait même pas lancé. De même, il s'est montré aussi brillant pour présenter ses arguments qu'un peu faiblard quand il devait répondre à ceux de son rival. Mais dans l'ensemble, sa rhétorique a bluffé tous les observateurs. Il s'est même permis quelques clins d'oeil, comme ce préambule, adressé à son adversaire : "Il paraît que vous détenez le record du championnat du monde des débats, mais vous n'avez jamais affronté une machine. Bienvenue dans le futur."
+                
+                
+                    Coupé d'internet pendant la durée des hostilités, mais alimenté par une gigantesque base documentaire embarquée, constituée d'articles de presse, notamment, et de milliards de phrases et d'arguments, pour et contre, sur tous les sujets, Project Debater a eu un quart d'heure pour préparer la joute. Comme Harish Natarajan, qui, lui, ne pouvait compter que sur sa mémoire, son éloquence et son pouvoir de conviction. Ils ont suffi. Mais tout juste, a reconnu le concurrent humain, admiratif. Il s'est même dit qu'il aimerait faire appel à ce genre de technologie de pointe dans son boulot de tous les jours de responsable du service de gestion des risques d'une grande banque londonienne.
+                
+                
+                    Surtout, il a admis que la confrontation l'a fait progresser, qu'il est meilleur débatteur après qu'avant la bataille. Longtemps, les "Deeper Blue" et autres "AlphaGo" d'IBM, ses ordinateurs de compétition, ont servi de sparring-partner aux champions d'échec ou de go qu'on leur opposait. Jusqu'au jour où, contre toute attente, le partenaire d'entraînement a battu le champion, une fois, puis à tous les coups. Comme le souligne Benoît Raphaël, entrepreneur, "chief robot officer", comme il s'appelle lui-même en souriant, et grand consommateur d'IA qui m'a fait connaître cette histoire, on ne peut pas pour autant parler d'intelligence, "c'est-à-dire de conscience du sujet". Laurent Alexandre, autre grand spécialiste des neurones synthétiques, se refuse lui aussi à utiliser le terme - pour l'instant. Harish Natarajan prévoit que dans dix ans, Project Debater se sera suffisamment amélioré pour le mettre KO debout. Ce jour-là, on en reparlera.
+                
+                
+                    A lire ailleurs
+                
+                
+                    Les réactions (en anglais) d'Harish Natarajan à la sortie de sa confrontation avec Project Debater.
+                
+                
+                    La vidéo du débat (toujours en anglais) sur le site d'IBM.
+                
+                
+                    L'article de Benoît Raphaël au sujet de Project Debater sur sa page LinkedIn.
+                
+            

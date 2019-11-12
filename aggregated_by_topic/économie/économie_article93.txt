@@ -1,0 +1,19 @@
+
+                Le réseau social a fait l'objet d'un piratage la semaine dernière. 50 millions de comptes Facebook étaient concernés.
+                
+                    Facebook serait le seul concerné. "Nous avons maintenant analysé nos données concernant les applications tierces installées ou utilisées pendant l'attaque (...) Cette investigation n'a jusqu'à présent trouvé aucune preuve que les pirates ont accédé à la moindre app utilisant l'identification (login) Facebook", a écrit dans un communiqué Guy Rosen, responsable du dossier chez Facebook.
+                
+                
+                    Vendredi dernier, le premier réseau social du monde a révélé que des pirates étaient parvenus, à la faveur d'une faille de sécurité, à prendre le contrôle de quelque 50 millions de comptes Facebook dans le monde en s'emparant de clés numériques d'accès qui permettent de rester connecté à son profil sans avoir à entrer son mot de passe à chaque fois.
+                
+                
+                    Un outil technique à la disposition des développeurs
+                    Mais voilà, ce piratage pose la question de l'accès aux autres applications que l'on utilise via Facebook, la fameuse fonction "Connectez-vous avec Facebook". Les pirates pouvaient accéder aux comptes Facebook comme s'ils en étaient les propriétaires, cette voie d'accès leur a donc permis, en théorie, de se connecter aussi à différents sites et applications extérieurs, et donc, là encore, d'accéder aux profils et aux données des utilisateurs et ainsi récolter davantage de d'informations privées.
+                
+                
+                    Bien que Facebook affirme n'avoir à ce jour pas d'indications qu'ils aient effectivement accédé à ces profils extérieurs, le groupe précise mardi qu'il met à la disposition des développeurs de ces applications usant du "login Facebook" un outil technique leur permettant de vérifier manuellement les clés d'accès des utilisateurs.
+                
+                
+                    Normalement, la réinitialisation des clés numériques par le groupe la semaine dernière a dû protéger ces applications, assure Facebook. Le groupe rappelle qu'au moindre doute, il est conseillé aux développeurs de déconnecter les utilisateurs de l'application.
+                
+            

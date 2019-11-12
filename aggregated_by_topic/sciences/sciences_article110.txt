@@ -1,0 +1,36 @@
+
+                Start-up et constructeurs automobiles déclarent la guerre aux nausées, à grands coups de capteurs et de signaux lumineux.
+                
+                    Il gâche la vie de nombreux voyageurs et empêche la réalité virtuelle (VR) de prendre véritablement son envol. Le mal des transports - provoqué par le décalage entre ce que voient nos yeux et ce que perçoit notre oreille interne - touche plus de 3 millions de Français de manière chronique. Pour s'en débarrasser, chacun a sa méthode. Certains poussent la climatisation à fond. D'autres mâchent un chewing-gum ou ingurgitent des médicaments. Mais ces remèdes imparfaits pourraient bientôt disparaître au profit de solutions plus efficaces imaginées par des start-up et quelques grands noms de l'automobile. Serait-ce bientôt la fin des nausées et des sensations de mal-être ? L'enjeu est énorme.
+                
+                
+                    "Le mal des transports affecte 70% des passagers", estime Spencer Salter, chercheur en technologie chez Jaguar Land Rover. Et la situation risque d'empirer avec l'arrivée des voitures autonomes. "Dans ces véhicules, nous allons lire et regarder des écrans sur des sièges qui seront parfois orientés vers l'arrière. Du point de vue du mal des transports, c'est la pire des configurations", explique Antoine Jeannin, cofondateur de Boarding Ring, une start-up ayant fait de la disparition des nausées son cheval de bataille.
+                
+                
+                    Rééduquer le cerveau
+                    En partenariat avec Citroën, la jeune société - qui vient de présenter deux années de suite sa technologie au CES de Las Vegas - a mis au point des lunettes au look étrange, destinées à éliminer le mal des transports dans la vie de tous les jours. Composées de quatre anneaux remplis à moitié d'un liquide bleuté, ces montures recréent elles aussi un horizon artificiel.
+                
+                
+                    A LIRE AUSSI : La vraie star du CES 2019, c'est le burger vegan
+                
+                
+                    "On redonne à l'oeil l'information du mouvement qui lui fait défaut. Quand on est dans un véhicule, le regard est confiné. L'oreille interne en revanche ressent les accélérations, les virages... Cela crée un conflit sensoriel qui rend les gens malades", précise Antoine Jeannin. Les lunettes imaginées par Boarding Ring éliminent la sensation de malaise en quelques minutes. Mieux, plus on les porte, moins on devient sensible au mal des transports. "Elles rééduquent le cerveau en quelque sorte", explique le chef d'entreprise.
+                
+                
+                    Boarding Ring effectue des tests au CHU de Nice (Alpes-Maritimes), afin de mesurer précisément les effets de long terme liés à l'utilisation du produit. Mais reproduire une ligne d'horizon artificielle n'est pas la seule piste suivie par les start-up afin de lutter contre le mal des transports. Certaines cherchent à détourner l'attention du cerveau. L'américain Otolith Labs, par exemple, développe un appareil qui émet des vibrations. Ce dispositif s'intègre dans un bandeau que l'on place autour de la tête. Ainsi équipé, le passager d'un véhicule reçoit un "bruit blanc" quasiment inaudible, destiné à noyer l'oreille interne de signaux, atténuant ainsi les sensations de malaise. Toujours en phase de tests, Otolith Labs espère obtenir l'agrément de la Food and Drug Administration (FDA), l'autorité sanitaire américaine, d'ici à la fin de l'année.
+                
+                
+                    Surveiller la température... des pommettes
+                    Et pour ceux qui rêvent d'un dispositif moins contraignant, d'autres solutions sont en cours de développement. Boarding Ring imagine par exemple des colonnes lumineuses intégrées dans l'habitacle des voitures ou des bateaux. Un premier prototype fonctionne déjà dans une cabine du bateau laboratoire Energy Observer. De son côté, Uber a breveté un système de flashs lumineux destiné à prévenir les passagers lorsqu'une voiture autonome s'apprête à changer de direction. Ce dispositif peut être complété par une inclinaison automatique des sièges et des petits jets d'air comprimé afin de réduire au minimum les sensations de malaise.
+                
+                
+                    "Il y a là un vrai sujet pour les voitures autonomes", confirme Guillaume Devauchelle, directeur de l'innovation de Valeo. Au départ, les véhicules ne seront pas entièrement automatiques. Après avoir lâché le volant à certains endroits - dans un embouteillage par exemple -, le conducteur devra pouvoir reprendre les commandes sans être malade ! Valeo, qui teste déjà de tels véhicules dans les rues de Paris, surveille donc le degré d'inconfort des passagers en mesurant l'écart de température entre leur nez et leurs pommettes !
+                
+                
+                    Chez Jaguar Land Rover, un algorithme détermine un score de bien-être à partir de capteurs. Aussitôt le malaise repéré, la voiture intelligente réagit en ajustant la position des sièges ou en mettant la ventilation en marche. Mais pas n'importe laquelle : les derniers modèles chargent l'air ambiant de particules ionisées ayant un effet positif avéré sur le bien-être des passagers. Encore peu répandu en Europe, cet équipement fait déjà un tabac en Asie. Fort de ses 24 000 kilomètres de tests, Jaguar Land Rover s'estime capable de réduire le mal des transports de 60 %. Encore quelques efforts, et les clients de la marque pourront enchaîner les lacets en montagne sans aucune prise de tête.
+                
+                
+                    Un vrai soulagement pour les gamers
+                    Les gamers eux aussi pourraient enfin se débarrasser des nausées causées par l'immersion dans les jeux, grâce au Boarding VAR, un appareil conçu lui aussi par Boarding Ring et qui a reçu un award de l'innovation au dernier CES de Las Vegas. Cet équipement vient se fixer sur un casque de réalité virtuelle. Il se compose d'un boîtier, qui capte les mouvements de la tête, et de deux mini-écrans placés au niveau des tempes de l'utilisateur. Lorsque celui-ci se penche, le boîtier envoie des instructions aux écrans afin qu'ils recréent une sorte d'horizon artificiel à l'aide d'impulsions lumineuses. De quoi remettre en cohérence les informations reçues par l'oeil et l'oreille interne. "Les signaux restent discrets pour ne pas ruiner l'expérience, mais ils sont perceptibles", détaille Antoine Jeannin. L'appareil fera-t-il mieux que les semelles qui permettent de "sentir le sol" ou les plateformes électromagnétiques destinées à mettre le siège des joueurs en lévitation, elles aussi en cours de développement ? "Cela fonctionne. On a fait des tests sur des jeux de type roller coaster [montagnes russes] et le mal au coeur diminue nettement, assure Antoine Jeannin. La start-up espère désormais de nouvelles sensations fortes... en levant des fonds.
+                
+            

@@ -1,0 +1,66 @@
+
+                Interview du chercheur Frédéric Landragin, spécialiste en linguistique et en traitement automatique des langues.
+                
+                    Et si des extraterrestres débarquaient, demain, sur Terre ? Ou si des explorateurs les rencontraient lors d'un voyage interstellaire ? La première difficulté serait probablement de savoir comment communiquer avec eux : comment les comprendre, comment se faire comprendre ? Le langage sera sans aucun doute d'une importance cruciale.
+                
+                
+                    Inspiré par de nombreux ouvrages et films de science-fiction, de Babel 17 à Premier Contact, en passant par L'Enchâssement ou Les langages de Pao, Frédéric Landragin, directeur de recherche au CNRS, spécialiste en linguistique et traitement automatique des langues, explore ces questions en faisant dialoguer science-fiction et linguistique dans son livre Comment parler à un alien ? Langage et linguistique dans la science-fiction (Ed. Belial), à paraître jeudi 18 octobre. Le scientifique détaille les bases des langages, la nature des langues et modalités du premier contact et aborde aussi un concept plus philosophique : apprendre à parler à un extraterrestre, c'est apprendre à parler à l'autre, donc savoir se parler à soi-même.
+                
+                
+                    L'EXPRESS. Qui a le mieux imaginé le premier contact ?
+                
+                
+                    Frédéric Landragin : La première oeuvre cinématographique qui m'a marqué, c'est Rencontres du troisième type de Steven Spielberg. C'était la première fois, au cinéma, que les extraterrestres n'étaient pas simplistes, ne parlaient pas l'anglais et n'utilisaient pas de traducteur automatique universel. Il fallait apprendre à communiquer avec eux. Si le film ne pousse pas le concept jusqu'au bout et se contente des fameuses cinq notes de musique, il montre que le problème est sérieux et qu'une équipe de scientifiques doit le résoudre. Plus récemment, Premier Contact, de Denis Villeneuve, est le premier film qui aborde vraiment la question de la linguistique et reflète ce que font les scientifiques de terrain.
+                
+                
+                    La littérature est beaucoup plus fouillée, il est plus difficile de se prononcer. Peut-être que les meilleures histoires sont celles où le contact est finalement impossible ? Comme dans Solaris de Stanislas Lem, par exemple, où les scientifiques tentent d'entrer en contact avec un océan vivant, sans succès, ou dans La voix du maître, du même auteur, où les chercheurs sont dans l'incapacité de décrypter un message venant de l'espace.
+                
+                
+                    Quelle est la langue inventée la plus crédible ?
+                
+                
+                    La plupart du temps, les langues extraterrestres imaginées par des auteurs sont une suite de mots nouveaux intégrés dans une syntaxe déjà connue, comme celle du français ou de l'anglais. Cela a le mérite de très bien passer à l'écran, mais pour un linguiste, cela semble trop facile.
+                
+                
+                    A l'autre extrémité, il y a le travail de J.R.R Tolkien, l'auteur du Seigneur des Anneaux. Il a inventé une dizaine de langues très solides [en particulier le quenya et le sindarin, deux langues elfiques, NDLR]. Il est allé bien au-delà de l'invention de suites de mots en élaborant des dictionnaires pour ces langues par exemple. Il faut dire qu'il a été lexicographe dans l'équipe du Oxford English Dictionary pour lequel il a notamment rédigé les définitions des mots commençant par W. Il possédait une vaste connaissance de la langue écrite, la terminologie, la synonymie, l'ambiguïté des mots, etc.
+                
+                
+                    Le klingon [la langue d'une espèce de l'univers Star Trek] est un autre exemple intéressant, même s'il n'est pas du même niveau que les langues de Tolkien.
+                
+                
+                    L'humanité a-t-elle prévu un protocole "premier contact" ?
+                
+                
+                    Je ne sais pas si les États ont prévu quoi que ce soit. Ce que je sais, c'est que je ne connais aucun collègue linguiste à qui on a demandé de préparer quelque chose. Des réflexions ont été engagées au sein du programme SETI - qui vise à détecter la présence de civilisations extraterrestres avancées dans d'autres systèmes solaires -, mais cela concerne la communication à distance. Si la communication s'effectue face à face, les réponses se trouvent dans la linguistique de terrain.
+                
+                
+                    Dans ce cas, il n'y a pas de document décrivant des "étapes magiques". Il existe néanmoins un cadre de travail : quand des linguistes découvrent un peuple dont le langage est totalement inconnu, ils commencent par vivre avec ses membres, observer leur comportement, les écouter, et apprendre leur culture. Aujourd'hui, ils utilisent généralement un enregistreur pour détecter les variations parfois subtiles de la langue et retranscrivent les sons grâce à un alphabet adapté, à l'image de l'Alphabet Phonétique International. Surtout, ils décrivent le cadre dans lequel les phrases sont prononcées : si elles sont accompagnées d'un geste des mains ou des yeux ou l'utilisation d'un outil.
+                
+                
+                    Quels seraient les principaux obstacles empêchant la communication entre l'humanité et des extraterrestres ?
+                
+                
+                    Les auteurs de science-fiction ont à peu près tout imaginé : des extraterrestres communiquant avec des motifs, des couleurs, des peintures, des tapotements, des vibrations voire même par des odeurs, ou des champs magnétiques, ces deux derniers modes étant particulièrement compliqués. Le jour du premier contact, les scientifiques installeront probablement toutes sortes de détecteurs : de vibrations et d'ondes dans toutes les gammes de fréquences imaginables, olfactifs, de mouvements hyper sensibles, etc.
+                
+                
+                    Découvrir le type de médium utilisé pour communiquer ne devrait pas être le plus dur. Ensuite, il s'agira de décrypter le contenu. Pas facile quand on part de rien, que l'on n'a pas de dictionnaire, de corpus ou de référence. Échanger un premier mot qui a du sens peut déjà se révéler complexe, mais prononcer une phrase complète, requiert de connaître la culture et les coutumes du nouveau peuple.
+                
+                
+                    Vous écrivez qu'il est important de maîtriser le langage pour mieux communiquer entre nous et avec d'autres. Une promotion pour la linguistique ?
+                
+                
+                    Oui, car je pense qu'on ne met pas suffisamment en avant les langues et leurs complexités dans le monde actuel. Par exemple, lorsque l'on parle de sciences à la télévision, ce sont toujours les sciences dures : chimie, mathématiques, physique. On évoque trop rarement les sciences humaines comme la linguistique, qui sont pourtant très importantes.
+                
+                
+                    C'est pareil pour la science-fiction, les romans donnés aux jeunes sont souvent sur les robots, l'exploration spatiale, beaucoup moins sur les langues. Pourtant, il existe des tas de livres de SF qui sont très importants du point de vue linguistique. La sortie de 'l'ovni' Premier Contact au cinéma m'a motivé à écrire ce livre. Je me suis dit : "Ah ! Enfin un film d'extraterrestres dans lequel on parle de langage", ce qui est tout même plus intéressant que les films de guerre type Independance Day, à la fois désespérément vide et remplis de clichés éculés.
+                
+                
+                    L'apprentissage de la langue d'une civilisation extraterrestre pourrait-il nous transformer ?
+                
+                
+                    Je pense que c'est plutôt par l'apprentissage de leur culture ou de leurs technologies que s'opéreront des changements. On sait aujourd'hui que l'hypothèse Sapir-Whorf [qui soutient que la façon dont on perçoit le monde dépend du langage] est fausse. J'explique pourquoi dans mon livre, mais pour résumer, Sapir et son élève Whorf ont eu cette idée en étudiant les langues amérindiennes. Whorf, qui n'était pas linguiste mais ingénieur, a ensuite poussé le concept de manière peu scientifique.
+                
+                
+                    Quand nous apprenons une langue, nous apprenons de nouvelles choses sur l'autre. C'est donc un super outil pour comprendre la diversité et j'encourage à le faire, mais cela ne "recâble" pas notre cerveau. Cela ne va pas nous permettre d'avoir des visions du futur comme dans Premier Contact. En ce sens le film dérive dans la fiction, ce qui n'est pas grave puisque c'est le propre de la SF d'être un laboratoire où l'on peut aller au bout de tout, même d'une hypothèse incroyable.
+                
+            

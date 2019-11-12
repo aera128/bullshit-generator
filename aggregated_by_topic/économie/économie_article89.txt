@@ -1,0 +1,35 @@
+
+                Les services de renseignement pointent des risques de cybersécurité dans les véhicules PSA équipés d'options Huawei.
+                
+                    Ce 14 mai 2017, sous une pluie fine, Emmanuel Macron célèbre son investiture sur les Champs- Elysées. Le nouveau président de la République salue la foule depuis le toit ouvrant du DS 7 Crossback. Un joli coup de publicité pour son constructeur, le français PSA Peugeot Citroën.
+                
+                
+                    Pourtant, quatre mois plus tard, le ton n'est plus à la fête lors d'une réunion secrète. Les futurs véhicules du constructeur suscitent en effet les craintes de nos spécialistes de la sécurité nationale. Selon nos informations, le secrétariat général de la défense et de la sécurité nationale (SGDSN), les services de renseignement et le cyberpompier de l'État, l'Anssi, sont inquiets car ils viennent d'apprendre que le groupe chinois Huawei, spécialiste des équipements de télécommunications, s'apprête à connecter toutes les DS 7 Crossback. Il s'agit en clair de les doter de cartes mises à jour à distance, d'un portail de services pour la maintenance de la voiture, d'un historique des trajets et modes de conduite, le tout accessible grâce à la reconnaissance vocale.
+                
+                
+                    Ces raffinements high-tech sont proposés sur ce véhicule depuis le mois d'avril 2018 en Chine et le seront bientôt en Europe au travers de la plateforme Connected Vehicle Modular Platform (CVMP) mise en place par l'entreprise de Shenzhen. Et c'est bien là que réside le problème. "Ces technologies peuvent permettre aisément d'écouter les conversations ou d'espionner à distance les déplacements d'hommes politiques ou de hautes personnalités", révèle une source sous couvert d'anonymat.
+                
+                
+                    Le risque? Des ministres, députés et sénateurs sur écoute
+                    Le DS 7 Crossback n'est que "le premier véhicule à bénéficier de ce travail commun (...) qui vise ensuite à être déployé" plus largement, indique PSA qui compte parmi ses actionnaires le constructeur auto Dongfeng (plus de 12% du capital). Or selon l'Ugap, l'État et les collectivités locales ont acquis 21 000 voitures en 2017 pour 330 millions d'euros, dont 20% de Citroën et de Peugeot. Un chiffre qui devrait rester sensiblement équivalent en 2018 et dans les années à venir. Nombre d'entre elles sont destinées à des membres du gouvernement, des députés, des sénateurs et des responsables de l'administration dans toute la France.
+                
+                
+                    PSA se défend de leur faire courir le moindre risque. "Nous maîtrisons l'intégrité et la confidentialité de l'ensemble des données : elles sont toutes chiffrées et sécurisées. Huawei n'a pas accès à ces clés de chiffrement", affirme le groupe. "Depuis 16 ans que nous sommes en France, il n'y a jamais eu le moindre problème de cybersécurité sur un équipement de notre marque, renchérit à l'Express la firme chinoise. Nous accompagnons nos clients (...) avec un transfert de savoir-faire chez eux."
+                
+                
+                    La méfiance des spécialistes de la sécurité s'explique par les relations qu'entretient le groupe chinois avec le pouvoir de Pékin. Depuis plusieurs années, le commissaire à l'information stratégique et à la sécurité économique (Cisse) et le SGDSN scrutent les mouvements de la multinationale de Shenzhen.
+                
+                
+                    Dès 2012 et la publication du rapport sénatorial de Jean-Marie Bockel (UDI) sur la cyberdéfense, Huawei a été pointé du doigt pour ses "étroites relations avec l'armée de libération du peuple chinois". Son fondateur, Ren Zhengfei a travaillé dans sa jeunesse pour l'institut de recherche de l'armée et la discipline au sein de sa société repose sur des préceptes militaires.
+                
+                
+                    Afin de rassurer les autorités, la firme s'est adjointe les services de personnalités françaises. Elle a nommé en 2010 à la présidence de son conseil d'administration en France, François Quentin, ex-directeur général adjoint de Thales. Plus récemment, ce fut au tour de Jean-Louis Borloo de rejoindre le conseil en 2016 au côté de l'avocat Dominique Villemot, un proche de François Hollande et soutien d'Emmanuel Macron durant sa campagne présidentielle.
+                
+                
+                    Huawei, banni des États-Unis et de l'Australie
+                    D'autres pays, sujets aux mêmes craintes, ont pris des mesures drastiques. En raison des risques pour la sécurité nationale et des craintes d'espionnage étatique, les Etats-Unis et plus récemment l'Australie ont interdit à l'équipementier de vendre des produits de réseau mobile 5G aux opérateurs télécoms. De son côté, le Canada vient d'annoncer qu'il venait de lancer des tests de sécurité sur les produits de la marque chinoise. Cette pression fait de l'Europe une cible stratégique pour Huawei. Ainsi, au Royaume-Uni, elle a annoncé en février dernier 3,5 milliards d'euros d'investissement sur cinq ans. "Leur entrisme en France est très agressif mais aucun autre acteur européen ne peut rivaliser avec leurs solutions", se désole un connaisseur.
+                
+                
+                    Ce n'est pas la première fois que les autorités hexagonales tirent le signal d'alarme. Le Canard Enchaîné, avait dévoilé en mars 2017 que le partenariat conclut entre Huawei et Orange pour la création d'un service aux entreprises destiné à héberger leurs données et applications dans un cloud, dénommé Flexible engine, suscitait des craintes d'espionnage. Mais pour l'heure, toutes ces mésaventures n'ont pas nui à la réussite chinoise, deux mots qui se traduisent par... Huawei.
+                
+            

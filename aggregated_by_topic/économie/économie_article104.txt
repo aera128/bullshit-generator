@@ -1,0 +1,38 @@
+
+                C'est la première fois que le groupe américain développe en interne un produit de grande consommation.
+                
+                    C'est une mutation stratégique pour le réseau social en pleine tourmente. Facebook a annoncé ce lundi la commercialisation d'écrans connectés qui permettent de passer des appels vidéo via une caméra grand angle et dotée d'intelligence artificielle (IA).
+                
+                
+                    "C'est un virage", a déclaré Andrew Bosworth, vice-président des équipements de consommation chez Facebook. "Les appels vidéo ne cessent d'augmenter, (...) mais les moyens actuels sont trop limités", explique Andrew Bosworth. "Nous devions donc construire nos propres appareils".
+                
+                
+                    Le groupe américain avait racheté en 2014 le fabricant de casques de réalité virtuelle Oculus, mais c'est la première fois qu'il développe en interne un produit de grande consommation ("hardware").
+                
+                
+                    Connectée à l'interface vocale d'Amazon
+                    A partir de lundi, aux États-Unis, les consommateurs peuvent pré-commander ces écrans HD, qui existent en deux tailles (10 et 15 pouces, à 199 et 349 dollars) et fonctionnent comme une enceinte connectée : l'utilisateur demande à appeler un de ses contacts en commençant sa phrase par "Hey Portal".
+                
+                
+                    Les écrans permettront aussi de s'adresser à "Alexa", l'interface vocale d'Amazon, pour faire des courses ou contrôler certains appareils électroménagers.
+                
+                
+                    Le "Portal" disposera en outre d'un écosystème fermé d'applications, pour jouer de la musique (Spotify), des vidéos (Facebook Watch), raconter des histoires aux enfants avec des effets de réalité augmentée (Story Time, un nouveau logiciel Facebook), connaître la météo ou les informations.
+                
+                
+                    Grâce aux systèmes d'IA intégrés, la caméra dé-zoome automatiquement pour inclure un nouvel arrivant, ou, si on clique sur le visage d'un individu, le suit dans ses déplacements.
+                
+                
+                    Questions sur la sécurité
+                    Après le piratage de 50 millions de comptes Facebook en septembre, l'innovation soulève des questions en termes de sécurité des données personnelles.
+                
+                
+                    Facebook y a répondu en assurant qu'un cache permettait de bloquer la caméra, et un bouton de la désactiver, ainsi que le micro. Les appels sont cryptés, et seuls les échanges vocaux avec "Portal" ou "Alexa" sont enregistrés sur les serveurs, avec la possibilité de les consulter et de les supprimer.
+                
+                
+                    La société veut pourtant s'affirmer comme un garant du respect de la vie privée. "Franchement, je serais inquiet si ce n'était pas nous qui fabriquions ces appareils", affirme Andrew Bosworth. "Vous devez d'emblée concevoir ces équipements pour les utilisateurs, en intégrant des mesures de sécurité et de prévention des abus."
+                
+                
+                    Les représentants de Facebook préfèrent parler de "mission" plutôt que de modèle économique et de profits. Mais aux États-Unis, le cabinet eMarketer estime à plus de 60 millions le nombre d'utilisateurs d'enceintes connectées en 2018, et en prévoit 76,5 millions pour 2020. Pour l'instant, seules deux enceintes de la gamme "Echo" d'Amazon disposent de petits écrans. Le marché en plein croissance des enceintes connectées
+                
+            

@@ -1,0 +1,29 @@
+
+                Ce week-end circulaient des avertissements à propos d'une "menace" sur le web. Réelle, mais pas immédiate.
+                
+                    Alors que certaines voix annonçaient ce week-end une vague d'attaques informatiques de grande ampleur en cours, d'autres remettent en question ces informations. C'est l'Icann, l'organisme international qui attribue les adresses internet, qui a lancé l'alerte ce vendredi. On apprenait ainsi que l'internet mondial est actuellement visé par une attaque ambitieuse, consistant à modifier les adresses des sites internet pour les pirater.
+                
+                
+                    Selon des experts extérieurs à l'Icann interrogés par l'AFP, les pirates ciblent aussi bien des gouvernements que des services de renseignements ou de police, des compagnies aériennes ou l'industrie pétrolière et, ce, au Moyen-Orient ou en Europe. L'un d'entre eux estime même que ces attaques ont pour origine l'Iran.
+                
+                
+                    Mounir Mahjoubi relaie l'info
+                    Ce lundi matin sur CNews, le secrétaire d'État au numérique Mounir Mahjoubi a expliqué que les pirates informatiques ont potentiellement eu accès à toutes sortes de données. "Ce que les pirates ont réussi à faire est quelque chose de très rare", a-t-il assuré. "Ils ont piraté l'annuaire et, chaque fois que vous mettez l'adresse [...], vous avez l'impression d'être sur le site [...] sauf qu'en fait vous êtes sur la machine de ceux qui vous attaquent", a-t-il poursuivi.
+                
+                
+                    "Ils peuvent récupérer vos données, ils peuvent les utiliser pour se reconnecter, pour prendre de l'argent. [...] C'est effectivement une alerte. Il faut se poser la question, est-ce que c'était pour montrer ses forces, est-ce que c'était pour des cibles particulières, sur une certaine région du monde ? [...] Il faudra se poser la question de qui avait intérêt, qui avait les moyens de mobiliser les techniques pour le faire."
+                
+                
+                    Mais le secrétaire d'État aurait-il parlé un peu trop vite ? C'est ce qu'un article du Monde laisse entendre. Revenant à la source - le communiqué de l'Icann - il rappelle qu'il ne s'agissait pas vraiment d'une attaque "en cours", ni même inédite. Il évoque seulement un "risque".
+                
+                
+                    Menace intemporelle
+                    Loin de tirer le signal d'alarme, le message de l'organisme d'attribution des noms de domaine visait à promouvoir le DNSSEC, un système qui permet de mieux sécuriser le système [le DNS, système des noms de domaine] qui garantit qu'un internaute saisissant l'adresse d'un site arrive sur le serveur souhaité. Une "infrastructure critique d'internet que les gestionnaires de noms de domaine renâclent trop souvent à mettre en place", explique Le Monde.
+                
+                
+                    Quant aux attaques, si elles ont bien lieu, ce n'est pas particulièrement ces jours-ci. L'Icann faisait référence à des alertes anciennes qui justifient, selon elle, de mettre en oeuvre de nouvelles mesures de sécurité. Le journal du soir rappelle ainsi qu'en 2013, des pirates avaient réussi à remplacer la page qui s'affichait lorsqu'on tapait l'adresse du site web du New York Times, "nytimes.com", par une page de propagande pour le dirigeant syrien Bachar Al-Assad.
+                
+                
+                    En résumé, beaucoup - y compris le Monsieur numérique du gouvernement - se sont alarmés de ce qui n'était pas une attaque en cours. Mais qui correspond tout de même à une menace réelle pour la sécurité informatique.
+                
+            

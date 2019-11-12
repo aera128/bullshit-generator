@@ -1,0 +1,19 @@
+
+                La Cnil a infligé ce jeudi une amende à Bouygues Télécom pour avoir "insuffisamment protégé les données des clients de B&You".
+                
+                    La Commission nationale de l'informatique et des libertés (CNIL) vient d'infliger ce jeudi une amende de 250 000 euros à Bouygues Télécom, en lien avec la sécurité des données.
+                
+                
+                    Dans un communiqué, la commission a confirmé "l'existence d'une vulnérabilité permettant d'accéder à des contrats et factures de clients B&You par la simple modification d'une adresse URL sur le site web de Bouygues Télécom".
+                
+                
+                    Plus de deux millions de clients impactés
+                    Pendant plus de deux ans, ce défaut de sécurité a impacté les données de plus de deux millions de clients B&You.
+                
+                
+                    Une fois informé, l'opérateur a corrigé le défaut. La CNIL a néanmoins considéré que "la société avait manqué à son obligation d'assurer la sécurité des données personnelles des utilisateurs de son site, conformément à l'article 34 de la loi Informatique et Libertés".
+                
+                
+                    Tout serait parti d'une phase de test, après laquelle l'opérateur avait oubli de réactiver sur le site la fonction d'authentification à l'espace client. Ces faits se sont déroulés avant l'entrée en vigueur du règlement européen sur la protection des données personnelles (RGPD).
+                
+            

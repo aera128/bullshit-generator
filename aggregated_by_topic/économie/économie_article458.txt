@@ -1,0 +1,19 @@
+
+                Une faille de sécurité dans l'application permet de modifier facilement le nombre de participants à une manifestation.
+                
+                    Avides d'informations alternatives, les gilets jaunes sont à la recherche de nouveaux outils. Parmi eux, GJ-France, une application lancée le 18 janvier qui propose notamment son propre système de comptage des manifestants. Son but revendiqué : donner "les vrais chiffres des GJ".
+                
+                
+                    Problème, une manipulation relativement basique permet de fausser lesdits chiffres. Le hacker français Baptiste Robert, connu sur Twitter sous le pseudonyme d'Elliot Alderson, a dévoilé une vidéo dans laquelle il change le nombre de manifestants, sans difficulté.
+                
+                
+                    Aucune authentification pour se protéger d'éventuels intrus n'étant demandée, l'application laisse la porte ouverte à n'importe quel individu souhaitant manipuler les chiffres.
+                
+                
+                    6e place des applications gratuites les plus populaires
+                    L'application GJ-France a gagné en popularité auprès des gilets jaunes après avoir été adoubée par Maxime Nicolle, l'un des membres les plus influents du mouvement, également connu sous le nom de Fly Rider. Sur Google Play, l'application comptabilise plus de 10 000 téléchargements et arrive à la 6e place des applications gratuites les plus populaires. Elle reçoit par ailleurs des commentaires plutôt élogieux de la part des utilisateurs.
+                
+                
+                    Depuis le signalement d'Elliot Alderson, GJ-France est en maintenance sur certaines de ses fonctionnalités. Au-delà du comptage des manifestants, l'application propose d'autres services comme un calendrier des événements à venir autour du RIC, ou un prochain système d'hébergement de gilets jaunes.
+                
+            

@@ -1,0 +1,38 @@
+
+                Dans la nuit du 19 au 20 octobre à 3h45, la sonde européano-japonaise s'envolera pour une mission exceptionnelle.
+                
+                    Tenter de l'approcher revient à mettre sa tête dans un four à pizzas ! A la surface sa température frôle les 420°C., tandis que sa proximité avec le Soleil donne aux hautes altitudes des allures de fournaises (+ 1 400°C.). Mercure, première planète en direction de notre étoile demeure la moins fréquentable du système solaire. C'est peu dire si le voyage que s'apprête à effectuer la sonde spatiale européenne BepiColombo, dont le lancement est prévu dans la nuit du 19 au 20 octobre depuis la base spatiale de Kourou (Guyane), s'annonce des plus périlleux.
+                
+                
+                    Un si long voyage
+                    Une fois placée en orbite par une fusée Ariane 5, la sonde, dotée de moteurs électriques effectuera un voyage de sept années et quarante-cinq jours ! Non parce que la petite planète tellurique est éloignée, mais parce qu'elle devra effectuer plusieurs assistances gravitationnelles (utiliser la force d'attraction des planètes pour gagner en vitesse) : de la Terre (une fois), de Venus (deux fois), de Mercure elle-même (6 fois).
+                
+                
+                    Et une fois l'objectif atteint BepiColombo aura à réussir une des plus difficiles manoeuvres d'insertion orbitales de l'histoire de la conquête spatiale. Non seulement Mercure est extrêmement légère, donc avec un champ de gravité faible, mais il faudra résister, aussi, à la force gravitationnelle du Soleil tout proche (située à 57,9 millions de kilomètres). "D'où un effort de freinage dantesque et anticipé, explique Pierre Bousquet, le chef de projet au Centre national d'étude spatiale (Cnes), chargé des contributions françaises à cette mission. Un peu comme un paquebot arrivant dans un port qui doit réduire sa vitesse."
+                
+                
+                    Une sonde "3 en 1"
+                    En l'occurrence, le paquebot, celui qui sert de véhicule de croisière s'appelle MTM - pour Mercury transfer module -, un monstre doté de 40 mètres carrés de panneaux solaires (l'envergure d'un Airbus A320) et de 4 propulseurs. Il est la première composante d'un ensemble de 4,2 tonnes. "BepiColombo est, de loin, la plus ambitieuse de nos missions", explique-t-on du côté de l'Agence spatiale européenne (ESA). Il s'agit, en fait, ni plus ni moins, d'un "vaisseau 3 en 1". La fameuse monture MTM dont le travail s'arrêtera une fois l'orbite mercurienne atteinte et deux satellites qui auront à travailler ensemble : d'un côté, le Mercury Planetary orbiter (MPO), doté de onze instruments (magnétomètre, spectromètre, altimètre, accéléromètre, caméras, détecteur de plasma, etc.) ; de l'autre, le Mercury Magnetospheric Orbiter (MMO) conçu par l'agence spatiale japonaise (JAXA), un peu moins ambitieux (5 instruments) mais complémentaire.
+                
+                
+                    Celui-ci sera le premier, très exactement le 20 décembre 2025, à être placé en orbite à une altitude située entre 11 640 et 590 kilomètres. Six jours plus tard, MPO, ira se placer plus bas - entre 1 500 et 480 kilomètres au-dessus du sol. Après quelques semaines de calage, le programme scientifique pourra commencer au mois de... mars 2026 !
+                
+                
+                    Sauf que, en banlieue mercurienne, Bepi Colombo aura à évoluer dans un véritable brasier durant l'année de sa mission si bien qu'il a fallu inventer des stratégies différentes en fonction des modules. L'Européen, MPO qui passera entre le Soleil et Mercure recevra des radiations solaires dix fois plus élevées que sur Terre. "Doté de ses propres panneaux solaires, il y avait un risque évident de les voir brûler si on les laissait face au Soleil", reprend Pierre Bousquet. Grâce à un système mécanique de rotation, les ingénieurs les ont rendus inclinables de façon à se présenter toujours de biais d'une dizaine de degrés par rapport aux rayons.
+                
+                
+                    Quant au petit MMO japonais, afin de limiter son exposition, il a été conçu pour évoluer en effectuant quinze rotations sur lui-même par minute. A bord des deux engins, l'instrumentation scientifique a aussi fait l'objet de mesures de protection particulières avec le développement de matériaux inédits (titane/céramique, céramique/aluminium). "Notre équipe est spécialiste dans la conception de spectromètres puisque nous avons réalisé précédemment ceux de Mars Express et de Vénus Express, mais pour Mercure, nous avons dû changer le design optique de l'appareil", explique François Leblanc, directeur de recherche au Laboratoire atmosphères, milieux, observations spatiales (Latmos/Cnrs) à Guyancourt (Yvelines).
+                
+                
+                    L'instrument baptisé "Phebus" servira en priorité à étudier la fine atmosphère mercurienne (appelée exosphère). "On ignore son rôle exact ni comment elle réagit au flux solaire, reprend le chercheur. Surtout, connaître le détail de sa composition chimique donnera de précieuses informations sur la formation du disque proto-solaire." En parvenant en orbite de la planète la plus proche du Soleil, les astronomes espèrent ainsi trouver des indices pour mieux comprendre le scénario de formation du système solaire : Mercure est-elle née au plus près de notre étoile par un processus d'accrétion ou plus loin, avant de migrer vers elle ?
+                
+                
+                    L'autre grande énigme porte sur l'intérieur de la petite planète dont le noyau liquide (fer et nickel) correspond entre 55% à 65% de sa masse (contre 33%, par exemple, pour la Terre). "Elle possède sans nul doute un coeur liquide extrêmement dense, éclaire Kader Amsif, responsable des programmes Soleil du Cnes. Avec, contrairement à la Terre, un manteau et une croûte relativement fins." La densité du noyau serait à l'origine du champ magnétique extrêmement puissant de Mercure que mesurera avec précision le module MPO.
+                
+                
+                    En termes de géomorphologie, BepiColombo effectuera une cartographie détaillée de la surface, notamment pour caractériser les cratères et donc mieux la dater. Longtemps, les scientifiques ont cru que Mercure était totalement inerte mais une intense activité géologique la fait rapetisser inexorablement :"Son rayon aurait diminué d'environ 7 kilomètres à cause du refroidissement de la planète", assure François Leblanc. Ces mêmes cratères par leur étendue et leur profondeur ne cessent d'intriguer les astronomes depuis que la sonde Messenger a pu y observer de la...glace !
+                
+                
+                    Une découverte surprenante pour un monde que l'on compare souvent à l'enfer. Cette glace sale se situerait à plusieurs kilomètres de profondeur, protégée des rayons du Soleil dans l'ombre des cratères au niveau des pôles. "Présente en grandes quantités elle pourrait être le fruit de bombardements anciens de météorites et de comètes", ajoute François Leblanc. Une fois arrivée à destination, BepiColombo promet une immense moisson scientifique. A condition de patienter. Mais les astronomes sont passés maîtres en la matière : il aura fallu trente longues années entre la conception de la mission et l'arrivée sur Mercure en 2025 !
+                
+            

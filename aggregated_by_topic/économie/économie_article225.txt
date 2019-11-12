@@ -1,0 +1,61 @@
+
+                Comment organiser la lutte contre les drones malveillants ? La réponse de l'Armée de l'air.
+                
+                    Le drone civil, qui se trouve dans le commerce pour quelques centaines d'euros, a beau être un formidable outil high-tech pour prendre des photos et des vidéos en haute résolution, il peut aussi constituer une sérieuse menace en cas d'utilisation malveillante. L'Armée de l'air, s'est lancée dans un vaste programme visant à mieux les détecter et les neutraliser.
+                
+                
+                    À eux deux, ils dirigent parmi les plus hautes instances de l'Armée de l'Air. Le premier, le général Etienne Patry (E.P), est le chef d'état-major du commandement des forces aériennes (CFA) ; le second, le général de corps aérien, Jean-Christophe Zimmermann (J.C Z.), commande la défense aérienne et les opérations aériennes (CDAOA). Les deux hommes répondent aux questions de L'Express.
+                
+                
+                    L'EXPRESS : Comment faut-il sécuriser l'espace aérien sur le territoire national ?
+                
+                
+                    Jean-Christophe Zimmerman : On assiste à une véritable démocratisation de l'accès à l'espace aérien. Ce phénomène a été identifié dès 2014 et a conduit à la mise en place de nouveaux outils législatifs et réglementaires visant à développer la pédagogie et encadrer l'usage. Des dispositifs sont prévus pour identifier les utilisateurs de drones supérieurs à 800 grammes. De même les professionnels sont incités à déclarer leurs activités de manière à ce que l'ensemble des usagers aéronautiques puissent en avoir connaissance lors de la préparation et l'exécution de leurs vols.
+                
+                
+                    Quel matériel l'armée utilise-t-elle pour détecter, identifier et neutraliser les drones malveillants ?
+                
+                
+                    Étienne Patry et Jean-Christophe Zimmerman : L'armée de l'air a été le premier État-major à s'équiper contre cette nouvelle menace. Pour la détection, nous disposons de jumelles JIRTANG et d'aéroscopes. Pour la neutralisation, nous sommes équipés de fusils brouilleurs, capables de parasiter les signaux wifi et GPS. Par ailleurs, il ne faut pas oublier que chaque personnel sur les bases aériennes est un détecteur potentiel, le premier capteur étant aujourd'hui l'oeil humain. Et sur sites sensibles, des équipes d'intervention dédiées peuvent repérer et faire interpeller les télé-pilotes. Dans le cadre du programme MILAD (moyen interarmées de lutte anti-drone), nous avons aussi prévu de nous équiper de systèmes semi-automatisés permettant de détecter, caractériser et neutraliser les menaces. Il s'agira de radars couplés à des outils optroniques [utilisant l'optique et l'électronique] et des brouilleurs fixes. Les équipements, en cours de développement, devraient être livrés début 2019, mais nous ne nous interdisons pas d'étudier les autres capacités de détection. Nous suivons de près, par exemple, ce que l'aéroport de Roissy met en place avec le projet Hologarde.
+                
+                
+                    Le cadre réglementaire français interdit l'usage du brouillage, sauf par les forces militaires en cas de menace avérée pour la sécurité nationale. Quel type de menace vous autorise à avoir recours au brouillage ?
+                
+                
+                    Étienne Patry : L'usage du brouillage est encadré : il doit être déclaré au préalable et tous les sites à protéger sont scrupuleusement répertoriés dans le plan de sécurité opérateur... Qui est confidentiel. À partir du moment où un drone n'a pas l'autorisation d'être là où il est, le brouillage peut être utilisé.
+                
+                
+                    La police hollandaise, qui avait envisagé d'utiliser des rapaces pour intercepter des drones, a abandonné son projet. Où en est l'expérimentation de l'armée de l'air ?
+                
+                
+                    Étienne Patry : Le compte rendu final de l'évaluation des rapaces, qui se déroule à Mont-de-Marsan, doit être rendu fin 2018. On saura alors si cette capacité est pérennisée ou non. Je ne veux pas anticiper la conclusion, mais je peux vous dire que nous avons déjà des éléments de réflexion. Disons que l'usage de rapaces n'est peut-être pas suffisamment significatif pour être retenu. Leur entretien coûte cher, et ils ne sont pas aussi faciles à maîtriser que des chiens. Ils peuvent néanmoins se révéler utiles dans des endroits où l'usage de rayonnement [radar, brouillage] est interdit. Et nous envisageons des cadres d'emploi spécifiques... Qui, eux aussi, sont confidentiels.
+                
+                
+                    Envisagez-vous l'usage d'algorithmes d'apprentissage automatique (intelligence artificielle) ?
+                
+                
+                    Jean-Christophe Zimmerman : Nous pensons que l'IA est intimement liée à l'utilisation des drones, par conséquent c'est une piste dans laquelle il faut s'engager rapidement. Nous avons créé un centre d'excellence drone (CED) où des spécialistes suivent de près ces sujets. Nous n'en sommes qu'aux prémices dans notre réflexion, mais il est évident que les apports de l'IA vont transformer la manière de faire la guerre aussi bien pour ce qui concerne nos structures de commandement que pour les matériels que nous devons développer à l'avenir. Enfin, l'agence de l'innovation mis en place par la ministre de la Défense, Florence Parly, aura incontestablement un oeil sur le développement de ces secteurs et des entreprises spécialisées qui seront associées.
+                
+                
+                    Quels sont les scénarios d'anticipation, autrement dit les nouvelles attaques possibles par drone, sur lesquels travaille l'armée de l'Air ?
+                
+                
+                    Étienne Patry : Si nous vous en révélions les détails, cela rendrait la tâche un peu trop facile pour les terroristes. Ce que je peux vous garantir, c'est que nous envisageons de multiples scénarios. Toutes les mesures sont arrêtées en fonction de ces anticipations stratégiques : nous évaluons la menace, puis mettons en place des dispositifs adaptatifs en cas d'attaque, en prenant un maximum de marges.
+                
+                
+                    Imaginons qu'un drone s'approche d'une patrouille de militaires à Paris, ont-ils l'autorisation de faire feu ?
+                
+                
+                    Jean-Christophe Zimmerman : D'un point de vue réglementaire, l'usage des armes est encadré par le régime de la légitime défense. En ce sens, il faut que le drone attaque soit des personnes civiles à proximité soit les militaires eux-mêmes. Ou, dans le cadre élargi de la loi sur la sécurité intérieure de 2017, il faudrait que le drone soit utilisé à des fins terroristes avec l'intention de tuer ou de provoquer des blessures graves. À ce stade, le simple survol d'un drone inconnu au-dessus d'une patrouille n'entraînera pas d'usage systématique des armes. La priorité sera d'identifier et de localiser le télé-pilote s'il s'avère que le drone est en infraction.
+                
+                
+                    Quelles solutions privilégiez-vous en zones de guerres ? Quel matériel utilisez-vous ?
+                
+                
+                    Étienne Patry : En zone de guerre, un drone est considéré comme un véhicule. S'il est détecté et déterminé comme hostile, on utilise les moyens de neutralisation à notre disposition, comme des tirs de destruction. Pour certaines zones on peut mettre en oeuvre des moyens dédiés. Sur les bases projetées, nous déployons par exemple des personnels équipés de jumelles sophistiquées. De plus en plus, l'armée forme également des soldats à la lutte anti-drone à travers des campagnes de tirs régulières sur des drones. Ils peuvent disposer de fusils équipés de cartouches adaptées ou de fusils brouilleurs. Après la destruction d'un engin, il faut immédiatement trouver son pilote ce qui nécessite aussi d'envoyer en parallèle des équipes sur le terrain.
+                
+                
+                    Les précisions du Secrétariat général de la Défense et de la Sécurité nationale (SGDSN) :
+                    "Sur le plan juridique, la loi du 24 octobre 2016 détaille les obligations qui incombent aux propriétaires des drones mais aussi aux fabricants : ajout d'une notice dans les boites d'emballage, enregistrement du télé-pilote et de son drone sur un site de la Direction Générale de l'Aviation Civile (DGAC), obligation d'une formation de pilotage quel que soit l'usage (loisir ou professionnel), limitation de capacités du drone, respects de signalements électroniques et lumineux de l'aéronef (pour ce dernier point, les textes seront publiés début 2019). Sur le plan du soutien au développement de moyens de lutte anti-drone, le SGDSN a organisé en 2016, à l'issue d'un appel à projets dirigé par l'Agence National de la Recherche, une présentation publique de solutions techniques de lutte anti-drone. Au final, trois démonstrateurs (ANGELAS, BOREADES et SPID) intégrant des moyens de détection, d'identification et de neutralisation (radar, poursuite, brouillage et leurrage GPS) ont été retenus. Dans le cadre de la préparation des JO 2024 le SGDSN demandera aux industriels d'imaginer de nouvelles solutions innovantes au regard des capacités en perpétuelle amélioration des drones commerciaux."
+                
+            

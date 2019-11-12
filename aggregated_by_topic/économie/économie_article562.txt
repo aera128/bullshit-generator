@@ -1,0 +1,23 @@
+
+                Les pirates visent aussi bien des gouvernements que des entreprises à travers le monde.
+                
+                    L'ICANN lance l'alerte. L'organisme international qui attribue les noms de domaine internet a annoncé vendredi que l'internet mondial est actuellement visé par une vague d'attaques informatiques d'une ampleur inédite. Une manoeuvre qui consiste à modifier les adresses des sites internet pour les pirater.
+                
+                
+                    Des soupçons sur l'Iran
+                    Ils "s'attaquent à l'infrastructure internet elle-même", a indiqué David Conrad, un des responsables de l'ICANN, qui évoque une campagne "inédite à très grande échelle". "Il y a déjà eu des attaques ciblées mais jamais comme ça", a-t-il ajouté après une réunion d'urgence de l'organisation. Pour l'essentiel, ces attaques consistent "à remplacer les adresses des serveurs" autorisés "par des adresses de machines contrôlées par les attaquants". Une technique qui leur permettrait de récupérer des données personnelles et sensibles sur les serveurs des sites.
+                
+                
+                    Selon des experts extérieurs à l'ICANN, les pirates ciblent aussi bien des gouvernements que des services de renseignements ou de police, des compagnies aériennes ou l'industrie pétrolière et ce, au Moyen-Orient ou en Europe. L'un d'entre eux estime en outre que ces attaques ont pour origine l'Iran. Selon un autre expert, Adam Meyers de la firme CrowdStrike, les "hackers" cherchaient notamment à voler des mots de passe au Liban et aux Emirats arabes unis.
+                
+                
+                    "Il n'y a pas d'outil unique pour régler cela"
+                    Basé en Californie, l'ICANN gère le système des noms de domaines en ligne que le grand public connaît sous forme d'adresses de sites en .com ou .fr mais aussi .gov etc. par exemple. C'est précisément au système des noms de domaine ("Domain name System", DNS en anglais) que s'attaquent les pirates, non identifiés.
+                
+                
+                    Les attaques contre les DNS, surnommées "DNSpionnage", "c'est en gros comparable à quelqu'un qui va au bureau de poste, ment sur votre adresse, lit votre courrier puis le met lui-même dans votre boîte aux lettres", expliquait aussi il y a peu le ministère américain de la Sécurité intérieure (DHS) à propos de ces attaques, dont les premières remontent semble-t-il au moins à 2017. L'ICANN appelle à déployer un protocole de protection appelé "Domain Name System Security Extensions" (DNSSEC).
+                
+                
+                    Pour autant, "il n'y a pas d'outil unique pour régler cela", a prévenu l'un des représentants de l'organisme, qui appelle à "améliorer la sécurité globale du DNS si nous voulons avoir un espoir d'empêcher ce genre d'attaques".
+                
+            

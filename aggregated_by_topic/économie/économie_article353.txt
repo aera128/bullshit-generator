@@ -1,0 +1,29 @@
+
+                Il y a aussi simple et bien plus sûr pour vous protéger correctement des piratages : choisir un long mot de passe.
+                
+                    La grande majorité des internautes manque toujours autant d'imagination quand il s'agit d'inventer des mots de passe. C'est ce que suggère le palmarès 2018 des 100 combinaisons les plus utilisées, et donc les plus vulnérables car les plus susceptibles d'être testées en premier par des pirates. Cette année, comme c'est le cas depuis 2013, "123456" occupe la première place, devant le tout aussi évident "password" [mot de passe, en anglais], selon ce classement effectué par le spécialiste Splashdata. À noter que Donald, prénom du président américain, fait une entrée remarquée à la 23e place, entre "aa123456" et "password1".
+                
+                
+                    "Les pirates obtiennent de très bons résultats pour s'introduire dans des comptes en ligne en utilisant des noms de célébrités, des termes issus de la pop culture ou du sport ["football" est à la 16e place] ou encore des combinaisons de clavier simples car ils savent que ce sont les plus utilisés", explique Morgan Slain, le PDG de SplashData. Notre espoir est qu'en publiant cette liste chaque année, on convaincra les internautes et qu'ils changeront leurs habitudes et se protégeront mieux en ligne."
+                
+                
+                    Voici les 25 premiers mots de passe les plus communs cette année (les 75 autres sont ici) :
+                
+                
+                    Si l'un des vôtres fait partie de cette liste, il faut le changer au plus vite. Oubliez les anciennes recommandations selon lesquelles un mot de passe doit forcément contenir une majuscule, un chiffre, un caractère de ponctuation et être changé tous les trois mois. Ces conseils sont, de l'aveu même de leur inventeur, trop compliqués et pas forcément pertinents, notamment parce qu'ils ont poussé les Internautes à créer des mots des combinaisons similaires, avec une majuscule au début et un signe de ponctuation à la fin.
+                
+                
+                    C'est la taille qui compte
+                    En fait, selon l'Institut américain des normes technologiques, le critère le plus important d'un mot de passe est... sa taille. Une phrase entièrement en minuscule, composée de trois ou quatre mots sans aucun lien entre eux est non seulement plus simple à retenir pour l'homme, mais aussi bien plus difficile à trouver pour un ordinateur. Exemple ? plumemiragekamoulox.
+                
+                
+                    En France, les recommandations de l'Agence nationale de la sécurité des systèmes d'information (Anssi), vont dans le même sens : le mieux est d'utiliser au moins douze caractères de types différents. L'agence précise qu'il ne faut pas se servir de sa date de naissance et choisir une combinaison unique pour chaque service. Une fois que vous en avez élaboré un suffisamment complexe et facile à retenir, il ne sert à rien d'en changer régulièrement, selon une étude des services secret britanniques. À moins bien sûr qu'il ait été dérobé.
+                
+                
+                    500 millions clefs piratées
+                    Pour s'en assurer, l'une des solutions consiste à consulter le site Web "Pwned Passwords" [Mots de passe piratés]. Créé par Troy Hunt, un chercheur australien en sécurité informatique, il recense tous les mots de passe compromis lors de piratages massifs ces dernières années, comme ceux qui ont visé Yahoo, Myspace, LinkedIn, Adobe, Dropbox, etc. Une fois sur la page d'accueil, il suffit de taper sa combinaison dans la barre de recherches pour que le site scanne sa base de données de 517 238 891 mots de passe déjà piratés et donc susceptibles d'être testés en priorité par des pirates.
+                
+                
+                    Ce même chercheur a également créé Have I Been Pwned? [Me suis-je fait avoir?], un site web qui reprend exactement le même principe mais avec les adresses e-mail et les identifiants qui y sont liés. Vous pouvez également vous rendre sur le site trypap.com, "la machine à mots de passe passive-agressive". Vous êtes prévenus, elle se moquera (presque) forcément de vous.
+                
+            

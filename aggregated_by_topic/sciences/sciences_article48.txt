@@ -1,0 +1,30 @@
+
+                Une étude pointe la forte consommation électrique du bitcoin. A elle seule, elle pourrait mettre à mal les accords de Paris. Info ou intox ?
+                
+                    Le bitcoin peut-il dérégler le thermostat de la planète ? Aussi incroyable que cela paraisse, certains chercheurs de l'Université d'Hawaii pensent que oui. Leurs travaux viennent d'être publiés dans la très sérieuse revue Nature. Et ils font froid dans le dos : si le bitcoin était adopté massivement, expliquent ces experts, sa consommation énergétique serait telle qu'elle pourrait faire grimper la température du globe terrestre de deux degrés ! Trop spectaculaire pour être vrai ? Pour y voir plus clair sur les dépenses énergétiques liées au bitcoin, nous avons interrogé Adli Takkal Bataille, Président de l'association Le Cercle du coin, co-fondateur du cabinet de conseil Catenae et co-auteur de l'ouvrage Bitcoin métamorphoses : de l'or des fous à l'or numérique, sorti ce mercredi.
+                
+                
+                    L'EXPRESS. Dans votre livre, vous affirmez que le développement du bitcoin requiert une forte dépense énergétique. Vous confirmez donc l'existence d'un problème, lié au fonctionnement même de cette monnaie virtuelle ?
+                
+                
+                    Adli Takkal Bataille. Le bitcoin consomme, c'est un fait. Cela tient au processus de validation des transactions, qui requiert une grande puissance de calcul. Mais, au risque d'être provocateur, un lave-vaisselle consomme lui aussi. Et personne n'y trouve à redire. Ce que je veux dire par là, c'est que peu de gens prennent le bitcoin pour ce qu'il est vraiment, c'est-à-dire un service, avec un coût énergétique associé. On peut pourtant s'en servir de monnaie d'échange ou de réserve de valeur au même titre que l'or. Les services rendus par le bitcoin requièrent d'ailleurs peu d'énergie si on les compare à d'autres. Certains travaux de recherche évaluent les besoins électriques de son écosystème à 3,6 millions de gigajoules par an. A titre de comparaison, l'extraction d'or nécessiterait dix fois plus d'énergie. Et que dire du système bancaire ? Ses besoins se chiffrent, selon certains experts, à 2340 millions de gigajoules ! Un chiffre considérable. Or personne ne s'interroge sur l'efficacité énergétique de nos établissements financiers.
+                
+                
+                    Soit, mais peut-on se passer de la grosse puissance de calcul que vous évoquez ? N'y a t-il pas d'autres moyens pour valider des transactions en bitcoins ?
+                
+                
+                    Il y a beaucoup de recherche et développement sur cette question. On a beaucoup parlé, par exemple, du "proof of stake", un système de validation des transactions reposant sur des dépôts de crypto-monnaies. En théorie, cela pourrait remplacer le minage, qui consiste à mobiliser de la puissance de calcul pour assurer le fonctionnement du réseau bitcoin. Sauf qu'il y a un hic : le "proof of stake" ne protège pas suffisamment le registre qui contient les transactions d'éventuelles grosses attaques. En fait, que cela plaise ou non, le minage reste le meilleur système du point de vue de la sécurité. Avec lui, les transactions ne peuvent être falsifiées. Cela nécessiterait la mise en oeuvre d'une puissance de calcul énorme, représentant au moins 51% de celle de l'ensemble du réseau. Une force de frappe quasiment impossible à mobiliser.
+                
+                
+                    Mais si le bitcoin venait à être adopté massivement et que le minage perdure, la facture énergétique s'envolerait. Sur ce point, les experts de l'université d'Hawaii n'ont pas tord.
+                
+                
+                    Ces chercheurs partent du principe que le système bitcoin n'évolue pas. Or c'est tout le contraire. Il ne reste plus que 10% des lignes de codes qui constituaient le bitcoin à l'origine. N'oublions pas non plus que le but des mineurs est de gagner de l'argent. Or le cours du bitcoin a beaucoup baissé ces derniers mois. Cela les incite à s'installer dans des endroits où le prix de l'électricité est plus bas mais aussi à gagner en efficacité. Ainsi, la consommation d'électricité par transaction validée a chuté de manière significative ces derniers mois. Mieux, de plus en plus de mineurs utilisent le surplus d'énergie hydroélectrique des barrages, comme au Canada. A terme, certains pourraient même devenir auto-suffisants en énergie !
+                
+                
+                    L'EXPRESS : Le bitcoin ne va donc pas tuer la planète ?
+                
+                
+                    Arrêtons de croire que le bitcoin va vampiriser l'ensemble du réseau électrique mondial. Si l'énergie coûte trop cher, les mineurs débrancheront des machines. De même, si le système requiert trop de courant, les Etats arrêteront de fournir du jus pour ce type d'activité. Il existe des forces de rappel, bien réelles celles-là. Et tant mieux, car le bitcoin est là pour durer même s'il est de bon ton de prédire sa mort. Souvenons-nous du rapport Théry de 1994. Celui-ci, constatant le succès du Minitel, prétendait qu'Internet jouerait un rôle mineur dans le futur. Ne tombons pas dans ce genre d'erreur de jugement une fois de plus.
+                
+            

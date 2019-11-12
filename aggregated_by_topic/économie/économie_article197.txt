@@ -1,0 +1,16 @@
+
+                Orange va débrancher le bon vieux réseau téléphonique commuté (RTC), en place depuis des décennies.
+                
+                    Branle-bas de combat chez Orange, l'opérateur historique des télécommunications. A partir de jeudi 15 novembre, le groupe va arrêter de commercialiser ses offres de lignes fixes sur le réseau historique pour les nouveaux clients. En clair, Orange va arrêter de proposer des abonnements pour des lignes de téléphonies fixes reposant sur le réseau RTC (réseau téléphonique commuté), voué à disparaître à partir de 2023.
+                
+                
+                    Cette technologie est utilisée depuis les années 70 et concerne une dizaine de millions de Français (sur une vingtaine) qui, pour schématiser utilisent les "prises en T". A partir de jeudi, tous les nouveaux clients Orange bénéficieront d'une technologie plus moderne, l'Internet Protocol (IP) vouée à être utilisée par tous les clients de l'entreprise à terme.
+                
+                
+                    Orange fournira un boîtier pour faire la transition
+                    Pour autant, si vous avez déjà un téléphone fixe branché sur "une prise en T", ne vous inquiétez pas, vous n'avez pas à souscrire un nouvel abonnement ni même à changer de téléphone. A partir de 2023, en revanche, Orange commencera à fermer zone par zone les lignes RTC. Il vous faudra alors vous munir d'un boîtier - fourni par Orange - à placer sur la prise classique, qui transformera le signal RTC en signal IP.
+                
+                
+                    Et si vous souhaitez vous abonner dès jeudi à une ligne fixe sans passer par une connexion internet, ce sera toujours possible, mais il vous faudra utiliser ce fameux boîtier.
+                
+            

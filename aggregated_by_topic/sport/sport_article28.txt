@@ -1,0 +1,38 @@
+
+                Le sport est le prochain secteur à bénéficier des avancées technologiques de la réalité virtuelle. Voici comment.
+                
+                    De l'entraînement des footballeurs américains au stress du joueur de baseball, en passant par les réactions d'une monoplace de F1: la réalité mixte, qui mêle réalité virtuelle et réalité augmentée, s'apprête à transformer l'industrie du sport pour les professionnels comme pour les fans.
+                
+                
+                    "Cela va bouleverser tous les aspects du sport que vous pouvez imaginer", annonce l'expert en réalité virtuelle (VR) Michael Ludden, en marge du Leaders Sport Business Summit à Londres cette semaine. "Les footballeurs américains utilisent déjà la VR pour mieux entraîner leur cerveau, mieux lire le terrain", permettant aux quarterbacks d'affiner leurs compétences sans risquer de se blesser, poursuit celui qui a travaillé pour IBM et Google."Vous pouvez vous entraîner avec une vraie batte de baseball (...) contre des lanceurs +réels+", dont les données ont été intégrées au système.
+                
+                
+                    Si le baseball (MLB) et le football (NFL) américains sont à la pointe, les technologies se concentrent aussi sur les spectateurs, ou téléspectateurs, par le biais de la réalité mixte (MR), qui permet, en portant lunettes ou casque, de faire coexister objets virtuels et environnement réel.
+                
+                
+                    Les sièges imitent l'accélération
+                    La MR s'invite dans les salons et promet aux amateurs de vivre l'expérience de faire face aux meilleurs lanceurs de baseball, en sécurité dans leur séjour. Mais si la MR immerge l'utilisateur dans le Yankee Stadium ou ailleurs grâce à l'image et au son, d'autres technologies en développement commencent à recréer la réalité physique du sport de haut niveau.
+                
+                
+                    D-BOX Technologies, qui conçoit et fabrique des sièges mobiles que l'on retrouve dans les cinémas et les parcs d'attractions, se tourne maintenant vers le sport. A Londres, l'entreprise canadienne a présenté son simulateur de Formule 1: les sièges imitent les G reçus par les pilotes dans les virages et recréent toutes les vibrations de la piste.
+                
+                
+                    Si le siège utilise pour l'instant des données préprogrammées, il est conçu pour recevoir les données envoyées en direct par une monoplace, permettant ainsi aux spectateurs de choisir leur pilote et de vivre pleinement un Grand Prix.
+                
+                
+                    "Il faudrait les données envoyées directement de la voiture, ratio de patinage des pneus, suspension, accélération. Nous pouvons intégrer ces informations et les transformer", explique la directrice Véronique Maheu, précisant que D-BOX veut déployer son dispositif dans les fans zones des Grand Prix.
+                
+                
+                    Stades intelligents
+                    L'entreprise canadienne voit encore plus loin: "Si vous voulez avoir le stress du joueur de baseball quand il arrive au marbre (pour son tour de batte, NDLR), on peut ajouter un battement de coeur aux sensations du siège et vous pourrez le sentir. Boom, boom, boom... Quand il (...) frappe la balle, on peut avoir l'impact", détaille la directrice.
+                
+                
+                    A 10.000 dollars pièce (8.600 EUR), les sièges n'ont pas pour but d'intégrer le salon du fan moyen. Cependant, les casques et le développement des combinaisons VR permettront aux fans du monde entier d'expérimenter physiquement et en temps réel tous les plaquages, tacles, buts, touchdowns ou home-runs de leur joueur préféré.
+                
+                
+                    Selon Michael Ludden, la technologie actuelle permet déjà de créer des "stades augmentés" pour les spectateurs. Panasonic a ainsi présenté ses plans d'un "Smart Venue" (Stade intelligent) lors du salon CES de Las Vegas. Pour les enceintes de la NFL, le géant japonais prévoit une superposition de graphiques, de publicités, de statistiques sur les joueurs et de ralentis.
+                
+                
+                    La MR pourrait également révolutionner la mi-temps, en permettant par exemple aux fans de participer à des jeux à l'échelle du stade, en utilisant le terrain comme... terrain de jeu.
+                
+            

@@ -1,0 +1,25 @@
+
+                Après un atterrissage parfait la sonde de la Nasa va déployer un sismomètre made in France. Une opération risquée.
+                
+                    InSight, la sonde de l'Agence spatiale américaine (Nasa), s'apprête à réaliser l'opération la plus périlleuse et la plus importante et de sa mission. Elle devrait déposer sur le sol martien, ce soir ou dans la semaine, ses deux principaux instruments, le sismomètre français Seis (Seismic Experiment for Interior Structures) et le capteur allemand de flux thermique HP3 (Heat Flow and Physical Properties Probe).
+                
+                
+                    Pour y parvenir, la petite station scientifique - dépourvue de roue - va utiliser son bras robotique doté d'une pince à cinq doigts. Bonne nouvelle, non seulement ces outils fonctionnent à merveille, selon les derniers tests, mais la caméra d'InSight a permis de déterminer que la zone autour de la sonde est quasiment parfaite. Elle est dégagée, plate et sableuse, ce qui diminue grandement le risque que des cailloux perturbent l'installation. L'opération, jamais réalisée sur une autre planète que la Terre, demeure néanmoins risquée : d'éventuelles bourrasques sont particulièrement redoutées par les ingénieurs.
+                
+                
+                    Développé par le Centre national d'études spatiales (CNES) et l'Institut de physique du globe de Paris (IPGP), Seis est chargé de mesurer l'activité tectonique et sismique de la planète Rouge. Il doit détecter les "tremblements de Mars", les glissements de terrain et pourra même mesurer les effets des éventuels impacts de météorites à la surface. Pour que les mesures soient les plus précises possible, l'instrument français sera recouvert, dans un deuxième temps, d'un bouclier éolien et thermique de plusieurs kilos qui le protègera des variations de température et de l'action du vent, comme les tempêtes ou les dust devils, des tourbillons de poussière.
+                
+                
+                    Ce n'est pas la première fois qu'un sismomètre est envoyé sur Mars. Les deux sondes américaines Viking 1 et 2 (1975 et 1978) en possédaient chacune un. L'un n'a pas fonctionné et l'autre a surtout enregistré... des données venant du vent. Un échec qui a permis aux scientifiques de comprendre qu'il fallait impérativement poser le sismomètre à même le sol, comme c'est le cas avec Seis.
+                
+                
+                    Un thermomètre martien
+                    La Nasa va également déposer l'instrument HP3, qui va enfoncer une sonde jusqu'à cinq mètres sous la surface de Mars - un record de profondeur pour un forage sur Mars. L'objectif est de mesurer la chaleur provenant de l'intérieur de la planète et de déterminer sa source. Si l'enquête est une réussite, les chercheurs sauront si la quatrième planète du Système solaire s'est formée à partir des mêmes matériaux que la Terre ou la Lune. Ils auront aussi une meilleure idée de l'évolution de la planète rouge ces derniers millénaires.
+                
+                
+                    Grâce à Seis et HP3, les scientifiques sonderont l'intérieur de la planète rouge et pourront peut-être évaluer le rayon et la profondeur de son noyau, déterminer s'il est liquide ou non ou encore mesurer l'épaisseur de la croûte et la structure du manteau martien. Si tout fonctionne comme prévu, les chercheurs obtiendront des informations essentielles pour comprendre comment Mars et les planètes telluriques se sont formées et ont évoluées.
+                
+                
+                    La mission d'InSight, qui s'est posée sur le 26 novembre dernier, doit durer au moins deux années terrestres. Son approvisionnement en énergie est assuré par deux panneaux solaires dont la puissance totale, de 600 à 700 watts par beau temps, est comparable à celle qui permet d'alimenter un robot-mixeur de cuisine. "Amplement suffisant" pour réaliser ces expériences de très haut niveau et communiquer avec la Terre, selon la Nasa, qui démontre une fois de plus la qualité des technologies spatiales.
+                
+            

@@ -1,0 +1,26 @@
+
+                Le site TechCrunch révèle que des entreprises sont capables d'enregistrer notre écran et même parfois nos données bancaires.
+                
+                    Jusqu'ici, on avait bien compris que la plupart des applications et service en ligne collectaient des informations sur leurs utilisateurs. Les révélations du site américain TechCrunch laissent entendre que l'ingérence dans la vie privée pourrait être encore plus importante qu'imaginée: ces applis pourraient enregistrer, à l'insu de l'utilisateur, ce qui s'affiche sur l'écran de son iPhone.
+                
+                
+                    Pour s'en rendre compte, le site spécialisé en nouvelles technologies s'est intéressé notamment à Glassbox, un fournisseur de services spécialisé dans l'expérience utilisateur, qui propose une fonction "replay" à ses clients. Sur la présentation publique de sa page Twitter, il n'hésite pas à se vanter : "Imaginez si votre site web ou votre application mobile pouvait voir exactement ce que vos clients font en temps réel, et pourquoi ils l'ont fait ?"
+                
+                
+                    Une promesse plutôt inquiétante qui correspondrait bien à la réalité. Ces rediffusions de sessions permettent aux développeurs d'applications d'enregistrer l'écran et de le consulter le résultat, afin de voir comment les utilisateurs interagissent avec l'application. L'idée étant de déterminer si quelque chose ne fonctionne pas ou s'il y a eu une erreur. Chaque pression sur les touches et les boutons, chaque entrée sur le clavier est enregistrée et renvoyée aux développeurs de l'application.
+                
+                
+                    Air Canada pointée du doigt
+                    Pire encore : un analyste interrogé par le site a découvert que l'application iPhone d'Air Canada, client de Glassbox, ne masquait pas correctement les rediffusions de la session lorsqu'elles étaient envoyées, exposant les numéros de passeport et les données des cartes de crédit à chaque "replay".
+                
+                
+                    "Cela permet à toute autre personne capable d'accéder à la base de données des captures d'écran de voir les informations non chiffrées sur les cartes de crédit et les mots de passe", explique l'informateur de TechCrunch. En clair, de nombreux employés d'Air Canada auraient potentiellement accès aux informations bancaires de leurs clients. "Nous collectons les données utilisateurs pour améliorer notre service, [mais] nous ne collectons pas (d'ailleurs nous ne pourrions pas) enregistrer les écrans des utilisateurs en dehors de l'application Air Canada", tente de se défendre la compagnie aérienne. Rassurant ? Pas vraiment, d'autant plus qu'Air Canada a été victime d'un piratage en août 2018. 20 000 comptes clients avaient été touchés.
+                
+                
+                    Plusieurs sites parmi les clients
+                    Forcément, TechCrunch a tenté d'obtenir la liste des clients du service Glassbox. Parmi eux, des entreprises populaires en France, telles que Hotels.com, Expedia, Singapore Airlines ou la marque de vêtements Abercrombie and Fitch. Cette dernière confirme utiliser le service, mais sans s'exprimer sur la fameuse fonction "replay". Interrogée par le site, la compagnie Expedia qui possède Hotels.com n'a pas donné suite.
+                
+                
+                    Peu optimiste quant au fait que ce type de pratiques disparaisse un jour, le site TechCrunch revendique le fait qu'au moins les entreprises avertissement de ces pratiques dans leurs conditions générales d'utilisation. Ce qui n'est pas fait dans la plupart des cas à ce jour.
+                
+            

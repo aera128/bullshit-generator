@@ -1,0 +1,26 @@
+
+                Selon le secrétaire d'État au Numérique, " nous sommes nous-mêmes responsables de nos données personnelles sur Internet".
+                
+                    Si vous ne voulez pas que vos données personnelles fuitent, supprimez-les. C'est en substance ce qu'a conseillé Mounir Mahjoubi ce mardi matin sur France Inter. Le secrétaire d'Etat chargé du Numérique était invité à s'exprimer sur la faille de sécurité de Google + dévoilée la veille. Selon lui, les utilisateurs doivent être "responsables de [leurs] données personnelles sur Internet" car les mesures du Règlement général de protection des données (RGPD) ne suffisent pas à sécuriser les données en amont.
+                
+                
+                    Tout peut fuiter
+                    "Il faut qu'on se rende compte que nos données personnelles ne sont pas dans des coffres-forts et qu'elles peuvent fuiter", a affirmé Mounir Mahjoubi au micro de France Inter. Il invite donc les Français à se renseigner sur les données personnelles que conservent leurs réseaux sociaux. "Quand vous les regardez, posez-vous une question : si jamais elles fuitent et circulent partout sur Internet, que tout le monde peut les télécharger, est-ce que je suis à l'aise ?", explique le secrétaire d'État.
+                
+                
+                    Interrogé par Léa Salamé, Mounir Mahjoubi affirme qu'il faut désormais agir avec nos données personnelles sur Internet comme avec n'importe quel objet précieux : "Chez vous, quelque chose de très important, vous ne le laissez pas devant votre porte, vous le mettez derrière une porte et vous fermez à clé [...] Pourquoi est-ce que pour les données en ligne on ne fait pas la même chose ?". Aux questions posées par les auditeurs, il a également insisté sur le fait que l'e-mail était "le moyen de communication le moins sécurisé au monde" pour échanger des données importantes.
+                
+                
+                    L'État : une intervention en aval
+                    Mounir Mahjoubi a tout de même tenté de rassurer quant à la marge de manoeuvre de l'Etat, qui peut intervenir après la fuite. Depuis l'entrée en vigueur du RGPD, chaque pays européen dispose en effet d'un régulateur en la matière.
+                
+                
+                    Fin septembre, les autorités européennes ont été mises au défi par un piratage potentiel de données personnelles sur Facebook. La faille de sécurité du réseau social a touché environ 50 millions de comptes, dont presque 10% appartiennent à des Européens. Depuis, Facebook n'a toujours pas répondu à toutes les interrogations que ce piratage suscite. Mounir Mahjoubi a donc insisté sur le fait que la plateforme pourrait être condamnée à une lourde amende si ses responsables restent silencieux.
+                
+                
+                    Après celle de Facebook, la faille de sécurité du réseau social Google + est selon Mounir Mahjoubi "le cinquième événement de ce type en quelques mois". Malgré la demande du secrétaire d'Etat, Google France n'a toujours pas indiqué si des comptes français avaient été touchés.
+                
+                
+                    Toutefois, l'entreprise a décidé de fermer son réseau social aux particuliers, alors même que toutes les personnes possédant une adresse Gmail y étaient automatiquement inscrites.
+                
+            

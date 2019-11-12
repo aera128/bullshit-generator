@@ -1,0 +1,49 @@
+
+                Ce prix vient récompenser trois chercheurs (dont un français) ayant trouvé les moyens de faire évoluer l'usage des lasers.
+                
+                    Le prix Nobel de physique 2018 a récompensé ce mardi 2 octobre l'Américain Arthur Ashkin, le Français Gérard Mourou et la Canadienne Donna Strickland. L'académie suédoise a tenu à souligner l'importance de leur recherches fondamentales en rappelant qu'elles ont abouti à la création très concrètes de lasers utilisés chaque jour par des millions de personnes dans l'industrie et la médecine, contribuant ainsi à "transformer nos vies". Leurs découvertes ont "révolutionné" la physique des lasers, a insisté l'Académie royale des sciences à Stockholm, lors de la conférence de presse annonçant les lauréats.
+                
+                
+                    Les lasers, qui sont devenus avec le temps de plus en plus puissants et précis, permettent aussi bien de graver l'intérieur du verre que d'opérer les yeux pour corriger la myopie ou encore de soigner les cancers. Ils intéressent aussi les militaires et ouvrent, surtout, des champs inexplorés de recherche ainsi qu'une multitude d'applications industrielles et médicales.
+                
+                
+                    Sonder l'univers grâce au laser de laboratoire
+                    L'Académie royale a salué pour moitié Arthur Ashkin -96 ans et désormais lauréat le plus âgé du Nobel toutes catégories confondues- et pour l'autre moitié Gérard Mourou, 74 ans, et Donna Strickland, née en 1959. "Ce Nobel vient récompenser des recherches fondamentales sur les moyens de manipuler les lasers et les faire évoluer, résume Jean-Luc Miquel, chef de projet du Laser Mégajoule (LMJ) et Petawatt Aquitaine Laser (Peral) au Commissariat à l'énergie atomique (CEA), mais elles ont des applications totalement différentes."
+                
+                
+                    Gérard Mourou et Donna Strickland, qui était son étudiante, ont développé ensemble, en 1985, la technique d'amplification des lasers, appelée "Chirped Pulse Amplification (CPA)" [amplification d'impulsion à dérive de fréquence], qui permet de générer des impulsions laser ultracourtes et de très grande puissance. "A l'époque, on ne pouvait pas augmenter la puissance des lasers au-delà d'un certain seuil avant d'endommager les instruments optiques, se rappelle Jean-Luc Miquel. Mourou et Strickland ont alors eu l'idée d'étirer les impulsions laser très courtes [en retardant les différentes couleurs qui composent un laser], puis de les amplifier, avant de les comprimer, pour enfin obtenir des lasers de très haute puissance", comme le résume le schéma ci-dessous :
+                
+                
+                    En terme de physique et astrophysique de laboratoire, ces lasers qui génèrent des particules de très haute énergie servent à chauffer la matière à haute température pour mieux comprendre ce qui se passe dans les étoiles, à créer des faisceaux permettant de sonder la matière, ou encore à mieux comprendre les champs magnétiques.
+                
+                
+                    Le CEA en a directement profité puisque la découverte des deux chercheurs a permis au laser Petal de battre des records de puissance. "Nous avons dès les années 90 fait venir Gérard Mourou pour lui demander d'appliquer sa méthode pour augmenter la puissance de nos lasers, précise Jean-Luc Miquel. Aujourd'hui, notre faisceau ultra-puissant Petal est mis à disposition de la communauté scientifique pour de nombreuses recherches, dont la plus récente a consisté à sonder des champs magnétiques dans notre laboratoire, ce qui devrait nous permettre de comprendre comment ils sont générés à l'échelle de l'univers". L'étude, encore en cours, devrait être publiée prochainement dans une revue scientifique prestigieuse.
+                
+                
+                    Cancer, myopie : applications concrètes en médecine
+                    Ces recherches ont également des applications très concrètes en médecine, puisqu'elles ont permis de soigner des millions de personnes de la myopie ou de la cataracte. Leur découverte pourrait aussi grandement d'améliorer l'hadronthérapie: une méthode de radiothérapie pour le traitement du cancer. "Pour résumer, il s'agit d'utiliser des faisceaux d'ions et de les introduire dans les cellules cancéreuses pour les détruire sans endommager les cellules saines, détaille Jean-Luc Miquel. Actuellement, cette technique effectuée grâce à des machines énormes, les synchrotrons, est très coûteuse. Mais grâce aux lasers à haute intensité inventés par Gérard Mourou et Donna Strickland, elle pourrait devenir beaucoup plus efficace et abordable".
+                
+                
+                    Outre leurs applications en astrophysique et la médecine, les travaux des deux nobélisés ont permis la création et la simulation de conditions extrêmes particulièrement utiles dans le domaine nucléaire militaire et civil. Gérard Mourou a également mis en évidence la filamentation : le fait que les lasers peuvent se fragmenter en petits filaments sur de très longues distances une fois propulsés dans l'air, un domaine hautement théorique pour l'instant, mais qui intéresse particulièrement les militaires : ces filaments pourraient permettre de perturber l'électronique.
+                
+                
+                    La communauté scientifique espère aussi utiliser ces faisceaux ultra-puissants pour, un jour, réduire la radioactivité d'un déchet nucléaire d'un million d'années à 30 minutes, ou encore nettoyer l'orbite terrestre, encombrée par de très nombreux débris spatiaux.
+                
+                
+                    La pince optique : capturer des virus avec de la lumière
+                    Arthur Ashkin a lui été récompensé pour avoir mis au point la pince optique. "C'est un outil qui permet, simplement avec de la lumière, de piéger en trois dimension un tout petit objet (de l'ordre du micron, 0, 000 001 mètre)", explique Simon Vassant, physicien au CEA. Grâce à cette pince, on peut donc piéger voire contrôler des organismes minuscules comme des cellules vivantes, des virus ou des bactéries". Pour illustrer cette science fondamentale, les scientifiques de l'académie des Nobel ont diffusé une vidéo d'un chercheur utilisant le souffle d'un sèche-cheveux pour faire voler et déplacer en l'air une balle de ping-pong.
+                
+                
+                    Les travaux d'Ashkin ont commencé en 1970. Dans une étude, il explique avoir poussé des billes microscopiques dans de l'eau après leur avoir tiré dessus au laser et avoir réussi à piéger ces mêmes billes en utilisant deux faisceaux laser dirigés chacun d'un côté de la bille. 17 ans plus tard, il publie une autre étude dans laquelle il arrive à démontrer qu'il est possible d'utiliser un seul faisceau pour piéger, sans les endommager, des bactéries vivantes.
+                
+                
+                    De futures prises de sang de quelques gouttes
+                    Depuis, ses pinces sont couramment utilisées dans les laboratoires pour étudier les micro-organismes. "Grâce à cette technique, on arrive à mesurer des forces infinitésimales de l'ordre de piconewton ou femtonewton entre deux cellules par exemple, ce qui permet de mieux comprendre les réactions entre anticorps et antigènes", ajoute le chercheur du CEA. Suite à ses découvertes, tout un champ s'est développé sur l'utilisation alternative des lasers, notamment pour créer plusieurs points focaux en même temps, ce qui permet de piéger plusieurs objets simultanément.
+                
+                
+                    À terme, les chercheurs espèrent développer des technologies de pointe pour le contrôle de micro-pompes ou de micromoteurs, ce qui pourrait, plus concrètement, permettre d'améliorer les analyses de sang. "Pour l'instant, tout cela reste encore très fondamental, mais ces techniques devraient continuer à se développer et apporter des progrès en biologie et en médecine", s'enthousiasme Simon Vassant.
+                
+                
+                    Lundi 1er octobre 2018, le prix Nobel de médecine a récompensé l'Américain James P. Allison et le Japonais Tasuku Honjo pour leur travaux l'immunothérapie, qui révolutionne la prise en charge du cancer. Ces deux chercheurs ont en effet mis au jour des molécules permettant de lever les freins de notre système immunitaire, pour qu'il puisse s'attaquer aux cellules cancéreuses.
+                
+            

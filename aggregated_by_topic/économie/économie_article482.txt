@@ -1,0 +1,29 @@
+
+                Un bug de l'application d'appels vidéo permet d'entendre son correspondant sur un iPhone, avant même qu'il n'ait décroché.
+                
+                    Une faille de sécurité récemment découverte dans FaceTime - l'application d'appels vidéo d'Apple - permet à l'utilisateur d'entendre, et même de voir, son correspondant sur un iPhone avant même qu'il n'ait décroché. De quoi soulever des craintes sur la confidentialité des données.
+                
+                
+                    "Nous sommes au courant de ce problème et nous avons identifié un correctif qui sera diffusé dans une mise à jour logicielle disponible plus tard dans la semaine", a indiqué Apple dans une déclaration à la presse. Le géant américain a également fait savoir, via son site d'assistance aux utilisateurs, qu'il avait temporairement désactivé la fonctionnalité de conversation de groupe sur FaceTime qui est à l'origine du problème.
+                
+                
+                    Appel groupé
+                    Le bug, d'abord signalé sur le site internet des produits Apple 9to5Mac.com, a également été rapporté par plusieurs médias. Une vidéo postée sur le compte Twitter @BmManski montre la facilité avec laquelle ce bug permet d'écouter le son provenant d'un iPhone contacté via FaceTime. Lundi soir, elle avait totalisé plus d'un million de vues et avait été partagée 10 000 fois en Californie.
+                
+                
+                    Des utilisateurs de Twitter ont expliqué sur le réseau social comment désactiver FaceTime, le temps qu'une correction y soit apportée. Selon des vidéos postées sur Twitter, lorsqu'une personne compose un numéro de téléphone sur FaceTime, elle peut balayer son écran vers le haut et choisir une option afin d'ajouter un correspondant.
+                
+                
+                    Si l'appelant entre ensuite son propre numéro sur l'écran "ajouter une personne", un appel groupé commence même si le contact n'a pas encore décroché. L'appelant peut ensuite l'écouter et même, selon certaines vidéos, le voir via la caméra de son appareil. Le refus d'un appel interrompt la connexion. "Désactivez FaceTime pour l'instant, jusqu'à ce qu'Apple corrige", a conseillé Jack Dorsey, le cofondateur de Twitter, dans un message posté sur le réseau social.
+                
+                
+                    Une faille qui tombe mal pour Apple
+                    Son post incluait un message du spécialiste des nouvelles technologies Andy Baio. "Vous voulez voir un vraiment mauvais bug?", demande-t-il. "Vous pouvez utiliser FaceTime pour joindre tout appareil IOS 12.1 et écouter à distance --SANS QUE L'AUTRE PERSONNE NE DÉCROCHE".
+                
+                
+                    Cette faille spectaculaire tombe mal pour Apple, qui s'efforce justement de se positionner comme un champion de la sécurité et de la protection de la vie privée de ses utilisateurs, et doit de surcroît présenter ce mardi ses résultats financiers annuels.
+                
+                
+                    Tim Cook, le patron d'Apple, expliquait justement lundi sur Twitter, juste avant la révélation de la faille Facetime, que les dangers d'internet pour la vie privée "étaient réels". "Insistons tous sur la nécessité d'agir et de réformer en faveur de la protection de la vie privée, qui est vitale", a-t-il indiqué à l'occasion de la "journée internationale de la protection des données".
+                
+            

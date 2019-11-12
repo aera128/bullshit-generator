@@ -1,0 +1,9 @@
+
+                La DGSI enquête sur le malware qui a frappé le groupe français Altran, dont les clients opèrent dans des domaines sensibles.
+                
+                    Ce 24 janvier 2019, un dieu de la Mort s'abat sans prévenir sur une grande entreprise française. Une variante de Ryuk, un logiciel malveillant dont le nom provient du personnage de la Faucheuse dans le manga Death Note, paralyse 400 serveurs d'Altran en rendant illisibles les données qui y sont stockées. En un instant, en France comme dans plusieurs grands pays européens où le groupe est présent, la Mort fait son office et suspend l'activité de cette multinationale de 2,2 milliards d'euros de chiffre d'affaires.
+                
+                
+                    Dans l'Hexagone, les téléphones fixes ne sonnent plus, obligeant les salariés à utiliser leurs smartphones. Des e-mails professionnels ne parviennent pas à leurs destinataires. Et des applications internes de facturation ou de gestion des congés restent inaccessibles. "De nombreux outils informatiques ne répondent plus", témoigne un élu syndical chez Altran. L'instigateur de cette "prise d'otage" propose rapidement via un message de tout débloquer en fournissant une clef de déchiffrement, moyennant un paiement en bitcoins.
+                
+            

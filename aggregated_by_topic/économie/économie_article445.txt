@@ -1,0 +1,53 @@
+
+                Meersens propose de passer au crible votre environnement, en détectant tous ses éléments toxiques.
+                
+                    La pollution sous toutes ses formes est, chaque année, à l'origine de 9 millions de morts sur la planète, selon une vaste étude parue, en 2015, dans la revue scientifique britannique The Lancet. Un constat alarmant, qui a poussé la start-up Meersens à développer une application gratuite pour d'informer l'utilisateur sur les éléments toxiques contenus dans l'air et l'eau, susceptibles d'être mauvais pour la santé : UV, ondes, pesticides, etc. La technologie repose sur une intelligence artificielle capable d'analyser des milliers de données disponibles en libre accès. En quelques secondes, un indice de risques (de 0 à 100) s'affiche sur votre smartphone pour vous alerter sur le degré de dangerosité.
+                
+                
+                    Primée au CES de Las Vegas
+                    Pour compléter et affiner ces masses de données, l'application propose également un volet communautaire. "Les utilisateurs deviennent des lanceurs d'alertes sanitaires, en indiquant eux-mêmes les zones à risques, explique l'ingénieur Morane Rey-Huet, cofondateur de Meersens, qui assure que l'information est confirmée ou infirmée par les autres, afin de forger le niveau de pertinence."
+                
+                
+                    Lancée en 2017 par Morane Rey-Huet et Louis Stockreisser, deux anciens de l'Institut polytechnique de Grenoble (Isère), Meersens vient de recevoir le prix de l'Innovation pour un meilleur monde au CES de Las Vegas, aux Etats-Unis, la grand-messe du high-tech.
+                
+                
+                    La start-up a profité de l'événement pour présenter son nouveau produit, la Mbox, qui sera vendue 150 euros. De la taille d'un smartphone, ce boîtier connecté permettra de contrôler la qualité de l'air, de l'eau avec une plus grande exactitude, mais également de mesurer les traces de gluten dans vos aliments. L'appareil sera en effet vendu avec une gamme de six capsules détectrices de risques, coûtant de 1 à 30 euros l'unité. De quoi vous transformer en laborantin amateur, au risque peut-être de vous faire devenir un brin parano...
+                
+                
+                    Morane Rey-Huet du tac au tac
+                    Comment se dit le nom de votre start-up ?
+                
+                
+                    Morane Rey-Huet On s'est inspiré du nom du suricate en anglais, "meerkat", un animal toujours en alerte. on prononce donc à l'anglaise, mais vous pouvez le dire la française.
+                
+                
+                    Vous proposez des "parcours de santé" personnalisables selon les utilisateurs.
+                
+                
+                    M. R-H. Il est possible d'indiquer des sensibilités dans votre profil d'utilisateur. Une personne asthmatique sera, par exemple, plus sensible au niveau de pollution et devra éviter certaines voies de circulation. Un abonnement mensuel à hauteur de 2 euros est ainsi disponible pour construire un programme totalement personnalisé.
+                
+                
+                    Peut-on être averti de la proximité d'une zone à risque sur tout le territoire ?
+                
+                
+                    M. R-H. Oui, les données recueillies proviennent de tout l'Hexagone, mais l'application est aussi disponible sur l'ensemble des Etats-Unis.
+                
+                
+                    N'avez-vous pas peur d'être trop anxiogène ?
+                
+                
+                    M. R-H. Il vaut mieux prévenir que guérir. Nous voulons entrer en partenariat avec les communes et les entreprises pour leur indiquer des zones à risque et les aider à trouver des solutions afin de les réduire. Deux métropoles ont déjà accepté de coopérer avec nous.
+                
+                
+                    Meersens en trois chiffres
+                
+                
+                    300 000 euros de levées de fonds
+                
+                
+                    10 000 utilisateurs
+                
+                
+                    5 employés
+                
+            

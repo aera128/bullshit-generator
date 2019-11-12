@@ -1,0 +1,23 @@
+
+                Le réseau social a laissé plusieurs géants du web consulter les données de ses utilisateurs assure le New York Times.
+                
+                    Facebook de nouveau épinglé sur la gestion de la vie privée de ses utilisateurs, après le scandale Cambridge Analytica. Dans une enquête publiée mardi, le New York Times révèle que le réseau social a permis à des entreprises d'accéder aux données personnelles de ses utilisateurs, sans que ces derniers ne donnent explicitement leur consentement.
+                
+                
+                    S'appuyant sur des documents internes et des témoignages anonymes, le quotidien américain montre que Facebook a accordé à certains géants du Web, un accès aux données personnelles de ses utilisateurs, plus intrusif qu'il ne l'admettait jusqu'à présent. Ces partenaires commerciaux étaient de fait, exemptés des règles de confidentialité du réseau social.
+                
+                
+                    Plus de 150 entreprises
+                    Parmi ces partenaires de Facebook, on retrouve des géants du Web comme Apple, Amazon, Microsoft, Netflix, ou Spotify. Au total, plus de 150 groupes ont bénéficié de ces "exceptions de confidentialité". L'objectif de ce système est de permettre aux entreprises d'améliorer leur ciblage publicitaire.
+                
+                
+                    Mais tous les partenaires n'ont pas eu le même accès aux données personnelles. Amazon a par exemple pu enrichir la liste d'informations personnelles qu'elle possédait sur ses propres utilisateurs, comme leur numéro de téléphone. Apple a eu accès aux contacts des utilisateurs de Facebook, et à leur agenda.
+                
+                
+                    Netflix et Spotify autorisés à lire vos conversations privées
+                    Mais le réseau social de Mark Zuckerberg avait également passé un accord avec Netflix, Spotify, et la Banque royale du Canada, qui permettait à ces derniers d'accéder aux conversations Messenger des utilisateurs de Facebook, et même d'écrire, ou de supprimer des messages. Netflix et Spotify ont plaidé qu'ils n'avaient jamais été au fait de ce privilège, quant à la Banque royale du Canada, elle a contesté avoir jamais eu un tel accès.
+                
+                
+                    Le réseau social s'est défendu en affirmant que ses utilisateurs avaient dû "explicitement donner leur accord sur Facebook", avant de fournir un tel accès aux données. Facebook a par ailleurs ajouté qu'il avait mis fin à la plupart de ces partenariats, en dehors de ceux conclus avec Apple et Amazon.
+                
+            

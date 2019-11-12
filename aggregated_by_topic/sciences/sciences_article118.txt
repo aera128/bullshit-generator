@@ -1,0 +1,30 @@
+
+                Cardiologue et généticien de renom, fin observateur des évolutions médicales et auteur de plusieurs best-sellers aux Etats-Unis, le Dr Eric Topol parie sur la convergence des intelligences humaines et artificielles.
+                
+                    L'EXPRESS Le sous-titre de votre prochain livre (1) affirme que "l'intelligence artificielle (IA) peut rendre la médecine plus humaine". Vous ne croyez pas à la thèse du remplacement des médecins par les machines ?
+                
+                
+                    Eric Topol. Pas une seconde. Face à la maladie, à des questions de vie ou de mort, nous privilégierons toujours le contact humain. Les malades attendent des conseils, de l'expérience, une forme de réassurance. Cela ne changera pas. Bien sûr, avec les technologies d'analyse d'images, l'IA peut voir mieux que l'homme. Les algorithmes traitent des données massives plus vite, bien mieux et pour moins cher. Cela permettra d'automatiser les tâches routinières, et certains métiers devront évoluer. Les professionnels de santé bénéficieront de plus de temps pour "prendre soin" de leurs patients. La médecine actuelle dysfonctionne : les docteurs sont débordés, il y a beaucoup d'erreurs de diagnostic et de traitement. Je fais le pari que nous aurons une meilleure médecine, plus efficiente, grâce à la synergie de l'homme et de la machine.
+                
+                
+                    Avez-vous des exemples concrets ?
+                
+                
+                    Aujourd'hui, ce sont surtout les généralistes qui examinent en première intention les lésions de la peau, et il arrive qu'ils passent à côté de mélanomes ou d'autres cancers. L'IA les aidera à améliorer la précision de leurs diagnostics - sans pour autant qu'ils disparaissent, pas plus que les dermatologues d'ailleurs ! En gastro-entérologie, des algorithmes détectent déjà mieux que l'oeil humain les petits polypes dans les intestins, que les meilleurs experts ne parviennent pas, souvent, à déceler. C'est aussi vrai pour l'analyse de scanners pulmonaires et de nombreux autres examens. Prenez le dépistage de la rétinopathie diabétique, qui consiste à analyser une image du fond de l'oeil : il est essentiel, car cette maladie peut rendre aveugle et, pourtant, il est trop peu effectué aujourd'hui. Doit-on regretter qu'un système informatique puisse réaliser le cliché et l'interpréter, et ainsi rendre ce test accessible ?
+                
+                
+                    Les patients vont-ils davantage prendre la main sur leur santé ?
+                
+                
+                    Oui, grâce aux objets connectés. Pour le meilleur et pour le pire. Les montres intelligentes dotées d'un algorithme de détection de pathologies cardiaques utilisées dans une population sans problèmes particuliers généreront de fausses alertes. En revanche, un tel dispositif pourra prévenir l'aggravation de l'état de patients atteints de maladies chroniques.
+                
+                
+                    Les médecins risquent-ils de rejeter ces technologies ?
+                
+                
+                    Nous sommes à un tournant et, pour l'instant, nous manquons de validations cliniques. Il y a beaucoup de promesses, mais encore peu de preuves de l'utilité pratique des systèmes en développement. Les erreurs liées au système Watson d'IBM, censé indiquer comment traiter les patients atteints de cancer, montrent à quel point les algorithmes restent perfectibles. Les médecins n'adopteront pas massivement ces systèmes s'ils n'en comprennent pas les résultats. Or, aujourd'hui, la plupart des algorithmes restent des boîtes noires...
+                
+                
+                    (1) Deep Medicine, How Artificial Intelligence Can Make Healthcare Human Again, Basic books, disponible à partir du 12 mars 2019. Non traduit.
+                
+            

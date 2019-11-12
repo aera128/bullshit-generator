@@ -1,0 +1,45 @@
+
+                Tuberculose, herpès, grippe... les formes graves de ces maladies sont souvent liées à des anomalies génétiques. Explications.
+                
+                    Le Dr Laurent Abel (Inserm), de l'Institut Imagine, explore depuis plus de vingt ans les liens entre génétique et maladies infectieuses. Des travaux qui permettent d'un peu mieux comprendre pourquoi les microbes ne nous affectent pas tous de la même façon.
+                
+                
+                    Votre équipe* vient de montrer qu'une mutation génétique favorise les infections par la tuberculose. Comment en êtes-vous arrivé à cette découverte ?
+                
+                
+                    A partir d'une observation fascinante : 90% des personnes infectées par le bacille restent des porteurs sains, qui n'auront jamais aucun symptôme. Pour quelle raison ? C'est une question fondamentale pour espérer venir un jour à bout de cette pathologie. Rappelons qu'avec 1,5 million de morts par an dans le monde, la tuberculose reste la maladie infectieuse qui tue le plus avec le sida et le paludisme. Certains enfants, notamment, vont développer rapidement après l'infection des formes sévères de tuberculose. Nous avons essayé de comprendre cette variabilité à partir de l'étude du génome des patients concernés, en recherchant la présence de mutations génétiques susceptibles de modifier leur réponse immunitaire face au pathogène responsable de l'infection. Et effectivement, nous avons trouvé un variant assez fréquent, qui concerne une personne sur 600 en Europe. Mais nous sommes seulement au début du chemin : il existe certainement encore d'autres variations ayant des conséquences similaires. Le système immunitaire est un système complexe, commandé par plusieurs gènes, qui peuvent potentiellement chacun être affecté par différentes mutations.
+                
+                
+                    Cette première découverte peut-elle toutefois changer la donne pour les malades concernés ?
+                
+                
+                    Le gène affecté par cette variation est normalement impliqué dans le processus de production d'une cytokine [une substance du système immunitaire, ndlr] que l'industrie pharmaceutique sait synthétiser. On pourrait donc l'administrer aux malades concernés, en complément des antibiotiques.
+                
+                
+                    La variation que vous avez mise au jour est-elle propre à la tuberculose ?
+                
+                
+                    Tout à fait. Il existe des formes d'affaiblissement général du système immunitaire liées à des mutations génétiques rares. C'est ce dont souffrent par exemple les "bébés-bulle", ces enfants que l'on doit placer dans des chambres stériles en attendant un traitement. Dans le cas de la tuberculose, la variation affecte spécifiquement la capacité à se défendre face aux mycobactéries, et en particulier Mycobacterium tuberculosis, le bacille de la tuberculose. Ce type de variation génétique explique aussi, par exemple, que certains enfants développent dans de très rares cas des infections à d'autres mycobactéries a priori non virulentes comme celle présente dans le vaccin BCG. En revanche, les personnes porteuses se défendront tout à fait normalement face à d'autres microbes.
+                
+                
+                    Retrouve-t-on néanmoins des mécanismes similaires dans d'autres maladies infectieuses ?
+                
+                
+                    Nos gènes nous rendent plus ou moins vulnérables à certaines infections. Des mutations génétiques se trouvent impliquées dans les formes très sévères d'infections communes. C'est le cas par exemple de l'herpès. Ce virus est très répandu, mais la plupart des personnes infectées n'auront pas de symptôme, ou de simples boutons de fièvre. Mais un patient sur 200000 va faire, dans l'enfance, une encéphalite, une infection grave du système nerveux central. Nous avons pu étudier les gènes de ces malades, et là aussi nous avons retrouvé chez certains d'entre eux des variations affectant la réponse spécifique du système immunitaire à ce virus. Même chose avec les formes de grippe sévère qui surviennent chez l'enfant ou le jeune adulte par ailleurs en bonne santé, ou encore avec le pneumocoque, une bactérie dont beaucoup d'enfants sont porteurs, qui va provoquer des méningites chez une minorité d'entre eux.
+                
+                
+                    Ces variations affectent plus particulièrement les enfants ?
+                
+                
+                    Disons plutôt que ces anomalies sont tellement importantes qu'elles se révèlent lors de la première infection, qui a souvent lieu dans l'enfance. En revanche, on peut imaginer qu'en l'absence d'infection par le microbe concerné dans cette période sensible, le système immunitaire pourrait développer au fil du temps des mécanismes partiellement compensateurs. L'infection, si elle survient plus tard, déclencherait alors des symptômes moins violents.
+                
+                
+                    Certaines mutations peuvent-elles être protectrices ?
+                
+                
+                    On peut citer le cas assez connu de la mutation sur le gène CCR5, qui protège contre l'infection par le VIH responsable du SIDA. Il existe aussi des mutations protectrices de certaines formes de paludisme. Ces mutations sont assez rares, mais il en existe aussi de bien plus fréquentes, dans les gastro-entérites. Une part non négligeable de la population, dotée d'une mutation sur un gène impliqué dans le fonctionnement du mucus gastrique, ne fera pas d'infection aux norovirus et aux rotavirus, et ne sera donc pas malade, ou en tout cas pas à cause de ces agents pathogènes - il en existe d'autres auxquels ils seront quand même sensibles. Ces mutations ne semblent pas avoir d'effets délétères par ailleurs.
+                
+                
+                    * Tuberculosis and impaired IL-23-dependent IFM-y immunity in humans homozygous for a common TYK2 missense variant. Avec notamment le Pr Jean-Laurent Casanova et Séphanie Boisson-Dupuis.
+                
+            

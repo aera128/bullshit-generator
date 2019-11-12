@@ -1,0 +1,60 @@
+
+                L'intelligence artificielle fascine et inquiète. Olivier Bousquet, directeur de "Google IA Europe" tente de la démythifier.
+                
+                    Dans le monde de l'Intelligence artificielle (IA), il s'impose comme une étoile montante. Formé à l'École polytechnique, passé par le Max Planck Institute (Allemagne), le français Olivier Bousquet, 43 ans, dirige les laboratoires d'IA européens de Google, à Zurich et à Paris. Pour L'Express, il revient sur les dernières avancées dans ce domaine.
+                
+                
+                    L'Express. L'IA, et plus particulièrement les algorithmes élaborés d'apprentissage automatique (machine learning) et d'apprentissage profond (deep learning), promettent de changer nos sociétés. Comment ces technologies fonctionnent-elles ?
+                
+                
+                    Olivier Bousquet. Prenons l'exemple d'un programme (de type deep learning) de reconnaissance automatique d'images de chats. Pour commencer, nous collectons une base de données, dans ce cas des millions de photos étiquetées "chat" ou "non chat". Nous les faisons passer dans un réseau de neurones artificiels - des séquences mathématiques sur plusieurs couches -, et le logiciel doit deviner s'il est ou non en face d'une photo de chat. Une fois la réponse formulée, il la compare avec l'étiquette d'origine. À chaque erreur, le système applique automatiquement des modifications dans les différentes couches de son réseau de neurones afin de ne plus la reproduire, et ainsi de suite jusqu'à obtenir des performances optimales. Cette technologie a néanmoins des limites : il faut créer une nouvelle architecture pour chaque application, que ce soit la reconnaissance d'images, de voix ou l'apprentissage du jeu de go.
+                
+                
+                    Pour résoudre ce problème, nous tentons de mettre au point un réseau de neurones artificiels "généraliste", exercé à prédire la structure d'autres réseaux en fonction de l'application qu'on veut leur confier. La seconde limite actuelle de l'IA est son manque de créativité. Ce champ de recherche est cependant en pleine expansion, et nous enregistrons des progrès importants dans des domaines artistiques comme la musique avec des algorithmes de composition [comme Magenta, voir ci-dessous].
+                
+                
+                    L'Express. À vous entendre, l'intelligence artificielle n'a pas de limites...
+                
+                
+                    Nous pensons qu'elle peut aider à relever les plus grands défi de notre siècle. Typiquement, nous avons été surpris par les résultats lors des premiers essais de diagnostics médicaux dans le domaine de l'ophtalmologie. Grâce au deep learning (apprentissage profond), la machine, entraînée à analyser des images d'oeil et à détecter des cas de rétinopathie diabétique, s'est révélée aussi précise, voire meilleure, dans son diagnostic qu'un spécialiste. Ce genre de logiciel pourrait avoir un impact gigantesque, notamment en Afrique, où il y a un grand manque de médecins.
+                
+                
+                    Nous travaillons aussi sur la fusion nucléaire, dont on espère accélérer les recherches en automatisant grâce à l'IA certains calculs prenant normalement des heures aux supercalculateurs. En matière d'environnement, l'un de nos projets vise notamment à aider les zoologues à mieux préserver l'habitat des lamantins, une espèce marine menacée. Nous avons photographié l'océan depuis un avion, puis analysé automatiquement les images pour mieux repérer leur position et les compter.
+                
+                
+                    L'Express. L'essor de l'IA et le recours à de gigantesques bases de données ne représentent-ils pas un risque pour la protection de la vie privée ?
+                
+                
+                    Si vous regardez les horaires d'ouverture d'un magasin dans Google Maps, vous verrez une courbe indiquant l'affluence à différentes heures de la journée. Cette information est obtenue grâce au partage consenti des données de géolocalisation des utilisateurs, qui sont stockées dans des serveurs protégés puis agrégées et anonymisées. C'est le même principe avec la prédiction du trafic et une large majorité d'applications utilisant des données personnelles.
+                
+                
+                    L'existence de Google repose sur la confiance que les utilisateurs ont en nous. Si on la perd, on perd tout [Google+, achevé après une fuite de donnée, est un exemple]. Je vous l'assure, notre réflexion est plus portée sur le respect des principes éthiques des utilisateurs et de la société en général que sur le bénéfice que nous pouvons en tirer. Moi-même, je fais attention aux informations que je partage avec Google et veux être sûr qu'elles sont employées à bon escient et en respectant ma vie privée.
+                
+                
+                    L'Express. Pensez-vous réussir à développer, un jour, une IA capable d'égaler, voire de remplacer, l'homme ?
+                
+                
+                    Nous en sommes encore très loin. Le deep learning a un potentiel significatif, mais il ne fait pas tout. Ces programmes ne comprennent pas les données qu'ils manipulent, comme le fait un humain. Prenez un enfant, il suffit de lui montrer une fois l'image d'une poule - même sommaire - pour qu'il puisse en reconnaître une dans une ferme. Les machines, elles, doivent d'abord "manger" des centaines de milliers de photos. Idem dans le traitement du langage : les IA peuvent répondre à des questions, sauf qu'elles ne comprennent pas ce qu'on leur dit comme un humain le ferait.
+                
+                
+                    Pour qu'elles y parviennent, il faudrait inventer de nouvelles technologies. En attendant, nous tentons de créer des systèmes multimodaux capables d'effectuer plusieurs tâches en même temps et créer des connexions entre elles [grâce à une technique appelée le transfert learning]. Mais tout cela reste limité. Et ce n'est pas parce qu'un système effectue plusieurs tâches qu'il est autonome ou peut remplacer l'humain.
+                
+                
+                    L'Express. Les chercheurs prennent-ils en considération les réflexions philosophiques portées par certaines oeuvres de science-fiction ?
+                
+                
+                    Parmi nos principes éthiques, il y a la volonté de ne pas créer d'IA susceptible de nuire aux gens. C'est une reprise de la loi d'Isaac Asimov voulant qu'un robot ne puisse pas faire du mal à un être humain. Nous menons aussi des recherches visant à garantir la sécurité des systèmes. Non pas que nous redoutions de perdre le contrôle - il n'existe pas d'IA autonome -, mais pour faire en sorte que leur comportement soit conforme à ce que l'on attend.
+                
+                
+                    L'Express. Anticipez-vous les impacts à moyen-long terme de l'IA, comme la potentielle destruction de métiers ?
+                
+                
+                    Évidemment. Il faut néanmoins noter qu'il y a assez peu d'exemples historiques où la technologie détruit une profession. Il en existe énormément, en revanche, où elle la transforme et la rend plus productive. L'arrivée des calculettes au début du XXe siècle est parlante. Certains ont cru que les comptables allaient disparaître, sauf que leur travail a évolué : il consistait moins à effectuer des opérations mathématiques qu'à'écrire des analyses de la santé financière des entreprises.
+                
+                
+                    L'Express. Et les taxis, ne disparaîtront-ils pas à cause des voitures autonomes ?
+                
+                
+                    Il est certain qu'il y aura des transformations dans les transports, mais il est difficile de les anticiper. Avec les voitures autonomes, il y aura moins d'accidents, mais il est plus difficile de déterminer si elles signeront la fin d'une liberté individuelle, puisqu'il sera possible de rationaliser leur utilisation, ou de voir à quel point elles bouleverseront l'urbanisation : leur exploitation à large échelle réduira grandement le besoin de places de parking et les embouteillages. Quant au métier de taxi, il est probable qu'il évoluera vers une autre forme de service, que nous n'avons pas encore imaginée.
+                
+            

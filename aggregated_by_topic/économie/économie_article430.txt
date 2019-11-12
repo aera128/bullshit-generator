@@ -1,0 +1,33 @@
+
+                Florence Parly a indiqué vendredi qu'une nouvelle doctrine de "lutte informatique offensive" serait désormais effective.
+                
+                    Plus question de n'être seulement qu'une cible. En préambule à l'ouverture du Forum international de la cybersécurité organisé à Lille, la semaine prochaine, Florence Parly, ministre des Armées, a indiqué ce 18 janvier que les militaires français ne doivent désormais plus seulement se défendre face aux cyberattaques : ils doivent être en capacité d'en initier.
+                
+                
+                    "La France emploie et emploiera l'arme cyber dans ses opérations militaires", a expliqué Florence Parly, ainsi que le rapportent Les Echos. Un impératif devra toutefois être suivi : respecter le droit international des conflits, et donc les règles de proportionnalité, de distinction et de nécessité. "La guerre cyber a commencé et la France doit être prête à y combattre", a ainsi expliqué la ministre.
+                
+                
+                    L'ère de la Lutte informatique offensive (LIO)
+                    L'objectif ? Répondre à la multiplicité des assaillants en passant à l'attaque. "Certaines attaques sont le fruit de groupes malveillants. D'autres, de hackers isolés. Mais certaines, nous le savons, viennent d'États pour le moins indiscrets, pour le moins décomplexés", explique encore la ministre.
+                
+                
+                    La nouvelle doctrine mise en place s'articule autour d'un nouvel acronyme, la LIO, pour Lutte informatique offensive. Cette lutte repose sur trois axes, si l'on en croit les propos tenus à Lille par François Lecointre, chef d'État-major des armées : le renseignement à des fins de ciblage ou de développement capacitaire, la neutralisation de systèmes de commandement adverse de niveau stratégique, la désorganisation de centres de propagande adverses.
+                
+                
+                    "Deux incidents de sécurité par jour" en 2018
+                    Selon Florence Parly, les armées françaises et leur ministère de tutelle sont la cible d'une centaine de cyberattaques par an.
+                
+                
+                    En 2017, "700 incidents de sécurité, dont une centaine d'attaques, ont ciblé les réseaux du ministère. En 2018, ce même nombre a été atteint dès septembre. Ce sont donc plus de deux incidents de sécurité par jour qui ont touché tout autant notre ministère, nos opérations, nos expertises techniques et même un hôpital d'instruction des Armées", a-t-elle détaillé lors d'un discours consacré aux menaces numériques.
+                
+                
+                    Toujours selon la ministre, les serveurs du ministère français des Armées ont notamment été la cible d'une cyberattaque entre fin 2017 et avril 2018 au cours de laquelle "un attaquant cherchait à accéder directement au contenu de boîtes mail de 19 cadres du ministère, dont celles de quelques personnalités sensibles".
+                
+                
+                    Des soupçons sur des hackers russes
+                    "Sans notre vigilance, c'est toute notre chaîne d'alimentation en carburant de la Marine nationale qui aurait été exposée", a-t-elle souligné.
+                
+                
+                    Des analyses ont permis de révéler que, "derrière, se cachait un mode d'attaque bien connu de nos services et que certains attribuent à Turla", un groupe de hackers russes soupçonnés par des médias allemands d'avoir organisé l'an dernier une cyberattaque sans précédent contre le gouvernement allemand.
+                
+            

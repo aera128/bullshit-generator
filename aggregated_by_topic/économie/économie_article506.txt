@@ -1,0 +1,27 @@
+
+                Une enquête de Motherboard dévoile que plus de 250 entreprises avaient accès à la localisation de citoyens américains.
+                
+                    Cela pourrait être un scénario de thriller ; il n'en est rien. Le 6 février, Motherboard a révélé qu'au moins 250 "chasseurs de primes", comme il en existent encore dans certains États américains, ont pu acheter des données de géolocalisation pointue de particuliers, d'ordinaire uniquement accessible aux services de secours ou à la police, grâce à des sociétés tierces en contrat avec de grandes entreprises de télécoms comme AT&T, T-Mobile et Sprint.
+                
+                
+                    Une géolocalisation achetée pour 300 dollars
+                    Tout a commencé début janvier, lorsque le site dévoilait déjà que ces sociétés vendaient les données de géolocalisation de ses clients à des tiers et qu'un marché noir s'était mis en place pour les acquérir. Pour 300 dollars, le journaliste avait réussi à acheter la localisation précise et en temps réel d'un téléphone T-Mobile avec comme simple indication son numéro. L'entreprise vendait les informations des clients à une autre, spécialisée dans la géolocalisation et la vente de ces données, Zumigo. Microbilt, autre société du domaine, les rachetait ensuite et le revendait à des entreprises privées dont l'activité consiste à traquer des individus, notamment lorsqu'ils sont en liberté surveillée.
+                
+                
+                    Des politiques avaient alors réagi, exigeant une enquête, et les entreprises visées ont toutes annoncé qu'elles avaient annulé leur contrat avec ces sociétés tierces. T-Mobile avait indiqué à The Verge avoir "bloqué l'accès aux données de localisation des appareils pour toutes les requêtes soumises par Zumigo au nom de Microbilt" et le PDG avait précisé que ces contrats prendraient fin d'ici mars.
+                
+                
+                    Des données précises à quelques mètres près
+                    Les géants des télécoms assuraient alors que ces partages de données étaient mineurs, et qu'ils étaient autorisés uniquement pour prévenir des fraudes, en cas d'urgence ou que la loi l'exigeait. Mais le nouveau travail de Motherboard montre l'ampleur du problème.
+                
+                
+                    Cette fois, c'est la société CerCareOne, spécialisée dans la revente de données et aujourd'hui disparue, qui est visée. Pendant au moins cinq ans, elle a fait payer environ 1 100 dollars à professionnels de la recherche d'individus. "Dans certains cas, les données étaient si précises qu'un utilisateur pouvait être pisté à l'intérieur même d'un bâtiment", écrit Motherboard. Le site montre en effet l'utilisation de données A-GPS, utilisées par le numéro d'urgence 911 et permettant de localiser des gens à l'extérieur et à l'intérieur des bâtiments.
+                
+                
+                    "Ce scandale ne fait qu'empirer"
+                    En juin dernier, le sénateur de l'Oregon Ron Wyden avait déjà mené une enquête sur ces entreprises, et découvert par exemple que Verizon avait un contrat indirect avec une société dans les appels en milieu carcéral, Securus. Cette dernière, parfois sans vérifier les autorisations, permettait à des gardiens de prisons d'espionner des millions d'Américains. Verizon, mais aussi AT&T, Sprint et T-Mobile avaient alors annoncé qu'ils s'assureraient que l'utilisation des données serait légale.
+                
+                
+                    Aujourd'hui, il a expliqué sur Twitter que ce "scandale ne fait qu'empirer. Les opérateurs assuraient les clients que les abus de pistage de localisation étaient des incidents isolés. Maintenant, il apparaît que des centaines de personnes pouvaient traquer nos téléphones, et ils l'ont fait pendant des années avant que les entreprises de télécoms agissent. C'est plus que de la surveillance, c'est un mépris flagrant et délibéré de la sûreté et la sécurité des Américains."
+                
+            

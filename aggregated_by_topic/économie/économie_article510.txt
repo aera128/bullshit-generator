@@ -1,0 +1,26 @@
+
+                Celui-ci avait découvert le bug alors qu'il s'organisait avec des amis pour jouer à Fortnite.
+                
+                    La petite découverte avait fait frémir bon nombre d'utilisateurs d'iPhone. Fin janvier, on apprenait qu'un bug de l'application d'appels vidéo FaceTime permettait d'entendre son correspondant sur un iPhone, avant même qu'il n'ait décroché.
+                
+                
+                    Aujourd'hui, Apple a publié une mise à jour du système d'exploitation iOS (la version 12.1.4) afin de corriger ce bug plutôt gênant pour l'entreprise. Par ailleurs, elle annonce au site The Verge qu'elle va récompenser celui qui est à l'origine de la découverte : un jeune homme de 14 ans.
+                
+                
+                    Apple a tardé à répondre
+                    "Elle va récompenser la famille Thompson pour avoir découvert la vulnérabilité, et va fournir un supplément pour financer les cours de Grant Thompson", écrit le site. Le montant précis n'a pas été dévoilé.
+                
+                
+                    Tout est parti en effet de Michele Thompson et de son fils, Grant, qui ont signalé ce bug inquiétant pour la protection des données personnelles. Le 20 janvier, ils ont appelé le service client d'Apple après que le garçon a découvert le problème en essayant de s'organiser avec des amis pour une partie de Fortnite.
+                
+                
+                    Des "lanceurs d'alerte" récompensés
+                    La famille a dû attendre plusieurs jours et envoyer un courrier formel pour enfin avoir une réponse d'Apple... sous forme de lettre type l'invitant à faire suivre sa requête à une adresse e-mail spécifique, comme s'il s'agissait d'un bug comme un autre. Or, bien loin d'être anodin, il a fait le tour du monde et suscité de nombreux appels à désactiver FaceTime, jusqu'à sa correction ce vendredi.
+                
+                
+                    Désormais, les utilisateurs peuvent donc enfin supprimer le bug en mettant à jour son logiciel, en allant dans Réglages > Général > Mise à jour logicielle.
+                
+                
+                    Cela fait trois ans qu'Apple récompense les personnes, et notamment les chercheurs, qui les alertent sur les failles du système iOS, offrant jusqu'à 200 000 dollars. Mais certains experts estiment qu'il est plus profitable d'aller vendre ces informations ailleurs que de les signaler à Apple.
+                
+            

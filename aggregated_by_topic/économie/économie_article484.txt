@@ -1,0 +1,16 @@
+
+                Les petites entreprises, souvent moins bien protégées que les grandes, sont les maillons faibles de la cyber sécurité.
+                
+                    Les hackeurs et autres cybermalfaiteurs ont un faible pour les petites et moyennes entreprises. Comme le révèle le colonel Jean-Dominique Nollet, le patron du Centre de lutte contre les criminalités numériques de la gendarmerie (C3N), "elles sont à l'origine de 75 % des plaintes déposées auprès de nos services pour des attaques de type rançongiciels".
+                
+                
+                    Ces logiciels malveillants, cauchemars des patrons de PME, prennent en otage les données d'un ordinateur en les chiffrant à l'insu de son utilisateur. Ce dernier est prié de verser une rançon de quelques centaines d'euros pour obtenir la clé de déchiffrement. "Beaucoup de chefs d'entreprise préfèrent payer plutôt que porter plainte, souligne le chef du C3N. Nous les comprenons, mais nous souhaiterions néanmoins qu'ils viennent nous en parler. Plus nous rassemblerons d'informations, plus nous aurons de chances de remonter la piste."
+                
+                
+                    Le trésor convoité des petites entreprises
+                    Les PME disposent aussi d'un trésor convoité par les cyberpirates: les données personnelles de leurs clients. Le secteur de l'hôtellerie-restauration, qui brasse noms, adresses e-mail et numéros de téléphone et de cartes bancaires, est le premier visé. Les entreprises sont désormais tenues de signaler ces fuites à la Commission nationale informatique et libertés (Cnil) sous 72 heures, en application du règlement européen sur la protection des données. Depuis l'entrée en vigueur de cette disposition en mai 2018, la Cnil a enregistré près de 1300 cas de violations, dont les deux-tiers seraient l'oeuvre de voleurs 2.0.
+                
+                
+                    Le troisième danger menaçant les PME s'appelle "cryptojacking". Un code malveillant inséré dans un ordinateur utilise subrepticement la puissance de la machine pour fabriquer de la monnaie numérique. Une activité aussi invisible que dévoreuse d'énergie qui alourdit sensiblement la facture d'électricité.
+                
+            

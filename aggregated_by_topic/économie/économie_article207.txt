@@ -1,0 +1,51 @@
+
+                Gouvernements, banques et médias s'inquiètent de la multiplication de vidéos truquées grâce à l'intelligence artificielle.
+                
+                    On nage en plein film d'horreur. La personne invitée à se prêter à la démonstration n'en croit pas ses yeux. L'image de son visage, projetée en arrière-plan sur le mur, se transforme en un instant : une raie sur le côté de couleur paille remplace ses cheveux bruns, un triple menton lui pousse, et un teint orange se substitue à sa peau de nacre. Et voici devant nous... Donald Trump, tout sourire ! Ravi de l'effet de son petit tour préféré, Steven Gans exulte. "Je vous ai transformé, en un clic de souris, en président des États-Unis. J'appelle cela une 'trumpification'."
+                
+                
+                    Le cofondateur de la start-up Ooblex a entraîné ses machines à mimer le locataire de la Maison-Blanche en leur faisant "ingérer" de nombreuses photos. Grâce à la technique d'apprentissage profond (deep learning), l'intelligence artificielle peut ensuite reproduire le visage du dirigeant politique et imiter ses expressions en se basant sur le faciès de n'importe qui, pour lui faire dire n'importe quoi. Le résultat est détonnant. "Notre technologie permet aussi de repérer des contenus vidéo de ce type et de faire le tri entre le faux et le vrai", ajoute-t-il. Abritée dans un bâtiment du XIXe siècle en brique - le MaRS Center situé dans le centre de Toronto (Ontario) -, sa société se rêve en agence de détectives du XXIe siècle.
+                
+                
+                    Ecoutez Emmanuel Paquette parler de son enquête sur les deepfakes, ces vidéos truquées qui s'inspirent des fake news (sur SoundCloud).
+                
+                
+                    Les stars d'Hollywood, les figures politiques mais aussi l'homme de la rue, tous sont potentiellement des victimes du mariage entre fausses informations (fake news) et intelligence artificielle. Ce qui n'était qu'un amusement il y a encore peu s'est mué en sujet d'inquiétude, jusqu'à préoccuper les gouvernants eux-mêmes. Cette arme de manipulation massive peut nuire à la réputation de quelqu'un, berner l'opinion publique, leurrer des assurances et même des banques en quête de nouveaux moyens de paiement grâce à la reconnaissance faciale.
+                
+                
+                    Obama insulte Trump et Poutine fait du rap
+                    Tout débute en novembre 2017. Un individu surnommé Deepfakes diffuse sur le forum de discussion Reddit d'étranges vidéos. De célèbres actrices comme Daisy Ridley (Star Wars, épisodes VII et VIII), Emma Watson (Harry Potter, La Belle et la Bête...) ou Gal Gadot (Wonder Woman) s'adonnent aux plaisirs de la chair. Le programmeur s'est amusé à remplacer la tête de figurantes du porno par celles de vedettes du grand écran. Les clips se répandent si rapidement partout sur la Toile que Reddit doit fermer les pages du dénommé Deepfakes.
+                
+                
+                    L'affaire ne s'arrête pas là. Les technologies utilisées sont en libre accès sur Internet (lire ci-dessous) et les photos permettant d'entraîner l'intelligence artificielle sont légion sur la Toile. D'autres petits malins s'emparent aussitôt de cet outil pour s'amuser à leur tour. L'acteur Nicolas Cage fait ainsi irruption dans de grands films à succès à la place de Amy Adams en Lois Lane (Superman), d'Harrison Ford (Indiana Jones) ou de Tom Hanks (Forrest Gump). Les politiques ne sont pas épargnés non plus. Le très policé Barack Obama se met à insulter Donald Trump et Vladimir Poutine entame un rap en Dr Denfer (Austin Powers) dans la cantine d'une prison.
+                
+                
+                    Pour l'heure sans conséquence, l'impact de ces montages pourrait s'avérer plus dramatique s'ils étaient, un jour, diffusés largement comme des vérités et relayés par la presse, la radio ou des chaînes de télévision traditionnelles. "Nous pouvons celles-ci à ne pas se laisser prendre au piège, précise Steven Gans. Notre rôle est de débusquer ces fausses vidéos. Médias mais aussi réseaux sociaux ou encore fabricants de smartphones et banques peuvent être intéressés", précise-t-il.
+                
+                
+                    Le géant chinois du commerce en ligne, Alibaba, a en effet développé un système de paiement fondé sur la reconnaissance faciale appelé smile to pay (sourire pour payer) actuellement testé en Chine. Cette technologie pourrait aussi arriver en Europe. Car les banques doivent renforcer la sécurité des achats sur Internet d'ici à septembre 2019 et remplacer le traditionnel code confidentiel envoyé via un SMS par d'autres moyens. Les deepfakes pourraient ainsi être utilisés pour tromper la reconnaissance faciale, un risque d'ores et déjà identifié par les établissements financiers.
+                
+                
+                    Manipulation en tout genre, atteinte à la réputation ou escroquerie, toutes ces menaces deviennent imminentes. Déjà en riposte, deux start-up, l'une américaine, Truepic, l'autre britannique, Serelya, proposent de déterminer si des photos et vidéos ont été modifiées en les comparant à une base de données. Truepic cherche ainsi à aider les compagnies d'assurances à lutter contre les tentatives de fraude sur les déclarations de sinistre au moyen de photos trafiquées. Les deepfakes sont la prochaine étape. Et les débusquer devient un objectif central.
+                
+                
+                    L'Agence des projets de défense américaine lance une riposte
+                    Il y a trois mois encore, repérer ces montages était assez facile grâce à la méthode du Pr Siwei Lyu, de l'université d'Albany, aux Etats-Unis. Le chercheur avait remarqué une anomalie. Les algorithmes, entraînés sur des séries de clichés sur lesquelles les personnalités avaient toujours les yeux ouverts, avaient un défaut. En regardant avec attention les séquences modifiées, on pouvait s'apercevoir que les clignements d'yeux intervenaient de façon inhabituelle.
+                
+                
+                    Mais, aussitôt ses travaux publiés, l'universitaire a eu une surprise. En ouvrant sa boîte mail, il a découvert qu'un mystérieux correspondant lui avait adressé de nouveaux extraits dans lesquels cette anomalie avait été corrigée. "Jusqu'à maintenant, la détection des fausses vidéos était plutôt simple, car l'algorithme principal est le même depuis huit mois. Mais nous ignorons s'il existe des évolutions en cours, explique-t-il. La prochaine génération sera certainement plus réaliste et plus difficile à repérer. Nous devons donc nous y préparer."
+                
+                
+                    Financé par l'Agence américaine pour les projets de recherche avancée de défense, la Darpa, le programme MediFor a permis à Siwei Lyu et à ses équipes de bénéficier d'un soutien de 450 000 dollars cette année, afin de créer un programme de détection des fausses informations. "Notre taux de réussite se situe à 92,5 %, mais nous avons encore une marge de progression", ajoute-t-il. La sécurité nationale craignait des tentatives de déstabilisation politique lors des élections de mi-mandat, le 6 novembre aux Etats-Unis. Trois membres du Congrès ont même demandé au directeur du renseignement national, Dan Coats, de diligenter une enquête. Les élus souhaitent un rapport et ses conclusions d'ici à la mi-décembre, afin de déterminer si des puissances étrangères ont utilisé des deepfakes durant le scrutin et si des mesures de prévention avaient été prises.
+                
+                
+                    Ces craintes sont aussi partagées de l'autre côté de l'Atlantique, à quelques mois du scrutin européen de 2019. Mi-octobre, une conférence sur les interférences électorales à l'ère du numérique s'est tenue à Bruxelles. L'une des sessions portait sur le thème "Faut-il croire ce que l'on voit ?" A la tête du laboratoire informatique de l'université technique de Munich, Matthias Niebner a réalisé une démonstration de deepfake grâce à une nouvelle méthode.
+                
+                
+                    En parallèle, le chercheur a développé FaceForensics pour détecter des faux en entraînant une intelligence artificielle sur plus de 1 000 contenus manipulés. En France, aucune initiative de ce type n'est encore connue. Mais le danger, lui, a déjà été bien identifié. Dans leur rapport sur les manipulations de l'information paru au mois de septembre, deux instituts français rattachés aux ministères des Armées et des Affaires étrangères détaillent une autre menace. "Un plus grand danger encore, car plus subtil que la création d'un faux, est l'altération discrète d'une partie seulement d'un contenu audio ou vidéo - un discours, par exemple. Ou encore la possibilité d'en faire un grand nombre de variations [...] pour diluer l'authentique dans la confusion." Plusieurs conditions doivent être réunies pour déstabiliser un scrutin : créer un faux, le faire diffuser sur Internet pour accroître son audience avec une intention de nuire, le tout dans une campagne coordonnée stratégique. L'enjeu est d'instiller le doute dans l'esprit des citoyens entre ce qui est vrai et ce qui faux pour les détourner de la politique. De quoi perdre même l'apôtre Thomas à l'origine de l'adage populaire "Je ne crois que ce que je vois".
+                
+                
+                    ZOOM : Le rêve de Google vire au cauchemar
+                    Créer des oeuvres d'art oniriques ou manipuler des vidéos. Derrière ces deux activités se cache le même outil informatique développé par la société Google. TensorFlow permet à des machines d'apprendre différentes tâches grâce à de grandes quantités d'images ou de vidéos. La société de Mountain View l'utilise aussi bien pour DeepDream, son programme de création d'images psychédéliques, que pour répondre à certaines requêtes de son moteur de recherche. Le groupe a décidé de publier en libre accès le code de TensorFlow en 2015. Deux ans plus tard, le mystérieux Deepfakes l'utilise pour créer des contenus pornographiques avec le visage de célébrités. De l'art au cochon.
+                
+            

@@ -1,0 +1,76 @@
+
+                A l'avenir, l'intelligence artificielle guidera les robots militaires. Les ONG et de nombreux experts s'en inquiètent.
+                
+                    Ils n'existent pas encore. Mais, déjà, des milliers de citoyens et d'experts cherchent à les interdire. Eux ? Ce sont les Systèmes d'armes létales autonomes (Sala) : des machines de guerre pilotées par une intelligence artificielle (IA), capables d'ouvrir le feu de leur propre initiative. Les ONG les décrivent déjà comme des "robots tueurs", sortes de "Terminator" implacables, destinés à remplacer les soldats sur le terrain.
+                
+                
+                    Ecoutez Sébastien Julian expliquer que l'Intelligence artificielle n'est pas près de remplacer les soldats et les armes conventionnelles. Enfin, pas tout près... (sur SoundCloud).
+                
+                
+                    L'image, caricaturale, tient aujourd'hui plus de la science-fiction que du domaine des possibles. Mais elle a le mérite de mettre les pieds dans le plat. Car plusieurs pays, notamment la Chine et les Etats-Unis, investissent massivement dans les robots militaires et l'IA. Une course qui pourrait aboutir, dans le futur, à l'émergence de systèmes armés disposant d'un niveau d'autonomie inégalé.
+                
+                
+                    Un arsenal de plus en plus automatisé
+                    L'équipement militaire a déjà beaucoup évolué. "Les fonctions de déplacement et de repérage de cibles font l'objet d'une large automatisation", constate Vincent Boulanin, chercheur à l'Institut international de recherche sur la paix de Stockholm (Sipri). La tourelle automatique Super aEgis II, par exemple, est capable de repérer une forme de taille humaine à 2 ou 3 kilomètres de distance, de jour comme de nuit. Installée à la frontière entre les deux Corées, elle détecte les explosifs, et son constructeur travaille à des mises à jour logicielles qui lui permettront, à terme, d'identifier des silhouettes amies et ennemies.
+                
+                
+                    Tout aussi impressionnants, des minitanks automatisés sont actuellement testés des deux côtés de l'Atlantique. Equipés de missiles, ils peuvent porter des charges lourdes et suivre automatiquement, voire devancer, en éclaireurs, une escouade militaire au sol... "Ces engins rendront les chars obsolètes dans certains types de missions", assure un porte-parole du fabricant estonien Milrem.
+                
+                
+                    Les drones, enfin, évoluent eux aussi. Ils savent survoler de façon autonome une zone à la recherche de "signatures" précises et exploser sur elles. Mais, bientôt, ces engins, plus petits, se déplaceront en essaims, de manière à saturer les défenses adverses. Les Américains s'entraînent déjà à larguer des paquets de drones, baptisés "Perdix" en altitude depuis des avions de chasse. Et, dans les labos, les chercheurs organisent des combats factices entre plusieurs essaims pilotés par des IA.
+                
+                
+                    (Ci-dessus, un minitank automatique américain en phase de test)
+                
+                
+                    "Pour l'instant, tous les systèmes d'armes utilisés sur le terrain conservent un homme dans la boucle", précise Vincent Boulanin. "La machine reste subordonnée à l'homme. C'est d'ailleurs la doctrine officielle des armées", confirme Patrick Bezombes, directeur adjoint du Centre interarmées de concepts, de doctrines et d'expérimentations (CICDE).
+                
+                
+                    Mais, en coulisse, certains industriels soutiennent qu'il faudra un jour se passer d'un opérateur en chair et en os, car celui-ci est trop... lent. "Sur les théâtres d'opérations, le tempo s'accélère, ce qui entraîne un raccourcissement des cycles décisionnels", concède Frédéric Coste, maître de recherches à la Fondation pour la recherche stratégique (FRS). "Aujourd'hui, on parle de missiles hypersoniques que même les batteries sol-air actuelles ne peuvent abattre", confirme Jean-Christophe Noël, chercheur associé au Centre des études de sécurité de l'Institut français des relations internationales (Ifri).
+                
+                
+                    Dans ces conditions, confier la défense aux seuls êtres humains sera bientôt une hérésie : même entraînés, leurs délais de réaction face au danger - cinq à dix secondes - sont trop lents ! "C'est la raison pour laquelle le système de défense naval Aegis, par exemple, possède un mode 'd'urgence'. Pour simplifier, il suffit d'appuyer sur un bouton et la machine gère", résume Jean-Christophe Noël.
+                
+                
+                    Une IA pour la défense... et l'attaque
+                    Dans les prochaines années, ce système gagnera encore en efficacité grâce à une dose d'IA. Mais celle-ci servira également pour les systèmes d'attaque. Plusieurs scénarios se dessinent déjà : "On peut par exemple imaginer des militaires face à des cibles fugaces", explique Frédéric Coste. Le cas s'est déjà produit en Afghanistan, où des 4x4 passaient rapidement d'un village à l'autre, laissant à peine une minute aux forces armées pour les détecter et les détruire.
+                
+                
+                    Jean-Christophe Noël évoque, lui, un scénario de troupeau où une escouade de soldats, épaulée par des robots, progresse sur le terrain en direction d'un objectif précis. En chemin, elle subit une attaque surprise, si bien que le chef de groupe envoie des automates éliminer la menace en leur laissant carte blanche. Sans perte humaine, le bataillon pourra poursuivre sa mission initiale.
+                
+                
+                    Glaçant ? "Les militaires réfléchiront très probablement à de tels emplois. Dans le futur, les robots seront capables d'analyser beaucoup de données, ils ne trembleront pas au moment de tirer, les trajectoires de leurs munitions pourront être optimisées", prévient l'expert.
+                
+                
+                    "Une chose est sûre : si une armée déploie des Sala sur le terrain, tout le monde s'alignera, car l'IA donnera un avantage décisif", assure un militaire. Quelques tests récents ont montré la supériorité de l'ordinateur sur l'homme : en octobre 2015, l'US Air Force a confronté plusieurs pilotes expérimentés à une IA nommée Alpha dans un simulateur. Résultat ? La machine a mis une raclée à ses adversaires. Elle semblait deviner à l'avance leurs moindres faits et gestes !
+                
+                
+                    Encouragées par ces résultats, les grandes puissances investissent des milliards de dollars dans ce domaine. Mais passer d'un simulateur à des combats sur le terrain ne sera pas facile. Car les Sala posent d'énormes problèmes éthiques. Osera-t-on donner le droit à une machine de tuer un humain ? Sera-t-elle capable d'éviter les bavures ? "Sans nier les vrais potentiels de l'IA, nous devons rester lucides quant à ses performances réelles, pour ne pas dire limitées. A ce jour, l'intelligence artificielle reste plus artificielle qu'intelligente", constate Patrick Bezombes.
+                
+                
+                    Pour entraîner l'IA militaire, les experts la nourrissent de petites séquences de films avec des personnages. L'objectif peut être, par exemple, de détecter une arme cachée sous une cape. "On répète l'expérience des milliers de fois et on dit à chaque fois à la machine si elle se trompe ou pas. A la fin, statistiquement, elle sait que s'il y a une forme bizarre à tel endroit, il peut y avoir un problème", explique Frédéric Coste.
+                
+                
+                    Le hic ? Cet apprentissage requiert des données qu'il faut indexer, le plus souvent à la main ! Et contrairement aux idées reçues, il en existe très peu. Au point que la Chine serait sur le point de créer des PME spécialisées dans la production de ces précieuses données !
+                
+                
+                    (Ci-dessus, un projet de robots bipèdes à vocation défensive, porté par ECA)
+                
+                
+                    Reste que, pour de nombreux spécialistes, l'IA ne pourra jamais obtenir une vision parfaite du champ de bataille. "Son fonctionnement, basé sur les statistiques, permet d'obtenir des taux de réussite de 70 ou 80 %, notamment selon la finesse des bases de données, mais atteindre 100 % paraît illusoire", assure Raja Chatila, directeur de l'Institut des systèmes intelligents et de robotique (Isir). Car jamais les experts ne pourront prévoir tous les cas de figure et les enseigner à une machine.
+                
+                
+                    L'échec cuisant d'une IA en Chine, révélé en novembre dernier, illustre la difficulté : celle-ci a cru qu'une personne traversait la rue au feu rouge, alors qu'il s'agissait en fait d'une photo plaquée sur un bus ! Heureusement, elle n'était pas armée... "Ces systèmes ne sont pas fiables. Ce serait criminel de les déployer", s'époumone Jean-Paul Laumond, roboticien et directeur de recherche au Laboratoire d'analyse et d'architecture des systèmes (Laas) du CNRS. Mais les cris d'alarme, comme ceux de Stephen Hawking et d'Elon Musk dès 2015, les pétitions et les discussions à l'ONU - démarrées en 2013 - suffiront-elles à empêcher le déploiement des Sala ? Pas sûr.
+                
+                
+                    Des décisions incompréhensibles pour l'homme
+                    Dans son livre Robots tueurs, le pilote d'hélicoptère d'attaque Brice Erbland anticipe déjà la programmation d'une éthique artificielle et de vertus humaines, comme le courage ou l'intuition. Celles-ci pourraient être embarquées dans le logiciel d'une "machine brancardière" qui serait capable, sur un champ de guerre, de rapatrier un soldat blessé du front. Soit. Mais l'IA pose un autre problème aux chercheurs. Plus elle progresse, moins on la comprend.
+                
+                
+                    "Sur ce genre de plateformes complexes, on a souvent une intrication d'algorithmes différents. Il est donc difficile d'avoir une compréhension globale du fonctionnement", prévient Frédéric Coste. Aujourd'hui, la machine commence à apprendre par elle-même. Demain, elle décidera de traiter les données d'une façon nouvelle, sans en informer l'homme. Celui-ci se retrouvera donc dans l'incapacité de comprendre les mécanismes de traitement à l'oeuvre ! Une IA tueuse impossible à comprendre ? La bataille pour ou contre les Sala ne fait que commencer.
+                
+                
+                    ZOOM : L'armée en pince pour l'IA
+                    Et si, au lieu de tenir un fusil, l'IA militaire se consacrait à des tâches plus pacifiques ? A l'avenir, elle pourrait très bien superviser la maintenance des véhicules en identifiant les pannes à l'avance, glisse un expert. Autre utilité : la gestion des documents. A l'aide de mots-clefs, l'IA sélectionnerait les meilleurs dossiers pour briefer les responsables d'équipe. Elle déterminerait si un mémo doit être classé secret-défense ou non. Mieux, en analysant les visages des soldats, elle détecterait les états de stress post-traumatique.
+                
+            

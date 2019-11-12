@@ -1,0 +1,19 @@
+
+                Un rançongiciel bloque les ordinateurs de la société Altran. Le cyberpompier de l'Etat et le parquet de Paris ont été saisis.
+                
+                    Panique chez Altran. L'entreprise française d'ingénierie et de conseils subit une attaque informatique depuis le 24 janvier dernier. L'événement, révélé dès le lendemain par la Lettre A, vient d'être confirmé ce matin par le groupe dans un communiqué de presse : "pour protéger nos clients, employés et partenaires, nous avons immédiatement déconnecté notre réseau informatique et toutes nos applications. L'enquête que nous avons menée n'a révélé aucun vol de données ni aucun cas de propagation de l'incident à nos clients"
+                
+                
+                    Selon nos informations, l'offensive s'avère si importante qu'Altran a saisi la brigade d'enquêtes sur les fraudes aux technologies de l'information (Befti) et le parquet de Paris. Le cyberpompier de l'État, l'Anssi, a également été sollicité en soutien. "Nous sommes aidés depuis jeudi dernier", indique une porte-parole de l'entreprise.
+                
+                
+                    Un nouveau rançongiciel
+                    Si cet acteur n'est pas un opérateur d'importance vitale (OIV) à proprement parler, il en compte plusieurs parmi ses clients comme Orange, EDF, Engie, Airbus ou encore Alstom. Au Royaume-Uni, sa filiale Information Risk Management (IRM) travaille même pour le ministère de la Défense britannique et le service de renseignement électronique du pays, le GCHQ. "Nous n'avons que très peu d'informations en interne, explique un syndicaliste. Tous les réseaux ont été coupés et le téléphone fixe ne fonctionne plus. Mais tout cela revient progressivement".
+                
+                
+                    Le logiciel malveillant - un nouveau rançongiciel selon Altran - s'est diffusé sur plusieurs sites en Europe et son auteur demande à être payé en bitcoin contre la clef de déchiffrement nécessaire pour récupérer l'accès aux informations et systèmes informatiques bloqués. La firme a refusé de donner le nombre de machines infectées mais assure être couverte par son assureur.
+                
+                
+                    Ce n'est pas la première fois qu'un tel incident survient. Au mois de juin 2017 déjà, Saint-Gobain avait été attaqué par NotPetya, paralysant des dizaines de milliers de PC et de serveurs dans le monde. L'assaut aurait fait perdre 220 millions d'euros de chiffre d'affaires à l'entreprise et 80 millions de résultats. "Nous ne sommes pas dans un cas de figure similaire", indique Altran. Son cours de Bourse perdait 3,2% dans la journée de lundi.
+                
+            

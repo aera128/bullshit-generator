@@ -1,0 +1,26 @@
+
+                La faille de sécurité a rendu des photos accessibles à des applications pendant une dizaine de jours.
+                
+                    Il a fallu douze jours pour la réparer. Vendredi, Facebook a annoncé qu'une faille de sécurité a rendu accessible à des applications l'ensemble des photos postées sur Facebook par 6,8 millions d'utilisateurs durant une dizaine de jours en septembre.
+                
+                
+                    Le réseau social, qui a présenté ses excuses, a mis douze jours à réparer la faille.
+                
+                
+                    Même les images non postées touchées
+                    Les utilisateurs concernés sont ceux qui ont téléchargé au moins l'une des 1 500 applications citées par Facebook, sans qu'une liste précise n'ait été fournie.
+                
+                
+                    Quand on donne l'autorisation à une application d'accéder à nos photos sur Facebook, cette dernière peut accéder aux images partagées sur notre profil. "Dans ce cas, le bug a potentiellement donné aux développeurs l'accès aux autres photos, écrit Facebook, comme celles partagées sur le Marketplace ou dans les stories Facebook." Le réseau social précise que le bug a pu permettre à ces applications tierces d'accéder aux images que l'on a téléchargées sur le site sans les poster.
+                
+                
+                    Les personnes concernées par ce bug seront averties et les développeurs des applications visées pourront eux aussi identifier les comptes affectés.
+                
+                
+                    Difficile année pour Facebook
+                    La révélation de cet incident intervient à la conclusion d'une année difficile pour Facebook, marquée notamment par le scandale Cambridge Analytica, lié à l'utilisation indue par cette société britannique des données de 50 millions d'utilisateurs du réseau social.
+                
+                
+                    La semaine dernière, une commission parlementaire britannique a accusé Facebook, sur la base de documents internes, d'avoir offert un "accès total aux données des amis des utilisateurs" de la plateforme, bien que le géant américain ait annoncé avoir renoncé à cette pratique en 2015.
+                
+            

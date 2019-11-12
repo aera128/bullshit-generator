@@ -1,0 +1,47 @@
+
+                Pour la première fois, une carte interactive permet de géolocaliser et de connaître les tarifs des professionnels de santé.
+                
+                    La Mutuelle Alan lance "Alan Map", une application qui permet à ses clients de découvrir le montant de leurs remboursements médicaux.
+                
+                
+                    Une consultation médicale est toujours source d'angoisses, petites ou grandes. Encore plus lorsqu'on ne connaît pas le praticien et... ses tarifs ! Ce qui a donné l'idée à la start-up Alan de lancer Alan Map, un site et une application capables de vous proposer par géolocalisation un praticien dans un rayon de quinze minutes, avec chaque fois le montant remboursé par la Sécurité sociale, en fonction de son secteur tarifaire (secteur 1 : sans dépassement d'honoraires, secteur 2 : dépassement libre, ou Optam : à honoraires libres modérés).
+                
+                
+                    Il est également indiqué si la carte Vitale - et donc le tiers payant - est acceptée. "Pour développer l'application, nous avons demandé à la Caisse nationale de l'assurance-maladie l'autorisation de nous appuyer sur les données d'Ameli.fr, pour les 'repackager' en y ajoutant des outils simples de recherche", explique Jean-Charles Samuelian, cofondateur et PDG d'Alan, un assureur santé créé en 2016, qui a eu l'idée de lancer la carte interactive en juillet dernier. Pour ce qui est des dentistes, dont les tarifs sont encore libres sur les prothèses et l'orthodontie, la jeune pousse a dû sélectionner 12 actes parmi les plus pratiqués (couronne, bridge, inlay-cores...) pour classer les praticiens.
+                
+                
+                    L'autre intérêt d'Alan Map est qu'il référence la plupart des professionnels, assurent les créateurs. La carte interactive recense ainsi pas moins de 340 000 praticiens français, et les tarifs par acte pour 100 000 d'entre eux. Pratique pour trouver un spécialiste près de son domicile ou de son travail. "L'idée est d'enrichir cette base avec les retours des utilisateurs et des médecins eux-mêmes", souligne Jean-Charles Samuelian. Prochaine étape : un partenariat avec MonDocteur, une des nombreuses applications permettant de prendre rendez-vous vous en ligne, afin de proposer un outil complet.
+                
+                
+                    Les chiffres
+                    340 000 praticiens de santé référencés
+                
+                
+                    100 000 praticiens dont les tarifs sont renseignés
+                
+                
+                    Jean-Charles Samuelian du tac au tac
+                    Votre père est médecin, c'est ce qui vous a poussé à monter une start-up médicale ?
+                
+                
+                    Tout à fait ! Je suis issu d'une famille de médecins et de chefs de services hospitaliers. Je me suis toujours interrogé sur la meilleure façon d'améliorer les interactions entre le patient et les professionnels de santé. Cela s'est notamment cristallisé quand le cancer de mon grand-père a été diagnostiqué.
+                
+                
+                    Votre père vous donne-t-il des conseils ?
+                
+                
+                    Bien sûr ! Nous échangeons régulièrement. Il m'aide énormément en me faisant bénéficier de son expérience. Mais, plus largement, nous essayons d'avoir des contacts réguliers avec, d'un côté, les utilisateurs, et, de l'autre, des professionnels de santé, pour améliorer en permanence Alan Map.
+                
+                
+                    Peut-on imaginer un système de notation,une sorte de Trip Advisor médical ?
+                
+                
+                    Ce n'est pas du tout l'état d'esprit de notre outil. D'autant plus que nous nous mettrions alors très rapidement les médecins à dos !
+                
+                
+                    Votre partenariat avec MonDocteur semble avoir pris du retard ?
+                
+                
+                    MonDocteur a connu une actualité intense ces dernières semaines avec son rachat par Doctolib. Un rachat qui a effectivement un peu gelé nos échanges.
+                
+            
